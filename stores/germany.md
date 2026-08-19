@@ -1,0 +1,35 @@
+# LEGO Stores in Germany
+
+27 stores on record, 26 open, 1 closed.
+
+| Store | City | Address | Status | Services | Map |
+| --- | --- | --- | --- | --- | --- |
+| LEGO Store Berlin Airport | Berlin | Willy-Brandt-Platz, Schönefeld 12521, Germany | Open | – | [map](https://www.openstreetmap.org/?mlat=52.51739&mlon=13.39513#map=17/52.51739/13.39513) |
+| LEGO® Flagshipstore Berlin | Berlin | – | **Closed 2025** | Build a Minifigure, Minifigure Factory, Mosaic Maker, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=52.51739&mlon=13.39513#map=17/52.51739/13.39513) |
+| LEGO® Store Berlin | Berlin | Tauentzienstraße 8, Berlin 10789, Germany | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=52.51739&mlon=13.39513#map=17/52.51739/13.39513) |
+| LEGO® Store Mall of Berlin | Berlin | Leipziger Platz 12, Berlin 10117, Germany | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=52.51739&mlon=13.39513#map=17/52.51739/13.39513) |
+| LEGOLAND Discovery Center Berlin | Berlin | – | Open | – | [map](https://www.openstreetmap.org/?mlat=52.51739&mlon=13.39513#map=17/52.51739/13.39513) |
+| LEGO® Store Bonn | Bonn | Poststraße, Bonn 53111, Germany | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=50.73526&mlon=7.10246#map=17/50.73526/7.10246) |
+| LEGO® Store Köln | Cologne | Hohe Straße 77-79, Köln 50667, Germany | Open | Build a Minifigure, Minifigure Factory, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=50.93836&mlon=6.95997#map=17/50.93836/6.95997) |
+| LEGO® Store Dresden | Dresden | Altmarkt-Galerie, Webergasse 1, Dresden 01067, Germany | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=51.04933&mlon=13.73814#map=17/51.04933/13.73814) |
+| LEGO® Store Düsseldorf | Düsseldorf | Flinger Strasse 50, Düsseldorf 40213, Germany | Open | Build a Minifigure, Minifigure Factory, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=51.2254&mlon=6.77631#map=17/51.2254/6.77631) |
+| LEGO® Store Essen | Essen | Limbecker Straße 25, Essen 45127, Germany | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=51.45822&mlon=7.01582#map=17/51.45822/7.01582) |
+| LEGO® Store Frankfurt | Frankfurt | Zeil 106, Frankfurt 60313, Germany | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=50.11064&mlon=8.68209#map=17/50.11064/8.68209) |
+| LEGO® Store Frankfurt MTZ | Frankfurt | Main-Taunus-Zentrum Unit 23, Frankfurt 65843, Germany | Open | – | [map](https://www.openstreetmap.org/?mlat=50.11725&mlon=8.52747#map=17/50.11725/8.52747) |
+| LEGOLAND Deutschland | Günzburg | – | Open | Build a Minifigure, Mosaic Maker, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=48.46898&mlon=10.27453#map=17/48.46898/10.27453) |
+| LEGO® Store Hamburg | Hamburg | Spitalerstraße 12, Hamburg 20095, Germany | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=53.55017&mlon=10.00132#map=17/53.55017/10.00132) |
+| LEGOLAND Discovery Center Hamburg | Hamburg | – | Open | – | [map](https://www.openstreetmap.org/?mlat=53.55017&mlon=10.00132#map=17/53.55017/10.00132) |
+| LEGO® Store Hannover | Hannover | Grosse Packhofstrasse 30, Hannover 30159, Germany | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=52.37448&mlon=9.73855#map=17/52.37448/9.73855) |
+| LEGO® Store Leipzig | Leipzig | Brühl 1, Leipzig 04109, Germany | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=51.34063&mlon=12.37473#map=17/51.34063/12.37473) |
+| LEGO Store Flughafen München Terminal 1 | Munich | Terminalstraße West, München-Flughafen 85356, Germany | Open | – | [map](https://www.openstreetmap.org/?mlat=48.13711&mlon=11.57538#map=17/48.13711/11.57538) |
+| LEGO Store Munich Airport T2 | Munich | Terminalstraße Nord, München-Flughafen 85356, Germany | Open | – | [map](https://www.openstreetmap.org/?mlat=48.13711&mlon=11.57538#map=17/48.13711/11.57538) |
+| LEGO® Store München Pasing | Munich | Pasinger Bahnhofsplatz 5, München 81241, Germany | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=48.13711&mlon=11.57538#map=17/48.13711/11.57538) |
+| LEGO® Store München Riem Arcaden | Munich | Willy-Brandt-Platz 5, München 81829, Germany | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=48.13711&mlon=11.57538#map=17/48.13711/11.57538) |
+| LEGO® Store München Zentrum | Munich | Kaufingerstrasse 9, Munich 80331, Germany | Open | Build a Minifigure, Minifigure Factory, Mosaic Maker, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=48.13711&mlon=11.57538#map=17/48.13711/11.57538) |
+| LEGO® Store Nürnberg | Nuremberg | Breite Gasse 39, Nürnberg 90402, Germany | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=49.45387&mlon=11.0773#map=17/49.45387/11.0773) |
+| LEGO® Store Oberhausen | Oberhausen | Centroallee 170, Oberhausen 46047, Germany | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=51.46961&mlon=6.85144#map=17/51.46961/6.85144) |
+| LEGOLAND Discovery Center Oberhausen | Oberhausen | – | Open | – | [map](https://www.openstreetmap.org/?mlat=51.46961&mlon=6.85144#map=17/51.46961/6.85144) |
+| LEGO® Store Saarbrücken | Saarbrücken | Bahnhofstraße 77, Saarbrücken 66111, Germany | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=49.23436&mlon=6.99638#map=17/49.23436/6.99638) |
+| LEGO® Store Stuttgart | Stuttgart | Königstrasse 43B, Stuttgart 70173, Germany | Open | Build a Minifigure, Minifigure Factory, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=48.77845&mlon=9.18001#map=17/48.77845/9.18001) |
+
+Last generated 2026-08-19. Corrections belong in [Brick Passport](https://brick-passport.com), not in this file.

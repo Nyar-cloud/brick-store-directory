@@ -1,0 +1,37 @@
+# LEGO Stores in France
+
+29 stores on record, 29 open.
+
+| Store | City | Address | Status | Services | Map |
+| --- | --- | --- | --- | --- | --- |
+| LEGO® Store Annecy | Annecy | Centre Commercial Courrier - 65 rue Carnot., Annecy 74000, France | Open | – | [map](https://www.openstreetmap.org/?mlat=45.90405&mlon=6.12334#map=17/45.90405/6.12334) |
+| LEGO® Biarritz | Biarritz | Av. Jean Léon Laporte, 64600 Anglet, Francia, Anglet 64600, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=43.48325&mlon=-1.55928#map=17/43.48325/-1.55928) |
+| LEGO® Store Bordeaux Sainte-Catherine | Bordeaux | Promenade Sainte Catherine - Rue Guiraude, Bordeaux 33000, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=44.84123&mlon=-0.58004#map=17/44.84123/-0.58004) |
+| LEGO® Store Cergy | Cergy | LES 3 FONTAINES, RUE DE LA CROIX DES MAHEUX, Cergy 95000, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=49.05275&mlon=2.03887#map=17/49.05275/2.03887) |
+| LEGO® Store Clermont-Ferrand | Clermont-Ferrand | Centre Commercial Carré Jaude - 2 rue Giscard de la tour fondue, Clermont-Ferrand 63000, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.77746&mlon=3.08194#map=17/45.77746/3.08194) |
+| LEGO® Store Créteil | Créteil | Créteil Soleil - Avenue de la France Libre, Créteil 94000, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=48.77715&mlon=2.45307#map=17/48.77715/2.45307) |
+| LEGO® Store Dijon | Dijon | Centre Commercial La Toison d'Or, Route de Langres, Dijon 21000, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=47.32158&mlon=5.04147#map=17/47.32158/5.04147) |
+| LEGO® Store Grenoble | Grenoble | 55 Grand Place, Grenoble 38100, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.18756&mlon=5.73578#map=17/45.18756/5.73578) |
+| LEGO® Store Le Havre | Le Havre | 70 Quai Frissard, Le Havre 76600, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=49.4939&mlon=0.10797#map=17/49.4939/0.10797) |
+| LEGO® Store Lens | Lens | Centre commercial Aushopping Noyelles, Avenue de la République, Lens 62950, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=50.42917&mlon=2.83198#map=17/50.42917/2.83198) |
+| LEGO® Store Carré Sénart | Lieusaint | 3 All. du Préambule, Lieusaint, Francia, Paris 77127, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=48.63166&mlon=2.55148#map=17/48.63166/2.55148) |
+| LEGO® Store Lille | Lille | Centre Commercial Euralille - 100 Avenue Willy Brandt, Lille 59800, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=50.63657&mlon=3.06353#map=17/50.63657/3.06353) |
+| LEGO Store Lyon Airport | Lyon | Aéroport Lyon Saint-Exupéry, Terminal 1, nach der Sicherheitskontrolle, Colombier-Saugnieu 69125, France | Open | – | [map](https://www.openstreetmap.org/?mlat=45.75781&mlon=4.83201#map=17/45.75781/4.83201) |
+| LEGO® Store Lyon La Part-Dieu | Lyon | Centre commercial La Part Dieu - 17 Rue du Docteur Bouchut, Lyon 69003, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.75781&mlon=4.83201#map=17/45.75781/4.83201) |
+| LEGO® Store at Disneyland® Paris | Marne-la-Vallée | Euro Disneyland Paris - Disney Village - 34 Route Nationale, Chessy 77700, France | Open | Build a Minifigure, Minifigure Factory, Mosaic Maker, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=48.8593&mlon=2.5989#map=17/48.8593/2.5989) |
+| LEGO® Store Marseille | Marseille | Centre Commercial Les Terrasses du Port - 9 Quai du Lazaret, Marseille 13002, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=43.2964&mlon=5.37779#map=17/43.2964/5.37779) |
+| LEGO® Store Metz | Metz | Centre commercial MUSE, 2 Rue des Messageries, 57000 Metz, Metz 57000, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=49.1197&mlon=6.17636#map=17/49.1197/6.17636) |
+| LEGO Certified Store Montpellier | Montpellier | Centre commercial Polygone, Montpellier 34000, France | Open | – | [map](https://www.openstreetmap.org/?mlat=43.61124&mlon=3.87673#map=17/43.61124/3.87673) |
+| LEGO® Store Nancy | Nancy | 7 Rue S. Georges, Nancy, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=48.69372&mlon=6.18341#map=17/48.69372/6.18341) |
+| LEGO® Store Nantes | Nantes | BOULEVARD SALVADOR ALLENDE, SAINT-HERBLAIN 44800, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=47.21864&mlon=-1.55414#map=17/47.21864/-1.55414) |
+| LEGO® Store Nice | Nice | Centre Commercial Cap 3000 - Avenue Eugène Donadeï, Saint-Laurent-du-Var 06700, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=43.70094&mlon=7.26839#map=17/43.70094/7.26839) |
+| LEGO® Store Paris - Les Halles | Paris | 1, Passage de la Canopée, Paris 75001, France | Open | Build a Minifigure, Mosaic Maker, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=48.8535&mlon=2.34839#map=17/48.8535/2.34839) |
+| LEGO® Store Paris, Les 4 Temps | Paris | 15 Parv. de la Défense, 92092 Puteaux, Paris 92092, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=48.8535&mlon=2.34839#map=17/48.8535/2.34839) |
+| LEGO® Store Paris, So Ouest | Paris | Centre Commercial So Ouest -21 rue d'Alsace, Levallois-Perret 92300, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=48.8535&mlon=2.34839#map=17/48.8535/2.34839) |
+| LEGO® Store Rennes | Rennes | RENNES ALMA, 5, Rue du Bosphore, Rennes 35200, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=48.11134&mlon=-1.68002#map=17/48.11134/-1.68002) |
+| LEGO® Store Rosny | Rosny-sous-Bois | Centre commercial Rosny 2, Avenue du Général de Gaulle, Rosny-sous-Bois 93110, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=48.87166&mlon=2.48752#map=17/48.87166/2.48752) |
+| LEGO® Store Strasbourg | Strasbourg | Place des Halles, Strasbourg 67000, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=48.58461&mlon=7.75071#map=17/48.58461/7.75071) |
+| LEGO® Store Toulon | Toulon | Centre Commercial Grand Var, La Valette-du-Var 83160, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=43.12573&mlon=5.93049#map=17/43.12573/5.93049) |
+| LEGO® Store Toulouse | Toulouse | Centre Commercial Blagnac, 2 Allée Emile Zola, Blagnac 31700, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=43.60446&mlon=1.44424#map=17/43.60446/1.44424) |
+
+Last generated 2026-08-19. Corrections belong in [Brick Passport](https://brick-passport.com), not in this file.
