@@ -1,0 +1,38 @@
+name: Correction
+description: Something in the list is wrong
+title: "[Correction] "
+labels: ["correction"]
+body:
+  - type: input
+    id: store
+    attributes:
+      label: Which store
+      description: Name, or the id from data/stores.json.
+    validations:
+      required: true
+  - type: dropdown
+    id: feld
+    attributes:
+      label: What is wrong
+      options:
+        - Name
+        - Name in the local script
+        - Address
+        - City or country
+        - Coordinates on the map
+        - Phone number
+        - Services (Pick a Brick, Build a Minifigure, ...)
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: richtig
+    attributes:
+      label: What it should say
+    validations:
+      required: true
+  - type: input
+    id: quelle
+    attributes:
+      label: Source
+      description: Whatever shows the correct value. A map link works well for a position.

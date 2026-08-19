@@ -1,0 +1,32 @@
+name: Store closed
+description: A store on the list has shut down
+title: "[Closed] "
+labels: ["closure"]
+body:
+  - type: input
+    id: store
+    attributes:
+      label: Which store
+      description: Name, or the id from data/stores.json.
+      placeholder: LEGO® Store Rockefeller Center, New York
+    validations:
+      required: true
+  - type: input
+    id: jahr
+    attributes:
+      label: Year it closed
+      placeholder: "2023"
+    validations:
+      required: true
+  - type: input
+    id: quelle
+    attributes:
+      label: Source
+      description: An article, an operator's notice, a photo of the empty unit, an archived store page.
+    validations:
+      required: true
+  - type: textarea
+    id: mehr
+    attributes:
+      label: Anything else
+      description: Did it move somewhere else? Was it temporary all along?

@@ -1,0 +1,46 @@
+name: New store
+description: A LEGO store that is missing from the list
+title: "[New store] "
+labels: ["new store"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Store name
+      placeholder: LEGO® Store Eastland
+    validations:
+      required: true
+  - type: input
+    id: ort
+    attributes:
+      label: City and country
+      placeholder: Ringwood, Australia
+    validations:
+      required: true
+  - type: input
+    id: adresse
+    attributes:
+      label: Address
+      placeholder: 171-175 Maroondah Hwy, Ringwood VIC 3134
+  - type: input
+    id: eroeffnet
+    attributes:
+      label: Opening date
+      description: If you know it. A year on its own is fine.
+  - type: input
+    id: quelle
+    attributes:
+      label: Source
+      description: A link to the store page, the mall directory, an article, or a dated photo.
+    validations:
+      required: true
+  - type: input
+    id: lokal
+    attributes:
+      label: Name in the local script
+      description: For stores in China, Japan, Korea and elsewhere, if you know it.
+  - type: textarea
+    id: mehr
+    attributes:
+      label: Anything else
+      description: Phone number, opening hours, Pick a Brick wall, whether it is a pop-up.
