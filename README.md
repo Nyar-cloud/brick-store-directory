@@ -2,7 +2,7 @@
 
 An open list of every LEGO® store we know of: **999 stores** in **57 countries**, 990 of them open, 9 closed.
 
-Data as of **2026-08-19**, regenerated every Monday.
+Last change **2026-08-19**. The list is rebuilt every Monday; [CHANGELOG.md](CHANGELOG.md) records what moved.
 
 ## What is in here
 
@@ -10,7 +10,10 @@ Data as of **2026-08-19**, regenerated every Monday.
 | --- | --- |
 | [`data/stores.json`](data/stores.json) | All stores, one JSON array, the canonical form |
 | [`data/stores.csv`](data/stores.csv) | The same list as CSV, ready for spreadsheets and My Maps |
+| [`data/stores.geojson`](data/stores.geojson) | The 990 stores with coordinates, drawn as a map by GitHub itself |
 | [`stores/`](stores/) | One readable page per country |
+| [`stores/closed.md`](stores/closed.md) | Every store that has shut down, newest first |
+| [`CHANGELOG.md`](CHANGELOG.md) | What changed, week by week |
 
 ## Stores by continent
 
@@ -101,13 +104,17 @@ Data as of **2026-08-19**, regenerated every Monday.
 | `latitude`, `longitude` | Coordinates. Some are city centres rather than the shop door |
 | `phone` | Public phone number of the store |
 | `services` | `bam`, `pab`, `minifigure_factory`, `mosaic_maker` |
+| `url`, `country_url` | The store and its country on Brick Passport |
 | `updated` | When the record was last edited |
+
+Identifiers stay stable and fields are only ever added, never renamed or removed.
+You can build on this file without watching for surprises.
 
 ## Where the data comes from
 
-This directory is generated from [Brick Passport](https://brick-passport.com), a collection site for LEGO store stamps.
+This directory is generated from [Brick Passport](https://brickstorestamps.com), a collection site for LEGO store stamps.
 It is a one-way copy: the site is the source, this repository is the mirror, and it is rebuilt from scratch on every run.
-Edits made here are overwritten, so please report corrections and new stores on the site or as an issue.
+Edits made here are overwritten, so please report corrections and new stores as an [issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Coordinates are good enough to find the right town, not always the right doorway.
 Closures are marked with the year where it is known.
