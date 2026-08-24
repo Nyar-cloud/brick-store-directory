@@ -13,4 +13,4 @@ See [New Zealand on Brick Passport](https://brickstorestamps.com/explore/stores/
 | [LEGO® Store Westfield Riccarton](https://brickstorestamps.com/stores/store-lego-store-westfield-riccarton) | Christchurch | Shop S230,Westfield Riccarton,129 Riccarton Road, Riccarton Christchurch 8041, New Zealand | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=-43.53095&mlon=172.63643#map=17/-43.53095/172.63643) |
 | [LEGO® Store Wellington](https://brickstorestamps.com/stores/store-lego-store-wellington) | Wellington | Part ground floor, Shop 11 Aon Centre, 1 Willis Street, Wellington 6011, New Zealand | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=-41.2888&mlon=174.77721#map=17/-41.2888/174.77721) |
 
-Last change 2026-08-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

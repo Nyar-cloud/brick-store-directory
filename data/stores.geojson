@@ -13737,6 +13737,29 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -103.32117,
+     20.64722
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-forum-tlaquepaque",
+    "name": "LEGO® Store Forum Tlaquepaque",
+    "name_local": null,
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "type": "official",
+    "closed_year": null,
+    "address": "Blvd. Gral. Marcelino García Barragán 1828, Guadalajara 44840, Mexico",
+    "phone": null,
+    "services": "bam, pab",
+    "url": "https://brickstorestamps.com/stores/store-lego-store-forum-tlaquepaque"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -103.3384,
      20.67204
     ]
@@ -13783,6 +13806,29 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -110.95041,
+     29.06574
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-galerias-sonora",
+    "name": "LEGO® Store Galerías Sonora",
+    "name_local": null,
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "type": "official",
+    "closed_year": null,
+    "address": "Av. Cultura 55, Local LO-D07 y D08, Proyecto Río Sonora Hermosillo XXI, Hermosillo 83280, Mexico",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-galerias-sonora"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -101.68298,
      21.12196
     ]
@@ -13822,6 +13868,29 @@
     "phone": null,
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-galerias-merida"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.6205,
+     19.25896
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-galerias-metepec",
+    "name": "LEGO® Store Galerías Metepec",
+    "name_local": null,
+    "city": "Metepec",
+    "country": "Mexico",
+    "type": "official",
+    "closed_year": null,
+    "address": "Blvd. Toluca-Metepec Norte 400, Arboleda-Ex Rancho la Purísima, Metepec 52140, Mexico",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-galerias-metepec"
    }
   },
   {
@@ -13990,6 +14059,29 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -100.39599,
+     25.73213
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-cumbres-monterrey",
+    "name": "LEGO® Store Cumbres Monterrey",
+    "name_local": null,
+    "city": "Monterrey",
+    "country": "Mexico",
+    "type": "official",
+    "closed_year": null,
+    "address": "Plaza Cumbres, Av. Paseo de los Leones, Cumbres, Monterrey 64610, Mexico",
+    "phone": null,
+    "services": "bam, pab",
+    "url": "https://brickstorestamps.com/stores/store-lego-store-cumbres-monterrey"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -100.31526,
      25.6802
     ]
@@ -14121,6 +14213,29 @@
     "phone": null,
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-angelopolis"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.26659,
+     19.13217
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-premier-puebla",
+    "name": "LEGO® Store Premier Puebla",
+    "name_local": null,
+    "city": "Puebla",
+    "country": "Mexico",
+    "type": "official",
+    "closed_year": null,
+    "address": "Outlet Puebla Premier, Autopista México-Puebla km 115, San Francisco Ocotlán 72680, Mexico",
+    "phone": "222 226 7000",
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-premier-puebla"
    }
   },
   {
@@ -19037,8 +19152,8 @@
     "name_local": null,
     "city": "Alpharetta",
     "country": "USA",
-    "type": "official",
-    "closed_year": null,
+    "type": "closed",
+    "closed_year": 2025,
     "address": null,
     "phone": null,
     "services": "bam, pab",
@@ -19400,8 +19515,8 @@
     ]
    },
    "properties": {
-    "id": "store-lego-discovery-centre-store-boston",
-    "name": "LEGO® Discovery Centre Store Boston",
+    "id": "store-legoland-discovery-center-boston",
+    "name": "LEGOLAND Discovery Center Boston",
     "name_local": null,
     "city": "Boston",
     "country": "USA",
@@ -19410,7 +19525,7 @@
     "address": "598 Assembly Row, Somerville, Massachusetts 02145, USA",
     "phone": "617-702-5593",
     "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-discovery-centre-store-boston"
+    "url": "https://brickstorestamps.com/stores/store-legoland-discovery-center-boston"
    }
   },
   {
@@ -19982,33 +20097,10 @@
     "country": "USA",
     "type": "official",
     "closed_year": null,
-    "address": null,
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-legoland-discovery-center-new-jersey-american-dream"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -74.09709,
-     40.83399
-    ]
-   },
-   "properties": {
-    "id": "store-legoland-discovery-centre-store-american-dream-mall",
-    "name": "LEGOLAND® Discovery Centre Store American Dream Mall",
-    "name_local": null,
-    "city": "East Rutherford",
-    "country": "USA",
-    "type": "official",
-    "closed_year": null,
     "address": "1 American Dream Way, Court A Level 1, East Rutherford, New Jersey 07073, USA",
     "phone": null,
     "services": null,
-    "url": "https://brickstorestamps.com/stores/store-legoland-discovery-centre-store-american-dream-mall"
+    "url": "https://brickstorestamps.com/stores/store-legoland-discovery-center-new-jersey-american-dream"
    }
   },
   {
@@ -22148,29 +22240,6 @@
     "phone": "224-309-2278",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-old-orchard-centernew"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -71.0995,
-     42.3876
-    ]
-   },
-   "properties": {
-    "id": "store-legoland-discovery-center-boston",
-    "name": "LEGOLAND Discovery Center Boston",
-    "name_local": null,
-    "city": "Somerville",
-    "country": "USA",
-    "type": "official",
-    "closed_year": null,
-    "address": null,
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-legoland-discovery-center-boston"
    }
   },
   {

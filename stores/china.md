@@ -254,4 +254,4 @@ See [China on Brick Passport](https://brickstorestamps.com/explore/stores/list/a
 | [LEGO® Store Fuhuali Midtown](https://brickstorestamps.com/stores/store-lego-store-fuhuali-midtown) | Zhuhai | 2023-2035 West Jiuzhou Avenue,, Zhuhai, China | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=22.27373&mlon=113.57213#map=17/22.27373/113.57213) |
 | [LEGO® Store Zhuhai Haufa Shangdu (LEGO乐高授权专卖店(华发商都店))](https://brickstorestamps.com/stores/store-lego-store-zhuhai-haufa-shangdu-lego) | Zhuhai | 珠海市香洲区大道华发商都B馆一层B1007A号 | Open | – | [map](https://www.openstreetmap.org/?mlat=22.2246&mlon=113.5114#map=17/22.2246/113.5114) |
 
-Last change 2026-08-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

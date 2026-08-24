@@ -15,4 +15,4 @@ See [Colombia on Brick Passport](https://brickstorestamps.com/explore/stores/lis
 | [LEGO® Store Viva Envigado](https://brickstorestamps.com/stores/store-lego-store-viva-envigado) | Envigado | CC Viva. Carrera 48 #32B sur -139 local 126 piso 1, Envigado, Colombia | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=6.17013&mlon=-75.58741#map=17/6.17013/-75.58741) |
 | [LEGO® Store El Tesoro](https://brickstorestamps.com/stores/store-lego-store-el-tesoro) | Medellín | CC El Tesoro. Carrera 25A #1A Sur 45, Medellín 050022, Colombia | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=6.26973&mlon=-75.60256#map=17/6.26973/-75.60256) |
 
-Last change 2026-08-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

@@ -14,4 +14,4 @@ See [Portugal on Brick Passport](https://brickstorestamps.com/explore/stores/lis
 | [LEGO® Store Lisbon](https://brickstorestamps.com/stores/store-lego-store-lisbon) | Lisbon | Centro Colombo, Av. Lusíada, Lisboa 1500-392, Portugal | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=38.70775&mlon=-9.13659#map=17/38.70775/-9.13659) |
 | [LEGO® Store NorteShopping Porto](https://brickstorestamps.com/stores/store-lego-store-norteshopping-porto) | Porto | R. Sara Afonso, 4460-841, Sra. da Hora, Portugal | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=41.15022&mlon=-8.61035#map=17/41.15022/-8.61035) |
 
-Last change 2026-08-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

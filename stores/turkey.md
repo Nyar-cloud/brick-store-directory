@@ -21,4 +21,4 @@ See [Turkey on Brick Passport](https://brickstorestamps.com/explore/stores/list/
 | [LEGOLAND Discovery Center Istanbul](https://brickstorestamps.com/stores/store-legoland-discovery-center-istanbul) | Istanbul | – | Open | – | [map](https://www.openstreetmap.org/?mlat=41.00638&mlon=28.97587#map=17/41.00638/28.97587) |
 | [LEGO® Store Hilltown İzmir (Certified Store)](https://brickstorestamps.com/stores/store-lego-store-hilltown-izmir-certified-store) | Izmir | Yalı Mahallesi 6222 sokak No.3, Karşıyaka, Izmir 35550, Turkey | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=38.41925&mlon=27.12847#map=17/38.41925/27.12847) |
 
-Last change 2026-08-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

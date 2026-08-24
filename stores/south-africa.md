@@ -14,4 +14,4 @@ See [South Africa on Brick Passport](https://brickstorestamps.com/explore/stores
 | [LEGO® Store Menlyn (Certified Store)](https://brickstorestamps.com/stores/store-lego-store-menlyn-certified-store) | Pretoria | G157 Menlyn Park Shopping Centre, Pretoria 0181, South Africa | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=-25.74593&mlon=28.18791#map=17/-25.74593/28.18791) |
 | [LEGO® Store Gateway (Certified Store)](https://brickstorestamps.com/stores/store-lego-store-gateway-certified-store) | Umhlanga | Shops F145 & F146 Gateway, Umhlanga 4319, South Africa | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=-29.73&mlon=31.08278#map=17/-29.73/31.08278) |
 
-Last change 2026-08-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

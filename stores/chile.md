@@ -17,4 +17,4 @@ See [Chile on Brick Passport](https://brickstorestamps.com/explore/stores/list/s
 | [LEGO® Store Vespucio](https://brickstorestamps.com/stores/store-lego-store-vespucio) | Santiago | Av. Vicuña Mackenna Ote. 7110, Santiago de Chile 8242165, Chile | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=-33.4377&mlon=-70.65107#map=17/-33.4377/-70.65107) |
 | [LEGO® Store Marina Arauco](https://brickstorestamps.com/stores/store-lego-store-marina-arauco) | Viña del Mar | Av. 14 Norte 880 local 25, Viña del Mar 2530900, Chile | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=-33.02445&mlon=-71.55176#map=17/-33.02445/-71.55176) |
 
-Last change 2026-08-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

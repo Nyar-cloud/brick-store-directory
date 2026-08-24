@@ -10,4 +10,4 @@ See [Costa Rica on Brick Passport](https://brickstorestamps.com/explore/stores/l
 | [LEGO® Store Oxigeno](https://brickstorestamps.com/stores/store-lego-store-oxigeno) | Heredia | CC. Oxígeno, 40103, San Francisco de Heredia 40103, Costa Rica | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=9.99843&mlon=-84.11712#map=17/9.99843/-84.11712) |
 | [LEGO® Store Lincoln](https://brickstorestamps.com/stores/store-lego-store-lincoln) | San José | Lincoln Plaza, San Vicente M., 11401, Costa Rica | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=10.78113&mlon=-84.38114#map=17/10.78113/-84.38114) |
 
-Last change 2026-08-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

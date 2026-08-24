@@ -36,4 +36,4 @@ See [France on Brick Passport](https://brickstorestamps.com/explore/stores/list/
 | [LEGO® Store Toulon](https://brickstorestamps.com/stores/store-lego-store-toulon) | Toulon | Centre Commercial Grand Var, La Valette-du-Var 83160, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=43.12573&mlon=5.93049#map=17/43.12573/5.93049) |
 | [LEGO® Store Toulouse](https://brickstorestamps.com/stores/store-lego-store-toulouse) | Toulouse | Centre Commercial Blagnac, 2 Allée Emile Zola, Blagnac 31700, France | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=43.60446&mlon=1.44424#map=17/43.60446/1.44424) |
 
-Last change 2026-08-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

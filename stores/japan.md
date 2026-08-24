@@ -51,4 +51,4 @@ See [Japan on Brick Passport](https://brickstorestamps.com/explore/stores/list/a
 | [LEGO® Store Yokohama Bayside](https://brickstorestamps.com/stores/store-lego-store-yokohama-bayside) | Yokohama | 金沢区白帆5－2 三井アウトレットパーク 横浜ベイサイド 10530, 神奈川県横浜市 236-0007, Japan | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=35.45034&mlon=139.63438#map=17/35.45034/139.63438) |
 | [LEGO® Store Yokohama Landmark Plaza](https://brickstorestamps.com/stores/store-lego-store-yokohama-landmark-plaza) | Yokohama | 西区みなとみらい2-2-1 横浜ランドマークプラザ2F, 神奈川県横浜市 220-0012, Japan | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=35.45034&mlon=139.63438#map=17/35.45034/139.63438) |
 
-Last change 2026-08-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

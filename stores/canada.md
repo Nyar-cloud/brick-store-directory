@@ -24,4 +24,4 @@ See [Canada on Brick Passport](https://brickstorestamps.com/explore/stores/list/
 | [LEGOLAND Discovery Centre Toronto](https://brickstorestamps.com/stores/store-legoland-discovery-centre-toronto) | Toronto | – | Open | – | [map](https://www.openstreetmap.org/?mlat=43.65348&mlon=-79.38393#map=17/43.65348/-79.38393) |
 | [LEGO® Store Winnipeg](https://brickstorestamps.com/stores/store-lego-store-winnipeg) | Winnipeg | 1485 Portage Avenue Unit 0210A, Winnipeg R3G 0W4, Canada | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=49.89554&mlon=-97.13846#map=17/49.89554/-97.13846) |
 
-Last change 2026-08-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

@@ -16,4 +16,4 @@ See [Saudi Arabia on Brick Passport](https://brickstorestamps.com/explore/stores
 | [LEGO® Store Panorama Mall](https://brickstorestamps.com/stores/store-lego-store-panorama-mall) | Riyadh | Al Mathar Ash Shamali, 6526, Riyadh 12332, Saudi Arabia | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=24.63892&mlon=46.71601#map=17/24.63892/46.71601) |
 | [LEGO® Store Riyadh Park Mall](https://brickstorestamps.com/stores/store-lego-store-riyadh-park-mall) | Riyadh | Park Mall, Nortern Ring Br Rd, Al Aqiq, Riyadh 11564, Saudi Arabia | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=24.63892&mlon=46.71601#map=17/24.63892/46.71601) |
 
-Last change 2026-08-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

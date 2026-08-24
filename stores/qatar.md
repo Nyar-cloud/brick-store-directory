@@ -11,4 +11,4 @@ See [Qatar on Brick Passport](https://brickstorestamps.com/explore/stores/list/a
 | [LEGO® Store Place Vendôme Mall](https://brickstorestamps.com/stores/store-lego-store-place-vendome-mall) | Doha | Place Vendôme Mall, Lusail (Doha), Qatar | Open | – | [map](https://www.openstreetmap.org/?mlat=25.31088&mlon=51.50818#map=17/25.31088/51.50818) |
 | [LEGO® Store The Gate Mall](https://brickstorestamps.com/stores/store-lego-store-the-gate-mall) | Doha | Ground Floor, North Entarance 2 - The Gate Mall, al Dafna Qatar, Doha, Qatar, Qatar | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=25.28563&mlon=51.52642#map=17/25.28563/51.52642) |
 
-Last change 2026-08-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
