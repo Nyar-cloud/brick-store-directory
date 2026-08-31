@@ -100,6 +100,7 @@ Last change **2026-08-24**. The list is rebuilt every Monday; [CHANGELOG.md](CHA
 | `name`, `name_local` | Store name, plus the local-script name where one exists |
 | `type` | `official`, `popup` or `closed` |
 | `closed`, `closed_year` | Whether the store is permanently closed, and the year it closed |
+| `moved_to` | If the store moved, the id of the location that replaced it |
 | `popup_from`, `popup_to` | Run of a temporary store (ISO dates) |
 | `continent`, `country`, `city` | Location, in English |
 | `address`, `address_local` | Street address, plus the local-script version where one exists |
