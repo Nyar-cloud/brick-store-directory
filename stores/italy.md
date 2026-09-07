@@ -43,4 +43,4 @@ See [Italy on Brick Passport](https://brickstorestamps.com/explore/stores/list/e
 | [LEGO® Store CC Adigeo](https://brickstorestamps.com/stores/store-lego-store-cc-adigeo) | Verona | Via delle Nazioni 1, Verona 37135, Italy | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.4385&mlon=10.99241#map=17/45.4385/10.99241) |
 | [LEGO® Store Verona](https://brickstorestamps.com/stores/store-lego-store-verona) | Verona | – | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.4385&mlon=10.99241#map=17/45.4385/10.99241) |
 
-Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-09-07. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

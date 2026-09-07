@@ -12,4 +12,4 @@ See [India on Brick Passport](https://brickstorestamps.com/explore/stores/list/a
 | [LEGO Store - Ambience Mall Gurugram](https://brickstorestamps.com/stores/store-lego-store-ambience-mall-gurugram) | Gurugram | Shop No G46 , Ambience Mall , Ambience Island, DLF Phase 3, Gurugram 122002, India | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=28.46461&mlon=77.02992#map=17/28.46461/77.02992) |
 | [LEGO® Certified Store R City Mall (Ghatkopar)](https://brickstorestamps.com/stores/store-lego-certified-store-r-city-mall-ghatkopar) | Mumbai | R City Mall, Ground Floor, LBS Road, Amrut Nagar, Ghatkopar West, Mumbai 400086, India | Open | – | [map](https://www.openstreetmap.org/?mlat=19.055&mlon=72.8692#map=17/19.055/72.8692) |
 
-Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-09-07. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

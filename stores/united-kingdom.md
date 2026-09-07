@@ -41,4 +41,4 @@ See [United Kingdom on Brick Passport](https://brickstorestamps.com/explore/stor
 | [LEGO® Store Lakeside Shopping Centre](https://brickstorestamps.com/stores/store-lego-store-lakeside-shopping-centre-opening-soon) | West Thurrock | – | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=51.47712&mlon=0.27213#map=17/51.47712/0.27213) |
 | [LEGOLAND Windsor](https://brickstorestamps.com/stores/store-lego-store-legoland-windsor-resort) | Windsor | Winkfield Road, Windsor SL4 4AY, United Kingdom | Open | Build a Minifigure, Mosaic Maker, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=51.48003&mlon=-0.61257#map=17/51.48003/-0.61257) |
 
-Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-09-07. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

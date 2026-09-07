@@ -14,4 +14,4 @@ See [Greece on Brick Passport](https://brickstorestamps.com/explore/stores/list/
 | [LEGO® Store Mediterranean Cosmos](https://brickstorestamps.com/stores/store-lego-store-mediterranean-cosmos) | Thessaloniki | 11ο χλμ Εθνικής Οδού Θεσσαλονίκης - Ν. Μουδανιών, Θεσσαλονίκη, Greece | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=40.64032&mlon=22.93527#map=17/40.64032/22.93527) |
 | [LEGO® Store Thessaloniki](https://brickstorestamps.com/stores/store-lego-store-thessaloniki) | Thessaloniki | Eleftheriou Venizelou 3, Thessaloniki 54624, Greece | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=40.64032&mlon=22.93527#map=17/40.64032/22.93527) |
 
-Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-09-07. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

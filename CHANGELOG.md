@@ -3,6 +3,14 @@
 What changed in the store list, newest first. Written by the weekly export;
 weeks without a change leave no entry.
 
+## 2026-09-07
+
+1 added. 1003 stores on record.
+
+### Added
+
+- [LEGO® Store Altabrisa Tabasco](https://brickstorestamps.com/stores/store-lego-store-altabrisa-tabasco), Villahermosa, Mexico
+
 ## 2026-08-24
 
 5 added, 1 closed, 2 moved, 2 removed. 1002 stores on record.

@@ -18,4 +18,4 @@ See [United Arab Emirates on Brick Passport](https://brickstorestamps.com/explor
 | [LEGO® Store The Dubai Mall (Certified Store)](https://brickstorestamps.com/stores/store-lego-store-the-dubai-mall-certified-store) | Dubai | Level 2 ,Near Kidzania The Dubai Mall, Downtown, Dubai, United Arab Emirates | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=25.26472&mlon=55.29241#map=17/25.26472/55.29241) |
 | [LEGOLAND Dubai](https://brickstorestamps.com/stores/store-legoland-dubai) | Dubai | Dubai Parks and Resorts, Dubai, United Arab Emirates | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=25.26472&mlon=55.29241#map=17/25.26472/55.29241) |
 
-Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-09-07. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

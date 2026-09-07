@@ -14381,6 +14381,29 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -92.9407,
+     17.96622
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-altabrisa-tabasco",
+    "name": "LEGO® Store Altabrisa Tabasco",
+    "name_local": null,
+    "city": "Villahermosa",
+    "country": "Mexico",
+    "type": "official",
+    "closed_year": null,
+    "address": "Perif. Carlos Pellicer Cámara 129-Local 59, Real del Sur, 1° de Mayo, Villahermosa 86190, Mexico",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-altabrisa-tabasco"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      4.89245,
      52.37308
     ]

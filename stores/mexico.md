@@ -1,6 +1,6 @@
 # LEGO Stores in Mexico
 
-35 stores on record, 35 open.
+36 stores on record, 36 open.
 
 See [Mexico on Brick Passport](https://brickstorestamps.com/explore/stores/list/north-america/mexico) for the stamps collected in these stores.
 
@@ -41,5 +41,6 @@ See [Mexico on Brick Passport](https://brickstorestamps.com/explore/stores/list/
 | [LEGO® Store The Park SLP](https://brickstorestamps.com/stores/store-lego-store-the-park-slp) | San Luis Potosí | Boulevard Antonio Rocha Cordero número 157, Fraccionamiento Desarrollo del Pedregal, San Luis Potosí, San Luis Potosí, San Luis Potosí 78124, Mexico | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=22.15165&mlon=-100.9764#map=17/22.15165/-100.9764) |
 | [LEGO® Store Península Tijuana](https://brickstorestamps.com/stores/store-lego-store-peninsula-tijuana) | Tijuana | Vía Rápida Ote. 15000-Local SA-08, Tijuana 22110, Mexico | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=32.53174&mlon=-117.01953#map=17/32.53174/-117.01953) |
 | [LEGO® Store Andamar Veracruz](https://brickstorestamps.com/stores/store-lego-store-andamar-veracruz) | Veracruz | Bv. Adolfo Ruíz Cortines 4300, Mocambo, Veracruz, Ver., Veracruz 94298, Mexico | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=19.20034&mlon=-96.13836#map=17/19.20034/-96.13836) |
+| [LEGO® Store Altabrisa Tabasco](https://brickstorestamps.com/stores/store-lego-store-altabrisa-tabasco) | Villahermosa | Perif. Carlos Pellicer Cámara 129-Local 59, Real del Sur, 1° de Mayo, Villahermosa 86190, Mexico | Open | – | [map](https://www.openstreetmap.org/?mlat=17.96622&mlon=-92.9407#map=17/17.96622/-92.9407) |
 
-Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-09-07. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

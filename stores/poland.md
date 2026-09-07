@@ -17,4 +17,4 @@ See [Poland on Brick Passport](https://brickstorestamps.com/explore/stores/list/
 | [LEGO® Store Magnolia Park](https://brickstorestamps.com/stores/store-lego-store-magnolia-park) | Wrocław | Magnolia Park, Legnicka 58, Wrocław 54-205, Poland | Open | – | [map](https://www.openstreetmap.org/?mlat=51.12631&mlon=16.9782#map=17/51.12631/16.9782) |
 | [LEGO® Store Wrocław](https://brickstorestamps.com/stores/store-lego-store-wroc-aw) | Wrocław | Centrum Handlowe Wroclavia, ul. Sucha 1, Wrocław 50-086, Poland | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=51.10898&mlon=17.03267#map=17/51.10898/17.03267) |
 
-Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-09-07. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

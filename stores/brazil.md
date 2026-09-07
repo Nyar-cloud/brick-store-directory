@@ -30,4 +30,4 @@ See [Brazil on Brick Passport](https://brickstorestamps.com/explore/stores/list/
 | [LEGO® Store Oscar Freire](https://brickstorestamps.com/stores/store-lego-store-oscar-freiere) | São Paulo | – | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=-23.55065&mlon=-46.63338#map=17/-23.55065/-46.63338) |
 | [LEGO® Store VillaLobos](https://brickstorestamps.com/stores/store-lego-store-villalobos) | São Paulo | Av. das Nações Unidas, 4777, Alto de Pinheiros 05477-000, Brazil | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=-23.55065&mlon=-46.63338#map=17/-23.55065/-46.63338) |
 
-Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-09-07. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

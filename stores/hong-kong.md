@@ -15,4 +15,4 @@ See [Hong Kong on Brick Passport](https://brickstorestamps.com/explore/stores/li
 | [LEGO® Store Tuen Mun Town Plaza](https://brickstorestamps.com/stores/store-lego-store-tuen-mun-town-plaza) | Hong Kong | Shop 2217, 2/F, Phase 1, Tuen Mun Town Plaza, 1 Tuen Shing Street, Tuen Mun, Hong Kong, Hong Kong | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=22.28183&mlon=114.15828#map=17/22.28183/114.15828) |
 | [LEGOLAND Discovery Centre Hong Kong](https://brickstorestamps.com/stores/store-legoland-discovery-centre-hong-kong) | Hong Kong | – | Open | – | [map](https://www.openstreetmap.org/?mlat=22.28183&mlon=114.15828#map=17/22.28183/114.15828) |
 
-Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-09-07. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

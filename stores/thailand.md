@@ -14,4 +14,4 @@ See [Thailand on Brick Passport](https://brickstorestamps.com/explore/stores/lis
 | [LEGO® Store Siam Paragon (Certified Store)](https://brickstorestamps.com/stores/store-lego-store-siam-paragon-certified-store) | Bangkok | Unit 302, 991 Pharam1 Rd., Phatumwan, Bangkok 10330, Thailand | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=13.75249&mlon=100.49351#map=17/13.75249/100.49351) |
 | [LEGO® Store Chiangmai](https://brickstorestamps.com/stores/store-lego-store-chiangmai) | Chiang Mai | Central Chiang Mai Unit 214 99/3 Moo 4, Fah Ham, Mueang Chiangmai, Chiang Mai 50000, Thailand | Open | – | [map](https://www.openstreetmap.org/?mlat=18.78828&mlon=98.98588#map=17/18.78828/98.98588) |
 
-Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-09-07. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

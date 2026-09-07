@@ -1,10 +1,10 @@
 # Brick Store Directory
 
-An open list of every LEGO® store we know of: **1002 stores** in **57 countries**, 992 of them open, 10 closed.
+An open list of every LEGO® store we know of: **1003 stores** in **57 countries**, 993 of them open, 10 closed.
 
 These are the raw files. The living version, with photos of every stamp, search, a map and the people collecting them, is at [brickstorestamps.com](https://brickstorestamps.com).
 
-Last change **2026-08-24**. The list is rebuilt every Monday; [CHANGELOG.md](CHANGELOG.md) records what moved.
+Last change **2026-09-07**. The list is rebuilt every Monday; [CHANGELOG.md](CHANGELOG.md) records what moved.
 
 ## What is in here
 
@@ -12,7 +12,7 @@ Last change **2026-08-24**. The list is rebuilt every Monday; [CHANGELOG.md](CHA
 | --- | --- |
 | [`data/stores.json`](data/stores.json) | All stores, one JSON array, the canonical form |
 | [`data/stores.csv`](data/stores.csv) | The same list as CSV, ready for spreadsheets and My Maps |
-| [`data/stores.geojson`](data/stores.geojson) | The 993 stores with coordinates, drawn as a map by GitHub itself |
+| [`data/stores.geojson`](data/stores.geojson) | The 994 stores with coordinates, drawn as a map by GitHub itself |
 | [`stores/`](stores/) | One readable page per country |
 | [`stores/closed.md`](stores/closed.md) | Every store that has shut down, newest first |
 | [`CHANGELOG.md`](CHANGELOG.md) | What changed, week by week |
@@ -22,7 +22,7 @@ Last change **2026-08-24**. The list is rebuilt every Monday; [CHANGELOG.md](CHA
 | Continent | Stores |
 | --- | --- |
 | Europe | 212 |
-| North America | 218 |
+| North America | 219 |
 | Central America | 5 |
 | South America | 46 |
 | Asia | 461 |
@@ -65,7 +65,7 @@ Last change **2026-08-24**. The list is rebuilt every Monday; [CHANGELOG.md](CHA
 | [Kuwait](stores/kuwait.md) | 2 | 2 | 0 |
 | [Macau](stores/macau.md) | 1 | 1 | 0 |
 | [Malaysia](stores/malaysia.md) | 27 | 27 | 0 |
-| [Mexico](stores/mexico.md) | 35 | 35 | 0 |
+| [Mexico](stores/mexico.md) | 36 | 36 | 0 |
 | [Netherlands](stores/netherlands.md) | 6 | 6 | 0 |
 | [New Zealand](stores/new-zealand.md) | 6 | 6 | 0 |
 | [Panama](stores/panama.md) | 2 | 2 | 0 |

@@ -15,4 +15,4 @@
 | [LEGO® Store Riverchase Galleria](https://brickstorestamps.com/stores/store-lego-store-riverchase-galleria) | Birmingham | USA | 2020 | – |
 | [LEGO® Store Arden Fair Mall](https://brickstorestamps.com/stores/store-lego-store-arden-fair-mall) | Sacramento | USA | 2019 | – |
 
-Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-09-07. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

@@ -22,4 +22,4 @@ See [Singapore on Brick Passport](https://brickstorestamps.com/explore/stores/li
 | [LEGO® Store Tampines Mall (Certified Store)](https://brickstorestamps.com/stores/store-lego-store-tampines-mall-certified-store-have-stamps) | Singapore | 4 Tampines Central 5, #03-20/21 Tampines Mall, Singapore 529510, Singapore | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=1.28992&mlon=103.85191#map=17/1.28992/103.85191) |
 | [The LEGO® Shophouse Experience](https://brickstorestamps.com/stores/store-c-the-lego-shophouse-experience-singapur) | Singapore | Design Orchard, 250 Orchard Rd, Singapore 238905, Singapore | Pop-up, ended 2026 | – | [map](https://www.openstreetmap.org/?mlat=1.28992&mlon=103.85191#map=17/1.28992/103.85191) |
 
-Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-09-07. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

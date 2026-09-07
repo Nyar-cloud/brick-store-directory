@@ -20,4 +20,4 @@ See [Romania on Brick Passport](https://brickstorestamps.com/explore/stores/list
 | [LEGO® Store AFI Ploiești](https://brickstorestamps.com/stores/store-lego-store-afi-ploiesti) | Ploiești | Str. Calomfirescu 2, Ploiești 100176, Romania | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=44.94175&mlon=26.02365#map=17/44.94175/26.02365) |
 | [LEGO® Store Shopping City Timisoara](https://brickstorestamps.com/stores/store-lego-store-shopping-city-timisoara) | Timișoara | – | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.75384&mlon=21.22575#map=17/45.75384/21.22575) |
 
-Last change 2026-08-24. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-09-07. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
