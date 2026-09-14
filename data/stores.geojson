@@ -19096,6 +19096,29 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -0.39273,
+     51.65509
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-watford",
+    "name": "LEGO® Store Watford",
+    "name_local": null,
+    "city": "Watford",
+    "country": "United Kingdom",
+    "type": "closed",
+    "closed_year": 2022,
+    "address": "Unit 147, Atria, Watford WD17 2UB, United Kingdom",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-watford"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      0.27213,
      51.47712
     ]

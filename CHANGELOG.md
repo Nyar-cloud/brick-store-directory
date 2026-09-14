@@ -3,6 +3,14 @@
 What changed in the store list, newest first. Written by the weekly export;
 weeks without a change leave no entry.
 
+## 2026-09-14
+
+1 added. 1004 stores on record.
+
+### Added
+
+- [LEGO® Store Watford](https://brickstorestamps.com/stores/store-lego-store-watford), Watford, United Kingdom
+
 ## 2026-09-07
 
 1 added. 1003 stores on record.

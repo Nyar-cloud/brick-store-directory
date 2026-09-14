@@ -1,6 +1,6 @@
 # Closed LEGO Stores
 
-10 stores that used to exist. Newest closure first; where the year is missing, nobody recorded it.
+11 stores that used to exist. Newest closure first; where the year is missing, nobody recorded it.
 
 | Store | City | Country | Closed | Address |
 | --- | --- | --- | --- | --- |
@@ -12,7 +12,8 @@
 | [LEGO® Store Queens Center](https://brickstorestamps.com/stores/store-lego-store-queens-center) | New York | USA | 2023 | 90-15 Queens Blvd, Elmhurst, New York 11373, USA |
 | [LEGO® Store Rockefeller Center](https://brickstorestamps.com/stores/store-lego-store-rockefeller-center) | New York | USA | 2023 | 620 5th Ave, New York, New York 10020, USA |
 | [LEGO® Store Westfield San Francisco Centre](https://brickstorestamps.com/stores/store-lego-store-westfield-san-francisco-centre) | San Francisco | USA | 2023 | 865 Market St, San Francisco, California 94103, USA |
+| [LEGO® Store Watford](https://brickstorestamps.com/stores/store-lego-store-watford) | Watford | United Kingdom | 2022 | Unit 147, Atria, Watford WD17 2UB, United Kingdom |
 | [LEGO® Store Riverchase Galleria](https://brickstorestamps.com/stores/store-lego-store-riverchase-galleria) | Birmingham | USA | 2020 | – |
 | [LEGO® Store Arden Fair Mall](https://brickstorestamps.com/stores/store-lego-store-arden-fair-mall) | Sacramento | USA | 2019 | – |
 
-Last change 2026-09-07. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-09-14. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

@@ -1,6 +1,6 @@
 # LEGO Stores in United Kingdom
 
-34 stores on record, 34 open.
+35 stores on record, 34 open, 1 closed.
 
 See [United Kingdom on Brick Passport](https://brickstorestamps.com/explore/stores/list/europe/united-kingdom) for the stamps collected in these stores.
 
@@ -38,7 +38,8 @@ See [United Kingdom on Brick Passport](https://brickstorestamps.com/explore/stor
 | [LEGO® Store Southampton](https://brickstorestamps.com/stores/store-lego-store-southampton) | Southampton | West Quay Shopping Centre, 8-10 Portland Terrace, Southampton SO15 1QF, United Kingdom | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=50.90253&mlon=-1.40419#map=17/50.90253/-1.40419) |
 | [Any LEGO Brick Festival events](https://brickstorestamps.com/stores/store-any-lego-brick-festival-events) | UK (various) | – | Open | Build a Minifigure, Pick a Brick | – |
 | [LEGO National Brick events](https://brickstorestamps.com/stores/store-lego-national-brick-events) | UK (various) | – | Open | Build a Minifigure, Pick a Brick | – |
+| [LEGO® Store Watford](https://brickstorestamps.com/stores/store-lego-store-watford) | Watford | Unit 147, Atria, Watford WD17 2UB, United Kingdom | **Closed 2022** | – | [map](https://www.openstreetmap.org/?mlat=51.65509&mlon=-0.39273#map=17/51.65509/-0.39273) |
 | [LEGO® Store Lakeside Shopping Centre](https://brickstorestamps.com/stores/store-lego-store-lakeside-shopping-centre-opening-soon) | West Thurrock | – | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=51.47712&mlon=0.27213#map=17/51.47712/0.27213) |
 | [LEGOLAND Windsor](https://brickstorestamps.com/stores/store-lego-store-legoland-windsor-resort) | Windsor | Winkfield Road, Windsor SL4 4AY, United Kingdom | Open | Build a Minifigure, Mosaic Maker, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=51.48003&mlon=-0.61257#map=17/51.48003/-0.61257) |
 
-Last change 2026-09-07. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-09-14. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
