@@ -1,6 +1,6 @@
 # LEGO Stores in USA
 
-166 stores on record, 160 open, 6 closed.
+166 stores on record, 158 open, 2 opening soon, 6 closed.
 
 See [USA on Brick Passport](https://brickstorestamps.com/explore/stores/list/north-america/usa) for the stamps collected in these stores.
 
@@ -84,7 +84,7 @@ See [USA on Brick Passport](https://brickstorestamps.com/explore/stores/list/nor
 | [LEGO® Store Las Vegas - Fashion Show Mall](https://brickstorestamps.com/stores/store-lego-store-las-vegas-fashion-show-mall) | Las Vegas | 3200 South Las Vegas Boulevard #1520, Las Vegas, Nevada 89109, USA | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=36.16743&mlon=-115.14841#map=17/36.16743/-115.14841) |
 | [LEGO® Store Sugarloaf Mills](https://brickstorestamps.com/stores/store-lego-store-sugarloaf-mills) | Lawrenceville | 5900 Sugarloaf Parkway, Lawrenceville, Georgia 30043, USA | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=33.95664&mlon=-83.98901#map=17/33.95664/-83.98901) |
 | [LEGO® Store Town Center Crossing](https://brickstorestamps.com/stores/store-lego-store-town-center-crossing) | Leawood | 4411 W 119th Street, Suite A133, Leawood, Kansas 66209, USA | Open | – | [map](https://www.openstreetmap.org/?mlat=38.96667&mlon=-94.6169#map=17/38.96667/-94.6169) |
-| [LEGO Store Fritz Farm](https://brickstorestamps.com/stores/store-lego-store-fritz-farm) | Lexington | – | Open | – | [map](https://www.openstreetmap.org/?mlat=38.04641&mlon=-84.49704#map=17/38.04641/-84.49704) |
+| [LEGO Store Fritz Farm](https://brickstorestamps.com/stores/store-lego-store-fritz-farm) | Lexington | 120 Summit At Fritz Farm, Lexington, Kentucky 40517, USA | Opens 2026 | – | [map](https://www.openstreetmap.org/?mlat=37.97759&mlon=-84.52699#map=17/37.97759/-84.52699) |
 | [LEGO® Store Promenade at Chenal](https://brickstorestamps.com/stores/store-lego-store-promenade-at-chenal) | Little Rock | 17809 Chenal Parkway, Suite G-103, Little Rock, Arkansas 72223, USA | Open | – | [map](https://www.openstreetmap.org/?mlat=34.74651&mlon=-92.28963#map=17/34.74651/-92.28963) |
 | [LEGO® Store Park Meadows](https://brickstorestamps.com/stores/store-lego-store-park-meadows) | Lone Tree | 8401 Park Meadows Center Dr Ste 1225, Lone Tree, Colorado 80124, USA | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=39.53642&mlon=-104.90415#map=17/39.53642/-104.90415) |
 | [LEGO Store Los Angeles Airport - LAX](https://brickstorestamps.com/stores/store-lego-store-los-angeles-airport-lax) | Los Angeles | Los Angeles International Airport, West Gates, Tom Bradley International Terminal, 380 World Way, Los Angeles, CA 90045, USA | Open | – | [map](https://www.openstreetmap.org/?mlat=34.05369&mlon=-118.24277#map=17/34.05369/-118.24277) |
@@ -129,7 +129,7 @@ See [USA on Brick Passport](https://brickstorestamps.com/explore/stores/list/nor
 | [LEGO® Store Providence Place](https://brickstorestamps.com/stores/store-lego-store-providence-place) | Providence | 97 Providence Place #3165, Providence, Rhode Island 02903, USA | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=41.82399&mlon=-71.41283#map=17/41.82399/-71.41283) |
 | [LEGO® Store Crabtree Valley Mall](https://brickstorestamps.com/stores/store-lego-store-crabtree-valley-mall) | Raleigh | 4325 Glenwood Ave Ste 1078, Raleigh, North Carolina 27612, USA | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=35.7804&mlon=-78.6391#map=17/35.7804/-78.6391) |
 | [LEGO® Store Short Pump Town Center](https://brickstorestamps.com/stores/store-lego-store-short-pump-town-center) | Richmond | 11800 W Broad St, 23233 – Suite #1234, Richmond, Virginia 23233, USA | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=37.53851&mlon=-77.43428#map=17/37.53851/-77.43428) |
-| [LEGO Store Renaissance at Colony Park](https://brickstorestamps.com/stores/store-lego-store-renaissance-at-colony-park) | Ridgeland | – | Open | – | [map](https://www.openstreetmap.org/?mlat=32.42848&mlon=-90.13231#map=17/32.42848/-90.13231) |
+| [LEGO Store Renaissance at Colony Park](https://brickstorestamps.com/stores/store-lego-store-renaissance-at-colony-park) | Ridgeland | 1000 Highland Colony Parkway, Ridgeland, Mississippi 39157, USA | Opens 2026 | – | [map](https://www.openstreetmap.org/?mlat=32.43557&mlon=-90.1473#map=17/32.43557/-90.1473) |
 | [LEGO® Store Pinnacle Hills](https://brickstorestamps.com/stores/store-lego-store-pinnacle-hills) | Rogers | 2203 S Promenade Blvd Suite 8135, Rogers, Arkansas 72758, USA | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=36.33486&mlon=-94.11938#map=17/36.33486/-94.11938) |
 | [LEGO® Store Westfield Galleria At Roseville](https://brickstorestamps.com/stores/store-lego-store-westfield-galleria-at-roseville) | Roseville | 1151 Galleria Blvd, #116, Roseville, California 95678, USA | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=38.75212&mlon=-121.28801#map=17/38.75212/-121.28801) |
 | [LEGO® Store Arden Fair Mall](https://brickstorestamps.com/stores/store-lego-store-arden-fair-mall) | Sacramento | – | **Closed 2019** | – | – |
@@ -173,4 +173,4 @@ See [USA on Brick Passport](https://brickstorestamps.com/explore/stores/list/nor
 | [LEGOLAND Florida](https://brickstorestamps.com/stores/store-lego-store-legoland-florida-resort) | Winter Haven | One Legoland Way, Winter Haven, Florida 33884, USA | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=28.02224&mlon=-81.73286#map=17/28.02224/-81.73286) |
 | [LEGO® Store Potomac Mills](https://brickstorestamps.com/stores/store-lego-store-potomac-mills) | Woodbridge | 2700 Potomac Mills Circle, Woodbridge, Virginia 22192, USA | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=38.66266&mlon=-77.25307#map=17/38.66266/-77.25307) |
 
-Last change 2026-09-14. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-09-21. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

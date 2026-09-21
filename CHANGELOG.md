@@ -3,6 +3,27 @@
 What changed in the store list, newest first. Written by the weekly export;
 weeks without a change leave no entry.
 
+## 2026-09-21
+
+3 added, 4 announced, 1 with an updated address. 1007 stores on record.
+
+### Added
+
+- [LEGO® Certified Store Nexus Mall Koramangala](https://brickstorestamps.com/stores/store-lego-certified-store-nexus-mall-koramangala), Bengaluru, India
+- [LEGO® Certified Store Hillion Mall (Pop-up)](https://brickstorestamps.com/stores/store-lego-certified-store-hillion-mall), Singapore, Singapore
+- [LEGO® Certified Store Atlantis, The Palm](https://brickstorestamps.com/stores/store-lego-certified-store-atlantis-the-palm), Dubai, United Arab Emirates
+
+### Announced
+
+- [LEGO Store Square One Shopping Centre](https://brickstorestamps.com/stores/store-lego-store-square-one-shopping-centre), Mississauga, Canada, opens 6 November 2026
+- [LEGO Store CF Toronto Eaton Centre](https://brickstorestamps.com/stores/store-lego-store-cf-toronto-eaton-centre), Toronto, Canada, opens 23 October 2026
+- [LEGO Store Fritz Farm](https://brickstorestamps.com/stores/store-lego-store-fritz-farm), Lexington, USA, opens 2026
+- [LEGO Store Renaissance at Colony Park](https://brickstorestamps.com/stores/store-lego-store-renaissance-at-colony-park), Ridgeland, USA, opens 2026
+
+### Address updated
+
+- [LEGO Store CF Markville](https://brickstorestamps.com/stores/store-lego-store-cf-markville), 5000 Highway 7 East, Unit 2283B, Markham L3R 4M9, Canada
+
 ## 2026-09-14
 
 1 added. 1004 stores on record.
