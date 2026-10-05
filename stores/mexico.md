@@ -43,4 +43,4 @@ See [Mexico on Brick Passport](https://brickstorestamps.com/explore/stores/list/
 | [LEGO® Store Andamar Veracruz](https://brickstorestamps.com/stores/store-lego-store-andamar-veracruz) | Veracruz | Bv. Adolfo Ruíz Cortines 4300, Mocambo, Veracruz, Ver., Veracruz 94298, Mexico | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=19.20034&mlon=-96.13836#map=17/19.20034/-96.13836) |
 | [LEGO® Store Altabrisa Tabasco](https://brickstorestamps.com/stores/store-lego-store-altabrisa-tabasco) | Villahermosa | Perif. Carlos Pellicer Cámara 129-Local 59, Real del Sur, 1° de Mayo, Villahermosa 86190, Mexico | Open | – | [map](https://www.openstreetmap.org/?mlat=17.96622&mlon=-92.9407#map=17/17.96622/-92.9407) |
 
-Last change 2026-09-28. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-10-05. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

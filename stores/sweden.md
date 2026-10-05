@@ -8,4 +8,4 @@ See [Sweden on Brick Passport](https://brickstorestamps.com/explore/stores/list/
 | --- | --- | --- | --- | --- | --- |
 | [LEGO® Store Stockholm](https://brickstorestamps.com/stores/store-lego-store-stockholm) | Stockholm | Stjärntorget 2, Solna 169 79, Sweden | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=59.3708844&mlon=18.00240474#map=17/59.3708844/18.00240474) |
 
-Last change 2026-09-28. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-10-05. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

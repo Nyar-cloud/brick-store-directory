@@ -2631,6 +2631,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     116.17676,
+     39.92431
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-beijing-jingxi-joy-city-certified-store-p",
+    "name": "LEGO® Store Beijing Jingxi Joy City (Certified Store)",
+    "name_local": "京西大悦城",
+    "city": "Beijing",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "北京市石景山区阜石路173号院1号楼京西大悦城1F-11A",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-beijing-jingxi-joy-city-certified-store-p"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      116.3143,
      39.9794
     ]
@@ -2806,31 +2831,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     116.3528,
-     39.9418
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-beijing-xizhimen-k11-mall",
-    "name": "LEGO® Store Beijing Xizhimen K11",
-    "name_local": "凯德MALL西直门广场(暂停营业)",
-    "city": "Beijing",
-    "country": "China",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "北京市西城区西直门外大街1号",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-beijing-xizhimen-k11-mall"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      116.3913,
      39.90571
     ]
@@ -2924,6 +2924,31 @@
     "phone": "010-60279360",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-capitamall-tiangongyuan"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.3528,
+     39.9418
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-beijing-xizhimen-k11-mall",
+    "name": "LEGO® Store CapitaMall Xizhimen",
+    "name_local": "凯德MALL西直门广场(暂停营业)",
+    "city": "Beijing",
+    "country": "China",
+    "type": "closed",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "北京市西城区西直门外大街1号",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-beijing-xizhimen-k11-mall"
    }
   },
   {
@@ -3381,6 +3406,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     116.85201,
+     38.31204
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-cangzhou-huabei-shangsha-certified-store-",
+    "name": "LEGO® Store Cangzhou Huabei Shangsha (Certified Store)",
+    "name_local": "华北商厦",
+    "city": "Cangzhou",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "河北省沧州市运河区新华中路7号华北商厦(新华路店)F1",
+    "phone": "18532700757",
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-cangzhou-huabei-shangsha-certified-store-"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      125.3267,
      43.8795
     ]
@@ -3674,6 +3724,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-changsha-north-star-triangle-dragon"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.09559,
+     28.25622
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-changsha-songya-lake-wuyue-plaza-certifie",
+    "name": "LEGO® Store Changsha Songya Lake Wuyue Plaza (Certified Store)",
+    "name_local": "松雅湖吾悦广场",
+    "city": "Changsha",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "长沙市长沙县松雅湖新城吾悦广场1012-1013号",
+    "phone": "0731-85666066",
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-changsha-songya-lake-wuyue-plaza-certifie"
    }
   },
   {
@@ -6956,6 +7031,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     102.72008,
+     25.03988
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-kunming-spring-city-66-certified-store-ku",
+    "name": "LEGO® Store Kunming Spring City 66 (Certified Store)",
+    "name_local": "昆明恒隆广场",
+    "city": "Kunming",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "昆明市盘龙区东风东路21号恒隆商场B1层B112AB号",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-kunming-spring-city-66-certified-store-ku"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      102.72242,
      25.07134
     ]
@@ -7149,6 +7249,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-store-leshan-saiho-plaza-certified-store-leshan"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     91.18107,
+     29.65909
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-lhasa-wanda-plaza-certified-store-lhasa",
+    "name": "LEGO® Store Lhasa Wanda Plaza (Certified Store)",
+    "name_local": "拉萨万达广场",
+    "city": "Lhasa",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "拉萨市城关区万达广场",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-lhasa-wanda-plaza-certified-store-lhasa"
    }
   },
   {
@@ -8631,6 +8756,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     121.52294,
+     31.22951
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-shanghai-century-link-certified-store-sha",
+    "name": "LEGO® Store Shanghai Century Link (Certified Store)",
+    "name_local": "世纪汇广场",
+    "city": "Shanghai",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "上海市浦东新区世纪大道1192号世纪汇广场",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-shanghai-century-link-certified-store-sha"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      121.4822,
      31.2362
     ]
@@ -9681,21 +9831,21 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     123.42791,
-     41.80261
+     123.43289,
+     41.74773
     ]
    },
    "properties": {
     "id": "store-legoland-discovery-center-shenyang",
     "name": "LEGOLAND Discovery Center Shenyang",
-    "name_local": null,
+    "name_local": "沈阳乐高探索中心",
     "city": "Shenyang",
     "country": "China",
     "type": "official",
     "closed_year": null,
     "upcoming": false,
     "opening_date": null,
-    "address": null,
+    "address": "沈阳市和平区博览路2甲2号 沈阳新世界博览馆 (K11)",
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-legoland-discovery-center-shenyang"
@@ -28156,6 +28306,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -87.81664,
+     42.15014
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-northbrook-court",
+    "name": "LEGO® Store Northbrook Court",
+    "name_local": null,
+    "city": "Northbrook",
+    "country": "USA",
+    "type": "closed",
+    "closed_year": 2025,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "2171 Northbrook Court, Northbrook, Illinois 60062, USA",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-northbrook-court"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -97.544399,
      35.525363
     ]
@@ -28937,7 +29112,7 @@
    },
    "properties": {
     "id": "store-lego-store-old-orchard-centernew",
-    "name": "LEGO® Store Old Orchard CenterNew",
+    "name": "LEGO® Store Old Orchard Center",
     "name_local": null,
     "city": "Skokie",
     "country": "USA",

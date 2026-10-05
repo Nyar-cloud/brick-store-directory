@@ -13,4 +13,4 @@ See [Netherlands on Brick Passport](https://brickstorestamps.com/explore/stores/
 | [LEGO® Store The Hague](https://brickstorestamps.com/stores/store-lego-store-the-hague) | The Hague | Spuistraat 10, Den Haag 2511 BD, Netherlands | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=52.07724&mlon=4.31114#map=17/52.07724/4.31114) |
 | [LEGO® Store Utrecht](https://brickstorestamps.com/stores/store-lego-store-utrecht) | Utrecht | Hoog Catharijne Mall, Hoog Catharijnepassage 7, Utrecht 3511 WP, Netherlands | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=52.091271&mlon=5.112907#map=17/52.091271/5.112907) |
 
-Last change 2026-09-28. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-10-05. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

@@ -1,10 +1,10 @@
 # Brick Store Directory
 
-An open list of every LEGO® store we know of: **1193 stores** in **57 countries**, 1174 of them open, 4 opening soon, 15 closed.
+An open list of every LEGO® store we know of: **1200 stores** in **57 countries**, 1179 of them open, 4 opening soon, 17 closed.
 
 These are the raw files. The living version, with photos of every stamp, search, a map and the people collecting them, is at [brickstorestamps.com](https://brickstorestamps.com).
 
-Last change **2026-09-28**. The list is rebuilt every Monday; [CHANGELOG.md](CHANGELOG.md) records what moved.
+Last change **2026-10-05**. The list is rebuilt every Monday; [CHANGELOG.md](CHANGELOG.md) records what moved.
 
 ## What is in here
 
@@ -12,7 +12,7 @@ Last change **2026-09-28**. The list is rebuilt every Monday; [CHANGELOG.md](CHA
 | --- | --- |
 | [`data/stores.json`](data/stores.json) | All stores, one JSON array, the canonical form |
 | [`data/stores.csv`](data/stores.csv) | The same list as CSV, ready for spreadsheets and My Maps |
-| [`data/stores.geojson`](data/stores.geojson) | The 1184 stores with coordinates, drawn as a map by GitHub itself |
+| [`data/stores.geojson`](data/stores.geojson) | The 1191 stores with coordinates, drawn as a map by GitHub itself |
 | [`stores/`](stores/) | One readable page per country |
 | [`stores/closed.md`](stores/closed.md) | Every store that has shut down, newest first |
 | [`CHANGELOG.md`](CHANGELOG.md) | What changed, week by week |
@@ -22,10 +22,10 @@ Last change **2026-09-28**. The list is rebuilt every Monday; [CHANGELOG.md](CHA
 | Continent | Stores |
 | --- | --- |
 | Europe | 215 |
-| North America | 219 |
+| North America | 220 |
 | Central America | 5 |
 | South America | 46 |
-| Asia | 648 |
+| Asia | 654 |
 | Asia/Europe | 14 |
 | Africa | 7 |
 | Oceania | 39 |
@@ -43,7 +43,7 @@ Last change **2026-09-28**. The list is rebuilt every Monday; [CHANGELOG.md](CHA
 | [Bulgaria](stores/bulgaria.md) | 1 | 1 | 0 | 0 |
 | [Canada](stores/canada.md) | 17 | 15 | 2 | 0 |
 | [Chile](stores/chile.md) | 10 | 10 | 0 | 0 |
-| [China](stores/china.md) | 431 | 430 | 0 | 1 |
+| [China](stores/china.md) | 437 | 435 | 0 | 2 |
 | [Colombia](stores/colombia.md) | 8 | 8 | 0 | 0 |
 | [Costa Rica](stores/costa-rica.md) | 3 | 3 | 0 | 0 |
 | [Croatia](stores/croatia.md) | 1 | 1 | 0 | 0 |
@@ -89,7 +89,7 @@ Last change **2026-09-28**. The list is rebuilt every Monday; [CHANGELOG.md](CHA
 | [Turkey](stores/turkey.md) | 14 | 14 | 0 | 0 |
 | [United Arab Emirates](stores/united-arab-emirates.md) | 12 | 12 | 0 | 0 |
 | [United Kingdom](stores/united-kingdom.md) | 35 | 34 | 0 | 1 |
-| [USA](stores/usa.md) | 166 | 158 | 2 | 6 |
+| [USA](stores/usa.md) | 167 | 158 | 2 | 7 |
 | [Vietnam](stores/vietnam.md) | 1 | 1 | 0 | 0 |
 
 ## Fields

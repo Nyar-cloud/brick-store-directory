@@ -36,4 +36,4 @@ See [Germany on Brick Passport](https://brickstorestamps.com/explore/stores/list
 | [LEGO® Store Saarbrücken](https://brickstorestamps.com/stores/store-lego-store-saarbruecken) | Saarbrücken | Bahnhofstraße 77, Saarbrücken 66111, Germany | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=49.23686513&mlon=6.992672965#map=17/49.23686513/6.992672965) |
 | [LEGO® Store Stuttgart](https://brickstorestamps.com/stores/store-lego-store-stuttgart) | Stuttgart | Königstrasse 43B, Stuttgart 70173, Germany | Open | Build a Minifigure, Minifigure Factory, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=48.77454858&mlon=9.175528357#map=17/48.77454858/9.175528357) |
 
-Last change 2026-09-28. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-10-05. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

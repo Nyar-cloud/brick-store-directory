@@ -40,4 +40,4 @@ See [Australia on Brick Passport](https://brickstorestamps.com/explore/stores/li
 | [LEGO® Store Westfield Penrith](https://brickstorestamps.com/stores/store-lego-store-westfield-penrith) | Sydney | Level 2, Shop 311/312 585 High Street, Penrith New South Wales 2750, Australia | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=-33.75174631022385&mlon=150.6945227001829#map=17/-33.75174631022385/150.6945227001829) |
 | [LEGO® Store Townsville](https://brickstorestamps.com/stores/store-lego-store-townsville) | Townsville | Shop 205, Aitkenvale, Aitkenvale QLD 4814, Australia | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=-19.299143311216376&mlon=146.7635487037265#map=17/-19.299143311216376/146.7635487037265) |
 
-Last change 2026-09-28. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-10-05. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

@@ -8,4 +8,4 @@ See [Bosnia and Herzegovina on Brick Passport](https://brickstorestamps.com/expl
 | --- | --- | --- | --- | --- | --- |
 | [LEGO® Store Sarajevo](https://brickstorestamps.com/stores/store-lego-store-sarajevo) | Sarajevo | Franca Lehara 2, Sarajevo 71000, Bosnia and Herzegovina | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=43.856491&mlon=18.4036921#map=17/43.856491/18.4036921) |
 
-Last change 2026-09-28. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-10-05. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

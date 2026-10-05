@@ -3,6 +3,32 @@
 What changed in the store list, newest first. Written by the weekly export;
 weeks without a change leave no entry.
 
+## 2026-10-05
+
+7 added, 1 closed, 1 renamed, 1 with an updated address. 1200 stores on record.
+
+### Added
+
+- [LEGO® Store Beijing Jingxi Joy City (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-beijing-jingxi-joy-city-certified-store-p), Beijing, China
+- [LEGO® Store Cangzhou Huabei Shangsha (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-cangzhou-huabei-shangsha-certified-store-), Cangzhou, China
+- [LEGO® Store Changsha Songya Lake Wuyue Plaza (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-changsha-songya-lake-wuyue-plaza-certifie), Changsha, China
+- [LEGO® Store Kunming Spring City 66 (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-kunming-spring-city-66-certified-store-ku), Kunming, China
+- [LEGO® Store Lhasa Wanda Plaza (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-lhasa-wanda-plaza-certified-store-lhasa), Lhasa, China
+- [LEGO® Store Shanghai Century Link (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-shanghai-century-link-certified-store-sha), Shanghai, China
+- [LEGO® Store Northbrook Court](https://brickstorestamps.com/stores/store-lego-store-northbrook-court), Northbrook, USA
+
+### Closed
+
+- [LEGO® Store CapitaMall Xizhimen](https://brickstorestamps.com/stores/store-lego-store-beijing-xizhimen-k11-mall), Beijing, China
+
+### Renamed
+
+- LEGO® Store Old Orchard CenterNew is now [LEGO® Store Old Orchard Center](https://brickstorestamps.com/stores/store-lego-store-old-orchard-centernew), Skokie, USA
+
+### Address updated
+
+- [LEGOLAND Discovery Center Shenyang](https://brickstorestamps.com/stores/store-legoland-discovery-center-shenyang), 沈阳市和平区博览路2甲2号 沈阳新世界博览馆 (K11)
+
 ## 2026-09-28
 
 186 added, 1 closed, 4 renamed, 6 with an updated address, 464 with corrected details. 1193 stores on record.

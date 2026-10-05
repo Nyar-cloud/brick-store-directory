@@ -9,4 +9,4 @@ See [Panama on Brick Passport](https://brickstorestamps.com/explore/stores/list/
 | [LEGO® Store Altaplaza](https://brickstorestamps.com/stores/store-lego-store-altaplaza) | Panama City | Altaplaza Mall, Nivel 2, Local 2-207 Via Centenario, Ciudad de Panamá, Panama | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=9.029489&mlon=-79.534156#map=17/9.029489/-79.534156) |
 | [LEGO® Store Multiplaza](https://brickstorestamps.com/stores/store-lego-store-multiplaza) | Panama City | Multiplaza Pacific Mall, Local B-115, Calle Isaac Hanono MisSRI, Via Israel, Ciudad de Panamá, Panama | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=8.9869&mlon=-79.510533#map=17/8.9869/-79.510533) |
 
-Last change 2026-09-28. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-10-05. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

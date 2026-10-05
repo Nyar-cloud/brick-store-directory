@@ -10,4 +10,4 @@ See [Belgium on Brick Passport](https://brickstorestamps.com/explore/stores/list
 | [LEGO® Store Brussels](https://brickstorestamps.com/stores/store-lego-store-brussels) | Brussels | 117-119 Rue Neuve, Brussels 1000, Belgium | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=50.85375&mlon=4.35703#map=17/50.85375/4.35703) |
 | [LEGOLAND Discovery Centre Brussels](https://brickstorestamps.com/stores/store-legoland-discovery-centre-brussels) | Brussels | – | Open | – | [map](https://www.openstreetmap.org/?mlat=50.84674&mlon=4.35249#map=17/50.84674/4.35249) |
 
-Last change 2026-09-28. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-10-05. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

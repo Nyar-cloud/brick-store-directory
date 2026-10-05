@@ -18,4 +18,4 @@ See [Spain on Brick Passport](https://brickstorestamps.com/explore/stores/list/e
 | [LEGO® Store (Certified Store)](https://brickstorestamps.com/stores/store-lego-store-validation-certified-store) | Valencia | CARRER DE COLON, 9, Valencia Spain, Valencia 46004, Spain | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=39.46971&mlon=-0.37634#map=17/39.46971/-0.37634) |
 | [LEGO® Store Zaragoza (Certified Store)](https://brickstorestamps.com/stores/store-lego-store-zaragoza-certified-store) | Zaragoza | Centro Comercial Puerto Venecia, Travesía Jardines Reales 7, Zaragoza 50021, Spain | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=41.6090089&mlon=-0.8850546#map=17/41.6090089/-0.8850546) |
 
-Last change 2026-09-28. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-10-05. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

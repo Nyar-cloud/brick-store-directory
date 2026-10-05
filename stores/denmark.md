@@ -17,4 +17,4 @@ See [Denmark on Brick Passport](https://brickstorestamps.com/explore/stores/list
 | [LEGO® Store København](https://brickstorestamps.com/stores/store-lego-store-k-benhavn) | Copenhagen | Vimmelskaftet 37, København 1161, Denmark | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=55.67857&mlon=12.57589#map=17/55.67857/12.57589) |
 | [LEGO® Store Tivoli Gardens](https://brickstorestamps.com/stores/store-lego-store-tivoli-gardens) | Copenhagen | Vesterbrogade 3, København 1630, Denmark | Open | Build a Minifigure, Minifigure Factory, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=55.67373614&mlon=12.56856978#map=17/55.67373614/12.56856978) |
 
-Last change 2026-09-28. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-10-05. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
