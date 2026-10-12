@@ -61,31 +61,6 @@
     ]
    },
    "properties": {
-    "id": "store-lego-store-brisbane-airport-international-terminal-bne-duty-free",
-    "name": "LEGO Store Brisbane Airport International Terminal (BNE Duty Free)",
-    "name_local": null,
-    "city": "Brisbane",
-    "country": "Australia",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Brisbane Airport, International Terminal, Airport Drive, Brisbane Airport 4008, Australia",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-brisbane-airport-international-terminal-bne-duty-free"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     153.0235,
-     -27.46896
-    ]
-   },
-   "properties": {
     "id": "store-lego-store-brisbane-bne-domestic",
     "name": "LEGO® Store Brisbane - BNE - Domestic",
     "name_local": null,
@@ -99,6 +74,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-brisbane-bne-domestic"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.0235,
+     -27.46896
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-brisbane-airport-international-terminal-bne-duty-free",
+    "name": "LEGO® Store Brisbane Airport International Terminal (BNE Duty Free)",
+    "name_local": null,
+    "city": "Brisbane",
+    "country": "Australia",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Brisbane Airport, International Terminal, Airport Drive, Brisbane Airport 4008, Australia",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-brisbane-airport-international-terminal-bne-duty-free"
    }
   },
   {
@@ -236,31 +236,6 @@
     ]
    },
    "properties": {
-    "id": "store-lego-store-melbourne-airport-mel-airport-store",
-    "name": "LEGO Store Melbourne Airport - MEL",
-    "name_local": null,
-    "city": "Melbourne",
-    "country": "Australia",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Melbourne Airport, Departure Drive, Melbourne Airport 3045, Australia",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-melbourne-airport-mel-airport-store"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     144.96317,
-     -37.81425
-    ]
-   },
-   "properties": {
     "id": "store-lego-store-doncaster",
     "name": "LEGO® Store Doncaster",
     "name_local": null,
@@ -324,6 +299,31 @@
     "phone": "(03) 8398 9192",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-highpoint"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.96317,
+     -37.81425
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-melbourne-airport-mel-airport-store",
+    "name": "LEGO® Store Melbourne Airport - MEL",
+    "name_local": null,
+    "city": "Melbourne",
+    "country": "Australia",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Melbourne Airport, Departure Drive, Melbourne Airport 3045, Australia",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-melbourne-airport-mel-airport-store"
    }
   },
   {
@@ -462,7 +462,7 @@
    },
    "properties": {
     "id": "store-lego-store-sunshine-plaza",
-    "name": "LEGO Store Sunshine Plaza",
+    "name": "LEGO® Store Sunshine Plaza",
     "name_local": null,
     "city": "Sunshine Coast",
     "country": "Australia",
@@ -474,131 +474,6 @@
     "phone": "07 5554 9437",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-sunshine-plaza"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.20828,
-     -33.86984
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-in-the-australian-head-office",
-    "name": "LEGO Store in the Australian Head Office",
-    "name_local": null,
-    "city": "Sydney",
-    "country": "Australia",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-in-the-australian-head-office"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.20828,
-     -33.86984
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-macquire",
-    "name": "LEGO Store Macquarie",
-    "name_local": null,
-    "city": "Sydney",
-    "country": "Australia",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-macquire"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.20828,
-     -33.86984
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-parramatta",
-    "name": "LEGO Store Parramatta",
-    "name_local": null,
-    "city": "Sydney",
-    "country": "Australia",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-parramatta"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.20828,
-     -33.86984
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-penrith",
-    "name": "LEGO Store Penrith",
-    "name_local": null,
-    "city": "Sydney",
-    "country": "Australia",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-penrith"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     151.20828,
-     -33.86984
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-sydney-airport-syd-airport-store",
-    "name": "LEGO Store Sydney Airport - SYD",
-    "name_local": null,
-    "city": "Sydney",
-    "country": "Australia",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Sydney Airport, Terminal 3 Domestic, Mascot 2020, Australia",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-sydney-airport-syd-airport-store"
    }
   },
   {
@@ -681,6 +556,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.20828,
+     -33.86984
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-in-the-australian-head-office",
+    "name": "LEGO® Store in the Australian Head Office",
+    "name_local": null,
+    "city": "Sydney",
+    "country": "Australia",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": null,
+    "phone": null,
+    "services": "bam, pab",
+    "url": "https://brickstorestamps.com/stores/store-lego-store-in-the-australian-head-office"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.12113211344754,
      -33.777238316639554
     ]
@@ -731,6 +631,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     151.20828,
+     -33.86984
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-sydney-airport-syd-airport-store",
+    "name": "LEGO® Store Sydney Airport - SYD",
+    "name_local": null,
+    "city": "Sydney",
+    "country": "Australia",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Sydney Airport, Terminal 3 Domestic, Mascot 2020, Australia",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-sydney-airport-syd-airport-store"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      151.10063869696165,
      -34.03554697842882
     ]
@@ -761,7 +686,7 @@
     ]
    },
    "properties": {
-    "id": "store-lego-store-westfield-parramatta",
+    "id": "store-lego-store-parramatta",
     "name": "LEGO® Store Westfield Parramatta",
     "name_local": null,
     "city": "Sydney",
@@ -773,7 +698,7 @@
     "address": "Shop 3077 159-175 Church Street, Parramatta NSW 2150, Australia",
     "phone": "(02) 8275 5189",
     "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-westfield-parramatta"
+    "url": "https://brickstorestamps.com/stores/store-lego-store-parramatta"
    }
   },
   {
@@ -1287,7 +1212,7 @@
    },
    "properties": {
     "id": "store-lego-store-riberao-shopping",
-    "name": "LEGO® Store Riberão Shopping",
+    "name": "LEGO® Store Ribeirão Shopping",
     "name_local": null,
     "city": "Ribeirão Preto",
     "country": "Brazil",
@@ -1349,31 +1274,6 @@
     "phone": "+55 21 99032 4541",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-shopping-leblon"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -46.53601,
-     -23.44612
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-centro",
-    "name": "LEGO® Store Centro",
-    "name_local": null,
-    "city": "Rio de Janeiro / SP",
-    "country": "Brazil",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-centro"
    }
   },
   {
@@ -1531,8 +1431,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -46.63338,
-     -23.55065
+     -46.6704799,
+     -23.5616817
     ]
    },
    "properties": {
@@ -1545,8 +1445,8 @@
     "closed_year": null,
     "upcoming": false,
     "opening_date": null,
-    "address": null,
-    "phone": null,
+    "address": "Rua Oscar Freire, 1106 - Jardim Paulista, São Paulo - SP, 01426-002, Brazil",
+    "phone": "(11) 91562-6376",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-oscar-freiere"
    }
@@ -1712,7 +1612,7 @@
    },
    "properties": {
     "id": "store-lego-store-cf-markville",
-    "name": "LEGO Store CF Markville",
+    "name": "LEGO® Store CF Markville",
     "name_local": null,
     "city": "Markham",
     "country": "Canada",
@@ -1724,31 +1624,6 @@
     "phone": null,
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-cf-markville"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -79.64369,
-     43.59264
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-square-one-shopping-centre",
-    "name": "LEGO Store Square One Shopping Centre",
-    "name_local": null,
-    "city": "Mississauga",
-    "country": "Canada",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": true,
-    "opening_date": "2026-11-06",
-    "address": "100 City Centre Dr, Level 2, Mississauga L5B 2C9, Canada",
-    "phone": "905-270-7771",
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-square-one-shopping-centre"
    }
   },
   {
@@ -1774,6 +1649,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-travel-retail-store-toronto-pearson-airport"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.64369,
+     43.59264
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-square-one-shopping-centre",
+    "name": "LEGO® Store Square One Shopping Centre",
+    "name_local": null,
+    "city": "Mississauga",
+    "country": "Canada",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": true,
+    "opening_date": "2026-11-06",
+    "address": "100 City Centre Dr, Level 2, Mississauga L5B 2C9, Canada",
+    "phone": "905-270-7771",
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-square-one-shopping-centre"
    }
   },
   {
@@ -1862,7 +1762,7 @@
    },
    "properties": {
     "id": "store-lego-store-guilford-town-centre",
-    "name": "LEGO® Store Guilford Town Centre",
+    "name": "LEGO® Store Guildford Town Centre",
     "name_local": null,
     "city": "Surrey",
     "country": "Canada",
@@ -1887,7 +1787,7 @@
    },
    "properties": {
     "id": "store-lego-store-cf-toronto-eaton-centre",
-    "name": "LEGO Store CF Toronto Eaton Centre",
+    "name": "LEGO® Store CF Toronto Eaton Centre",
     "name_local": null,
     "city": "Toronto",
     "country": "Canada",
@@ -1999,6 +1899,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-legoland-discovery-centre-toronto"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.11812,
+     49.23173
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-oakridge-centre",
+    "name": "LEGO® Store Oakridge Centre",
+    "name_local": null,
+    "city": "Vancouver",
+    "country": "Canada",
+    "type": "closed",
+    "closed_year": 2020,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Oakridge Centre, 650 W 41st Ave, Vancouver V5Z 2M9, Canada",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-oakridge-centre"
    }
   },
   {
@@ -2456,31 +2381,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     116.418,
-     39.8985
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-beijing-chongwenmen-new-world",
-    "name": "LEGO® Store Beijing Chongwenmen New World",
-    "name_local": "北京新世界百货",
-    "city": "Beijing",
-    "country": "China",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "北京市东城区崇文门外大街3号",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-beijing-chongwenmen-new-world"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      116.35986,
      39.97589
     ]
@@ -2506,6 +2406,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     116.32575,
+     39.73723
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-beijing-daxing-xinchen-tiandi-certified-s",
+    "name": "LEGO® Store Beijing Daxing Xinchen Tiandi (Certified Store)",
+    "name_local": "乐高(新辰天地南区店)",
+    "city": "Beijing",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "北京市大兴区兴华大街27号新辰天地(大兴店南区)2F层",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-beijing-daxing-xinchen-tiandi-certified-s"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      116.5481,
      39.9612
     ]
@@ -2524,6 +2449,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-beijing-dongba-wanda-plaza-lego"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.178,
+     39.73022
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-beijing-fangshan-xiyue-paradise-walk-cert",
+    "name": "LEGO® Store Beijing Fangshan Xiyue Paradise Walk (Certified Store)",
+    "name_local": "乐高(熙悦天街店)",
+    "city": "Beijing",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "北京市房山区长于大街28号院3北京熙悦天街",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-beijing-fangshan-xiyue-paradise-walk-cert"
    }
   },
   {
@@ -2706,6 +2656,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     116.11719,
+     39.90395
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-beijing-mentougou-chang-an-paradise-walk-",
+    "name": "LEGO® Store Beijing Mentougou Chang'an Paradise Walk (Certified Store)",
+    "name_local": "乐高(北京长安天街店)",
+    "city": "Beijing",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "北京市门头沟区新城东街17号院2号楼1层25号",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-beijing-mentougou-chang-an-paradise-walk-"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      116.38798,
      40.00009
     ]
@@ -2731,24 +2706,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     116.4609,
-     39.8953
+     116.63565,
+     39.90475
     ]
    },
    "properties": {
-    "id": "store-lego-store-beijing-r-f-plaza",
-    "name": "LEGO® Store Beijing R&F Plaza",
-    "name_local": "乐高(北京富力广场店)",
+    "id": "store-c-lego-store-beijing-tongzhou-wanda-plaza-certified-st",
+    "name": "LEGO® Store Beijing Tongzhou Wanda Plaza (Certified Store)",
+    "name_local": "乐高(通州万达苏宁店)",
     "city": "Beijing",
     "country": "China",
     "type": "official",
     "closed_year": null,
     "upcoming": false,
     "opening_date": null,
-    "address": "北京市朝阳区东三环中路65号北京富力广场购物中心1F",
-    "phone": null,
+    "address": "北京市通州区北苑街道新华西街58号万达广场(通州店)1F层",
+    "phone": "010-69559604",
     "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-beijing-r-f-plaza"
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-beijing-tongzhou-wanda-plaza-certified-st"
    }
   },
   {
@@ -2781,6 +2756,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     116.47426,
+     39.98544
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-beijing-wangjing-new-world-certified-stor",
+    "name": "LEGO® Store Beijing Wangjing New World (Certified Store)",
+    "name_local": "乐高(望京新世界百货店)",
+    "city": "Beijing",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "北京市朝阳区广顺南大街16号新世界百货·望京店2层",
+    "phone": "4008810252",
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-beijing-wangjing-new-world-certified-stor"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      116.53021,
      40.08851
     ]
@@ -2806,6 +2806,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     116.25293,
+     40.04706
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-beijing-xibeiwang-mixc-world-certified-st",
+    "name": "LEGO® Store Beijing Xibeiwang MixC World (Certified Store)",
+    "name_local": "乐高(西北旺万象汇店)",
+    "city": "Beijing",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "北京市海淀区西北旺万象汇1层103/104",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-beijing-xibeiwang-mixc-world-certified-st"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      116.3478,
      40.0072
     ]
@@ -2824,6 +2849,56 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-store-beijing-xinchenli-certified-store-peking"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.35958,
+     40.06001
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-beijing-xisanqi-mixc-world-certified-stor",
+    "name": "LEGO® Store Beijing Xisanqi MixC World (Certified Store)",
+    "name_local": "乐高(西三旗万象汇店)",
+    "city": "Beijing",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "北京市海淀区建材城东路28号西三旗万象汇L119A",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-beijing-xisanqi-mixc-world-certified-stor"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.48638,
+     39.75179
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-beijing-yizhuang-paradise-walk-certified-",
+    "name": "LEGO® Store Beijing Yizhuang Paradise Walk (Certified Store)",
+    "name_local": "乐高(龙湖北京亦庄天街店)",
+    "city": "Beijing",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "北京市大兴区亦庄经济开发区博兴八路与兴海路交叉口龙湖亦庄天街1层1F-21室",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-beijing-yizhuang-paradise-walk-certified-"
    }
   },
   {
@@ -2931,21 +3006,21 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     116.3528,
-     39.9418
+     116.34632,
+     39.94003
     ]
    },
    "properties": {
     "id": "store-lego-store-beijing-xizhimen-k11-mall",
     "name": "LEGO® Store CapitaMall Xizhimen",
-    "name_local": "凯德MALL西直门广场(暂停营业)",
+    "name_local": "凯德MALL·西直门",
     "city": "Beijing",
     "country": "China",
-    "type": "closed",
+    "type": "official",
     "closed_year": null,
     "upcoming": false,
     "opening_date": null,
-    "address": "北京市西城区西直门外大街1号",
+    "address": "北京市西城区西直门外大街1号院凯德MALL·西直门1层",
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-beijing-xizhimen-k11-mall"
@@ -3231,14 +3306,14 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     116.3913,
-     39.90571
+     116.418,
+     39.8985
     ]
    },
    "properties": {
     "id": "store-lego-store-new-world-department-store",
     "name": "LEGO® Store New World Department Store",
-    "name_local": "乐高(望京新世界百货店)",
+    "name_local": "北京新世界百货(崇文门店)",
     "city": "Beijing",
     "country": "China",
     "type": "official",
@@ -3306,14 +3381,14 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     116.3913,
-     39.90571
+     116.45478,
+     39.89394
     ]
    },
    "properties": {
     "id": "store-lego-store-viva",
     "name": "LEGO® Store Viva",
-    "name_local": null,
+    "name_local": "乐高(北京富力广场店)",
     "city": "Beijing",
     "country": "China",
     "type": "official",
@@ -3437,7 +3512,7 @@
    },
    "properties": {
     "id": "store-lego-store-changchun-mixc-lego",
-    "name": "LEGO® Store ChangChun MixC LEGO",
+    "name": "LEGO® Store ChangChun MixC",
     "name_local": "长春万象城",
     "city": "Changchun",
     "country": "China",
@@ -3449,31 +3524,6 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-changchun-mixc-lego"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     125.379,
-     43.835
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-changchun-sky-city-mall",
-    "name": "LEGO® Store ChangChun Sky City",
-    "name_local": "摩天活力城MALL",
-    "city": "Changchun",
-    "country": "China",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "长春市南关区卫星路和仙台大街交口东北角",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-changchun-sky-city-mall"
    }
   },
   {
@@ -3511,19 +3561,19 @@
     ]
    },
    "properties": {
-    "id": "store-lego-store-ferris-power-city",
+    "id": "store-lego-store-changchun-sky-city-mall",
     "name": "LEGO® Store Ferris Power City",
-    "name_local": null,
+    "name_local": "摩天活力城MALL",
     "city": "Changchun",
     "country": "China",
     "type": "official",
     "closed_year": null,
     "upcoming": false,
     "opening_date": null,
-    "address": "119 1F,Ferris Power City,, Changchun, China",
+    "address": "长春市南关区卫星路和仙台大街交口东北角",
     "phone": "0431-80563969",
     "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-ferris-power-city"
+    "url": "https://brickstorestamps.com/stores/store-lego-store-changchun-sky-city-mall"
    }
   },
   {
@@ -3581,31 +3631,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     112.975,
-     28.1895
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-changsha-id-mall",
-    "name": "LEGO® Store ChangSha",
-    "name_local": "长沙悦方ID MALL",
-    "city": "Changsha",
-    "country": "China",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "长沙市天心区坡子街216号",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-changsha-id-mall"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      113.0158,
      28.1109
     ]
@@ -3631,8 +3656,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     112.9755,
-     28.1897
+     112.96895,
+     28.19331
     ]
    },
    "properties": {
@@ -3756,31 +3781,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     113.0867,
-     28.2494
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-changsha-xingsha-mixc",
-    "name": "LEGO® Store ChangSha Xingsha MixC",
-    "name_local": "乐高授权专卖店(星沙万象汇)",
-    "city": "Changsha",
-    "country": "China",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "长沙市长沙县星沙大道178号星沙万象汇L124号商铺",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-changsha-xingsha-mixc"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      113.23844,
      28.14508
     ]
@@ -3838,7 +3838,7 @@
    "properties": {
     "id": "store-lego-store-the-mix-c-one-changsha",
     "name": "LEGO® Store The Mix C One Changsha",
-    "name_local": null,
+    "name_local": "乐高授权专卖店(星沙万象汇)",
     "city": "Changsha",
     "country": "China",
     "type": "official",
@@ -3899,6 +3899,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-store-changzhi-wanda-plaza-certified-store-chan"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.97376,
+     31.8441
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-changzhou-global-harbor-certified-store-c",
+    "name": "LEGO® Store Changzhou Global Harbor (Certified Store)",
+    "name_local": "乐高授权专卖店(常州环球港店)",
+    "city": "Changzhou",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "常州市新北区通江中路598号",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-changzhou-global-harbor-certified-store-c"
    }
   },
   {
@@ -4106,24 +4131,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     104.06332,
-     30.65987
+     104.06895,
+     30.68798
     ]
    },
    "properties": {
-    "id": "store-lego-store-fucheng-wandam",
-    "name": "LEGO® Store Fucheng Wandam",
-    "name_local": null,
+    "id": "store-c-lego-store-chengdu-shangcheng-paradise-walk-certifie",
+    "name": "LEGO® Store Chengdu Shangcheng Paradise Walk (Certified Store)",
+    "name_local": "乐高(龙湖上城天街店)",
     "city": "Chengdu",
     "country": "China",
     "type": "official",
     "closed_year": null,
     "upcoming": false,
     "opening_date": null,
-    "address": null,
+    "address": "成都市金牛区一环路北二段2号龙湖上城天街L1层06",
     "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-fucheng-wandam"
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-chengdu-shangcheng-paradise-walk-certifie"
    }
   },
   {
@@ -4138,7 +4163,7 @@
    "properties": {
     "id": "store-lego-store-joy-city-chengdu",
     "name": "LEGO® Store Joy City Chengdu",
-    "name_local": "LEGO(大悦城店)",
+    "name_local": "成都大悦城",
     "city": "Chengdu",
     "country": "China",
     "type": "official",
@@ -4162,7 +4187,7 @@
    },
    "properties": {
     "id": "store-lego-store-leshijie-capitaland",
-    "name": "LEGO® Store Leshijie capitaland",
+    "name": "LEGO® Store Leshijie CapitaLand",
     "name_local": null,
     "city": "Chengdu",
     "country": "China",
@@ -4263,7 +4288,7 @@
    "properties": {
     "id": "store-lego-store-taikoo-li-chengdu",
     "name": "LEGO® Store Taikoo Li Chengdu",
-    "name_local": "乐高(成都店)",
+    "name_local": "成都远洋太古里",
     "city": "Chengdu",
     "country": "China",
     "type": "official",
@@ -4331,14 +4356,14 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     107.87487,
-     30.05518
+     106.54427,
+     29.64319
     ]
    },
    "properties": {
     "id": "store-lego-store-aegean-shopping-mall",
     "name": "LEGO® Store Aegean Shopping Mall",
-    "name_local": null,
+    "name_local": "重庆爱琴海购物公园",
     "city": "Chongqing",
     "country": "China",
     "type": "official",
@@ -4349,6 +4374,31 @@
     "phone": "023-63051800",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-aegean-shopping-mall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.52959,
+     29.58051
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-chongqing-beicheng-paradise-walk-certifie",
+    "name": "LEGO® Store Chongqing Beicheng Paradise Walk (Certified Store)",
+    "name_local": "乐高(北城天街A馆店)",
+    "city": "Chongqing",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "重庆市两江新区北城天街6-8X馆L1",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-chongqing-beicheng-paradise-walk-certifie"
    }
   },
   {
@@ -4399,6 +4449,31 @@
     "phone": "(023)67721503",
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-store-chongqing-ifs-certified-store-chongqing"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.45763,
+     29.55719
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-chongqing-jinsha-paradise-walk-certified-",
+    "name": "LEGO® Store Chongqing Jinsha Paradise Walk (Certified Store)",
+    "name_local": "龙湖金沙天街",
+    "city": "Chongqing",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "重庆市沙坪坝区北站东路188号重庆龙湖金沙天街B馆1F-28铺",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-chongqing-jinsha-paradise-walk-certified-"
    }
   },
   {
@@ -4474,31 +4549,6 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-store-chongqing-wanzhou-wanda-plaza-certified-s"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     106.54792,
-     29.56567
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-i-mix-park",
-    "name": "LEGO® Store I Mix Park",
-    "name_local": null,
-    "city": "Chongqing",
-    "country": "China",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-i-mix-park"
    }
   },
   {
@@ -5231,6 +5281,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     119.29458,
+     26.08758
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-beacon-store-fuzhou-dongbai-center-fuzhou",
+    "name": "LEGO® Beacon Store Fuzhou Dongbai Center",
+    "name_local": "福州东百中心",
+    "city": "Fuzhou",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "福州市鼓楼区八一七北路88号东百中心",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-beacon-store-fuzhou-dongbai-center-fuzhou"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      119.27252,
      26.07691
     ]
@@ -5381,6 +5456,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     113.26212,
+     23.17587
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-guangzhou-baiyun-wanda-plaza-certified-st",
+    "name": "LEGO® Store Guangzhou Baiyun Wanda Plaza (Certified Store)",
+    "name_local": "乐高(白云万达百货店)",
+    "city": "Guangzhou",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "广州市白云区云城东路501号万达广场F1",
+    "phone": "13668952564",
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-guangzhou-baiyun-wanda-plaza-certified-st"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      113.26441,
      23.12227
     ]
@@ -5424,6 +5524,31 @@
     "phone": "020-38620073",
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-store-guangzhou-ifc-certified-store-guangzhou"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.34334,
+     23.00696
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-guangzhou-panyu-tianhe-city-certified-sto",
+    "name": "LEGO® Store Guangzhou Panyu Tianhe City (Certified Store)",
+    "name_local": "乐高授权专卖店(番禺天河城店)",
+    "city": "Guangzhou",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "广州市番禺区万博二路180号番禺天河城A区1层",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-guangzhou-panyu-tianhe-city-certified-sto"
    }
   },
   {
@@ -5831,6 +5956,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     110.4546,
+     19.94027
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-haikou-meilan-airport-certified-store-hai",
+    "name": "LEGO® Store Haikou Meilan Airport (Certified Store)",
+    "name_local": "乐高(航安二街店)",
+    "city": "Haikou",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "海口市美兰区美兰国际机场",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-haikou-meilan-airport-certified-store-hai"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      110.31038,
      20.02922
     ]
@@ -5956,6 +6106,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     120.10904,
+     30.35387
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-hangzhou-chengbei-mixc-certified-store-ha",
+    "name": "LEGO® Store Hangzhou Chengbei MixC (Certified Store)",
+    "name_local": "乐高(城北万象城店)",
+    "city": "Hangzhou",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "杭州市余杭区城北万象城1层",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-hangzhou-chengbei-mixc-certified-store-ha"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.20108,
+     30.2627
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-hangzhou-intime-qingchun-certified-store-",
+    "name": "LEGO® Store Hangzhou Intime Qingchun (Certified Store)",
+    "name_local": "乐高(银泰百货杭州庆春店)",
+    "city": "Hangzhou",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "杭州市上城区景昙路18号银泰百货庆春店B1层",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-hangzhou-intime-qingchun-certified-store-"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      120.159981,
      30.256066
     ]
@@ -6012,7 +6212,7 @@
    },
    "properties": {
     "id": "store-lego-store-lining-intime-city",
-    "name": "LEGO® Store Lining Intime City",
+    "name": "LEGO® Store Linping Intime City",
     "name_local": "乐高(杭州临平银泰城店)",
     "city": "Hangzhou",
     "country": "China",
@@ -6024,31 +6224,6 @@
     "phone": "0571-86107591",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-lining-intime-city"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     120.20523,
-     30.24896
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-raffles-city",
-    "name": "LEGO® Store Raffles City",
-    "name_local": null,
-    "city": "Hangzhou",
-    "country": "China",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-raffles-city"
    }
   },
   {
@@ -6074,31 +6249,6 @@
     "phone": "0571-82395736",
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-the-mix-c-hangzhou"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     120.20523,
-     30.24896
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-the-mix-c-one",
-    "name": "LEGO® Store The Mix C One",
-    "name_local": null,
-    "city": "Hangzhou",
-    "country": "China",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-the-mix-c-one"
    }
   },
   {
@@ -6138,7 +6288,7 @@
    "properties": {
     "id": "store-lego-store-xiasha-in-city",
     "name": "LEGO® Store Xiasha In City",
-    "name_local": "银泰百货(下沙店)",
+    "name_local": "乐高(杭州金沙印象城店)",
     "city": "Hangzhou",
     "country": "China",
     "type": "official",
@@ -6299,6 +6449,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-harbin-kaide-store-on-xuefu-road"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.53241,
+     45.80784
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-harbin-songbei-mixc-world-certified-store",
+    "name": "LEGO® Store Harbin Songbei MixC World (Certified Store)",
+    "name_local": "乐高(松北万象汇店)",
+    "city": "Harbin",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "哈尔滨市松北区世茂大道555号万象汇F3层",
+    "phone": "0451-88031886",
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-harbin-songbei-mixc-world-certified-store"
    }
   },
   {
@@ -6613,7 +6788,7 @@
    "properties": {
     "id": "store-lego-store-huaian-xinya-plaza-lego",
     "name": "LEGO® Store Huaian Xinya Plaza",
-    "name_local": "LEGO",
+    "name_local": "淮安新亚广场",
     "city": "Huai'an",
     "country": "China",
     "type": "official",
@@ -6749,6 +6924,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-store-jiaxing-yaohan-certified-store-jiaxing"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.12245,
+     36.68554
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-jinan-gaoxin-wanda-plaza-certified-store-",
+    "name": "LEGO® Store Jinan Gaoxin Wanda Plaza (Certified Store)",
+    "name_local": "高新万达LEGO乐高授权专卖店",
+    "city": "Jinan",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "济南市历下区工业南路57号高新万达广场1F",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-jinan-gaoxin-wanda-plaza-certified-store-"
    }
   },
   {
@@ -7024,6 +7224,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-store-kunming-mixc-certified-store-kunming"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.68188,
+     25.01239
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-kunming-nanya-first-city-certified-store-",
+    "name": "LEGO® Store Kunming Nanya First City (Certified Store)",
+    "name_local": "乐高(昆明南亚店)",
+    "city": "Kunming",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "昆明市西山区南亚风情第壹城",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-kunming-nanya-first-city-certified-store-"
    }
   },
   {
@@ -7356,14 +7581,39 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     112.44346,
-     34.66338
+     112.4274,
+     34.66932
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-luoyang-xigong-wangfujing-certified-store",
+    "name": "LEGO® Store Luoyang Xigong Wangfujing (Certified Store)",
+    "name_local": "乐高(西工王府井百货店)",
+    "city": "Luoyang",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "洛阳市西工区中州中路429号",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-luoyang-xigong-wangfujing-certified-store"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.40225,
+     34.64588
     ]
    },
    "properties": {
     "id": "store-lego-store-wangfujing-shopping-mall",
-    "name": "LEGO® Store Wangfujing Shopping mall",
-    "name_local": null,
+    "name": "LEGO® Store Wangfujing Shopping Mall",
+    "name_local": "洛阳王府井百货",
     "city": "Luoyang",
     "country": "China",
     "type": "official",
@@ -7631,6 +7881,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     118.73488,
+     32.02583
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-nanjing-hexi-golden-eagle-world-certified",
+    "name": "LEGO® Store Nanjing Hexi Golden Eagle World (Certified Store)",
+    "name_local": "乐高(河西金鹰世界店)",
+    "city": "Nanjing",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "南京市建邺区应天大街888号金鹰世界",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-nanjing-hexi-golden-eagle-world-certified"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      118.63485,
      32.06985
     ]
@@ -7706,14 +7981,14 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     118.77886,
-     32.04383
+     118.71646,
+     31.99891
     ]
    },
    "properties": {
     "id": "store-lego-store-one-mall",
     "name": "LEGO® Store One Mall",
-    "name_local": null,
+    "name_local": "华采天地",
     "city": "Nanjing",
     "country": "China",
     "type": "official",
@@ -7756,21 +8031,21 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     118.77886,
-     32.04383
+     118.76229,
+     32.01137
     ]
    },
    "properties": {
     "id": "store-lego-store-wonder-city",
     "name": "LEGO® Store Wonder City",
-    "name_local": null,
+    "name_local": "南京虹悦城",
     "city": "Nanjing",
     "country": "China",
     "type": "official",
     "closed_year": null,
     "upcoming": false,
     "opening_date": null,
-    "address": null,
+    "address": "南京市雨花台区应天大街619号",
     "phone": null,
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-wonder-city"
@@ -7906,14 +8181,39 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     121.62039,
-     29.86222
+     121.54719,
+     29.90053
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-ningbo-jiangbei-mixc-certified-store-ning",
+    "name": "LEGO® Store Ningbo Jiangbei MixC (Certified Store)",
+    "name_local": "乐高(宁波万象城店)",
+    "city": "Ningbo",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "宁波市江北区清河路265号宁波万象城1层L109-110",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-ningbo-jiangbei-mixc-certified-store-ning"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.56338,
+     29.83671
     ]
    },
    "properties": {
     "id": "store-lego-store-ningbo-yingzhou-mixc-city",
     "name": "LEGO® Store Ningbo Yingzhou Mixc City",
-    "name_local": null,
+    "name_local": "宁波鄞州万象汇",
     "city": "Ningbo",
     "country": "China",
     "type": "official",
@@ -7938,7 +8238,7 @@
    "properties": {
     "id": "store-lego-store-raffles-city-ningbo",
     "name": "LEGO® Store Raffles City",
-    "name_local": "乐高(来福士店)",
+    "name_local": "宁波来福士广场",
     "city": "Ningbo",
     "country": "China",
     "type": "official",
@@ -8149,6 +8449,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-qingdao-vientiane-city"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.4215,
+     36.15982
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-qingdao-weidong-le-ke-cheng-certified-sto",
+    "name": "LEGO® Store Qingdao Weidong Le Ke Cheng (Certified Store)",
+    "name_local": "青岛乐客城乐高授权专卖店",
+    "city": "Qingdao",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "青岛市李沧区夏庄路1号伟东·乐客城",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-qingdao-weidong-le-ke-cheng-certified-sto"
    }
   },
   {
@@ -8388,7 +8713,7 @@
    "properties": {
     "id": "store-lego-store-citic-wanda-plaza",
     "name": "LEGO® Store Citic Wanda Plaza",
-    "name_local": "乐高",
+    "name_local": "嘉定中信泰富万达广场",
     "city": "Shanghai",
     "country": "China",
     "type": "official",
@@ -8563,7 +8888,7 @@
    "properties": {
     "id": "store-lego-store-i-mix-park-shanghai",
     "name": "LEGO® Store I Mix Park",
-    "name_local": "LEGO",
+    "name_local": "静安大融城",
     "city": "Shanghai",
     "country": "China",
     "type": "official",
@@ -8574,31 +8899,6 @@
     "phone": "021-56720517",
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-i-mix-park-shanghai"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     121.4691,
-     31.23234
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-joy-city",
-    "name": "LEGO® Store Joy City",
-    "name_local": null,
-    "city": "Shanghai",
-    "country": "China",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-joy-city"
    }
   },
   {
@@ -8706,14 +9006,14 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     121.4691,
-     31.23234
+     121.34538,
+     31.15567
     ]
    },
    "properties": {
     "id": "store-lego-store-qibao-vanke-mall",
     "name": "LEGO® Store Qibao Vanke Mall",
-    "name_local": null,
+    "name_local": "七宝领展广场",
     "city": "Shanghai",
     "country": "China",
     "type": "official",
@@ -8806,6 +9106,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     121.35503,
+     31.21977
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-shanghai-changning-art-park-certified-sto",
+    "name": "LEGO® Store Shanghai Changning Art Park (Certified Store)",
+    "name_local": "长宁Art Park大融城",
+    "city": "Shanghai",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "上海市长宁区淞虹路377号长宁Art Park大融城1层",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-shanghai-changning-art-park-certified-sto"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      121.4145,
      31.2163
     ]
@@ -8824,6 +9149,56 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-shanghai-changning-raffles-city"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.41244,
+     31.62791
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-shanghai-chongming-wanda-plaza-certified-",
+    "name": "LEGO® Store Shanghai Chongming Wanda Plaza (Certified Store)",
+    "name_local": "乐高(上海崇明万达店)",
+    "city": "Shanghai",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "上海市崇明区城桥镇翠竹路2377号1F1071",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-shanghai-chongming-wanda-plaza-certified-"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.69356,
+     31.18727
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-shanghai-chuansha-bailian-certified-store",
+    "name": "LEGO® Store Shanghai Chuansha Bailian (Certified Store)",
+    "name_local": "乐高(百联川沙购物中心店)",
+    "city": "Shanghai",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "上海市浦东新区川沙路5398号",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-shanghai-chuansha-bailian-certified-store"
    }
   },
   {
@@ -8913,7 +9288,7 @@
    "properties": {
     "id": "store-lego-store-shanghai-forte-vanke-vitality-city",
     "name": "LEGO® Store Shanghai Forte Vanke Vitality City",
-    "name_local": "乐高",
+    "name_local": "复地活力城",
     "city": "Shanghai",
     "country": "China",
     "type": "official",
@@ -9106,31 +9481,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     121.498239,
-     31.249699
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-shanghai-magnolia",
-    "name": "LEGO® Store Shanghai Magnolia",
-    "name_local": "乐高(上海白玉兰广场店)",
-    "city": "Shanghai",
-    "country": "China",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "上海市虹口区东长治路588号上海白玉兰广场LG1层",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-shanghai-magnolia"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      121.4149,
      31.0262
     ]
@@ -9263,7 +9613,7 @@
    "properties": {
     "id": "store-lego-store-shanghai-pudong-expo-source",
     "name": "LEGO® Store Shanghai Pudong Expo Source",
-    "name_local": "乐高",
+    "name_local": "世博源",
     "city": "Shanghai",
     "country": "China",
     "type": "official",
@@ -9381,31 +9731,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     121.38161,
-     31.10873
-    ]
-   },
-   "properties": {
-    "id": "store-c-lego-store-shanghai-zhongsheng-world-mall-certified-",
-    "name": "LEGO® Store Shanghai Zhongsheng World Mall (Certified Store)",
-    "name_local": "仲盛世界商城",
-    "city": "Shanghai",
-    "country": "China",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "上海市闵行区闵城路180临西北方向140米",
-    "phone": "021-52231791",
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-c-lego-store-shanghai-zhongsheng-world-mall-certified-"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      121.493784,
      31.25169
     ]
@@ -9413,7 +9738,7 @@
    "properties": {
     "id": "store-lego-store-sinar-mas-plaza",
     "name": "LEGO® Store Sinar Mas Plaza",
-    "name_local": null,
+    "name_local": "乐高(上海白玉兰广场店)",
     "city": "Shanghai",
     "country": "China",
     "type": "official",
@@ -9481,14 +9806,14 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     121.4691,
-     31.23234
+     121.38161,
+     31.10873
     ]
    },
    "properties": {
     "id": "store-lego-store-the-sky-mall",
     "name": "LEGO® Store The Sky Mall",
-    "name_local": null,
+    "name_local": "仲盛世界商城",
     "city": "Shanghai",
     "country": "China",
     "type": "official",
@@ -9731,24 +10056,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     123.4346,
-     41.7765
+     123.44848,
+     41.79975
     ]
    },
    "properties": {
-    "id": "store-lego-store-shenyang-mixc-mall",
-    "name": "LEGO® Store Shenyang MixC Mall",
-    "name_local": "沈阳万象城",
+    "id": "store-c-lego-store-shenyang-palace-66-certified-store-shenya",
+    "name": "LEGO® Store Shenyang Palace 66 (Certified Store)",
+    "name_local": "乐高174授权专卖店(皇城恒隆广场)",
     "city": "Shenyang",
     "country": "China",
     "type": "official",
     "closed_year": null,
     "upcoming": false,
     "opening_date": null,
-    "address": "沈阳市和平区青年大街288号",
+    "address": "沈阳市沈河区皇城恒隆广场一楼",
     "phone": null,
     "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-shenyang-mixc-mall"
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-shenyang-palace-66-certified-store-shenya"
    }
   },
   {
@@ -9781,21 +10106,21 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     123.42791,
-     41.80261
+     123.4346,
+     41.7765
     ]
    },
    "properties": {
     "id": "store-lego-store-the-mix-c-shenyang",
     "name": "LEGO® Store The Mix C Shenyang",
-    "name_local": null,
+    "name_local": "沈阳万象城",
     "city": "Shenyang",
     "country": "China",
     "type": "official",
     "closed_year": null,
     "upcoming": false,
     "opening_date": null,
-    "address": null,
+    "address": "沈阳市和平区青年大街288号",
     "phone": "024-62760005",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-the-mix-c-shenyang"
@@ -9931,14 +10256,14 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     114.05454,
-     22.54457
+     113.98449,
+     22.52908
     ]
    },
    "properties": {
     "id": "store-lego-store-o-plaza",
     "name": "LEGO® Store O'plaza",
-    "name_local": null,
+    "name_local": "欢乐海岸购物中心",
     "city": "Shenzhen",
     "country": "China",
     "type": "official",
@@ -9987,7 +10312,7 @@
    },
    "properties": {
     "id": "store-lego-store-shenzhen",
-    "name": "LEGO® Store Shenzhen",
+    "name": "LEGO® Store Shenzhen AVIC City",
     "name_local": "中航城君尚购物中心",
     "city": "Shenzhen",
     "country": "China",
@@ -10056,31 +10381,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     113.98449,
-     22.52908
-    ]
-   },
-   "properties": {
-    "id": "store-c-lego-store-shenzhen-happy-coast-certified-store-shen",
-    "name": "LEGO® Store Shenzhen Happy Coast (Certified Store)",
-    "name_local": "欢乐海岸购物中心",
-    "city": "Shenzhen",
-    "country": "China",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "深圳市南山区白石路东8号欢乐海岸购物中心039-041号",
-    "phone": "0755-86662572",
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-c-lego-store-shenzhen-happy-coast-certified-store-shen"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      114.23882,
      22.71765
     ]
@@ -10131,6 +10431,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     114.10547,
+     22.56458
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-shenzhen-sungang-wanxiang-shijia-certifie",
+    "name": "LEGO® Store Shenzhen Sungang Wanxiang Shijia (Certified Store)",
+    "name_local": "乐高(万象食家店)",
+    "city": "Shenzhen",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "深圳市罗湖区梅园路71号华润万象食家1层L128",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-shenzhen-sungang-wanxiang-shijia-certifie"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      113.97028,
      22.54031
     ]
@@ -10156,31 +10481,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     114.05454,
-     22.54457
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-the-mix-c",
-    "name": "LEGO® Store The Mix C",
-    "name_local": null,
-    "city": "Shenzhen",
-    "country": "China",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-the-mix-c"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      114.105681,
      22.542478
     ]
@@ -10188,7 +10488,7 @@
    "properties": {
     "id": "store-lego-store-the-mix-c-shenzhen",
     "name": "LEGO® Store The Mix C Shenzhen",
-    "name_local": "乐高(万象城店)",
+    "name_local": "深圳万象城",
     "city": "Shenzhen",
     "country": "China",
     "type": "official",
@@ -10831,14 +11131,39 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     117.19575,
-     39.08441
+     118.18018,
+     39.62316
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-tangshan-wanda-plaza-certified-store-tang",
+    "name": "LEGO® Store Tangshan Wanda Plaza (Certified Store)",
+    "name_local": "唐山万达乐高授权专卖店",
+    "city": "Tangshan",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "唐山市路南区新华东道100号唐山万达广场",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-tangshan-wanda-plaza-certified-store-tang"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.16873,
+     39.09423
     ]
    },
    "properties": {
     "id": "store-lego-store-luneng-city-center-plaza",
     "name": "LEGO® Store Luneng City Center Plaza",
-    "name_local": null,
+    "name_local": "天津贵和购物中心",
     "city": "Tianjin",
     "country": "China",
     "type": "official",
@@ -10886,19 +11211,19 @@
     ]
    },
    "properties": {
-    "id": "store-lego-store-riverside-66",
+    "id": "store-lego-store-tianjin-henglong",
     "name": "LEGO® Store Riverside 66",
-    "name_local": null,
+    "name_local": "乐高(天津恒隆广场店)",
     "city": "Tianjin",
     "country": "China",
     "type": "official",
     "closed_year": null,
     "upcoming": false,
     "opening_date": null,
-    "address": "F1-1012A Riverside 66,, Tianjin, China",
+    "address": "天津市和平区张自忠路158号",
     "phone": "022-27242855",
     "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-riverside-66"
+    "url": "https://brickstorestamps.com/stores/store-lego-store-tianjin-henglong"
    }
   },
   {
@@ -10956,24 +11281,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     117.1985,
-     39.128
+     117.21128,
+     39.11696
     ]
    },
    "properties": {
-    "id": "store-lego-store-tianjin-henglong",
-    "name": "LEGO® Store Tianjin Henglong",
-    "name_local": "乐高(天津恒隆广场店)",
+    "id": "store-c-lego-store-tianjin-hisense-plaza-certified-store-tia",
+    "name": "LEGO® Store Tianjin Hisense Plaza (Certified Store)",
+    "name_local": "LEGO(海信广场店)",
     "city": "Tianjin",
     "country": "China",
     "type": "official",
     "closed_year": null,
     "upcoming": false,
     "opening_date": null,
-    "address": "天津市和平区张自忠路158号",
-    "phone": null,
+    "address": "天津市和平区解放北路188号海信广场5层",
+    "phone": "022-23198888",
     "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-tianjin-henglong"
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-tianjin-hisense-plaza-certified-store-tia"
    }
   },
   {
@@ -11238,7 +11563,7 @@
    "properties": {
     "id": "store-lego-store-the-mix-c-wenzhou",
     "name": "LEGO® Store The Mix C Wenzhou",
-    "name_local": "乐高(万象城店)",
+    "name_local": "温州万象城",
     "city": "Wenzhou",
     "country": "China",
     "type": "official",
@@ -11562,7 +11887,7 @@
    },
    "properties": {
     "id": "store-lego-store-wuhu-yaohan",
-    "name": "LEGO® Store Wuhu yaohan",
+    "name": "LEGO® Store Wuhu Yaohan",
     "name_local": "乐高(芜湖八佰伴店)",
     "city": "Wuhu",
     "country": "China",
@@ -11787,8 +12112,8 @@
    },
    "properties": {
     "id": "store-lego-store-cityon-wangfujing",
-    "name": "LEGO® Store CityOn Wangfujing",
-    "name_local": null,
+    "name": "LEGO® Store CityOn Wangfujing Xi'an",
+    "name_local": "西安熙地港",
     "city": "Xi'an",
     "country": "China",
     "type": "official",
@@ -11837,7 +12162,7 @@
    },
    "properties": {
     "id": "store-lego-store-joycity-xi-an",
-    "name": "LEGO® Store JOYCITY XI'AN",
+    "name": "LEGO® Store Joy City Xi'an",
     "name_local": "西安大悦城",
     "city": "Xi'an",
     "country": "China",
@@ -12112,7 +12437,7 @@
    },
    "properties": {
     "id": "store-lego-store-zhongda-international-shopping-mall",
-    "name": "LEGO® Store Zhongda International Shopping mall",
+    "name": "LEGO® Store Zhongda International Shopping Mall",
     "name_local": null,
     "city": "Xi'an",
     "country": "China",
@@ -12124,31 +12449,6 @@
     "phone": "17392493447",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-zhongda-international-shopping-mall"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     118.08535,
-     24.48011
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-international-plaza",
-    "name": "LEGO® Store International Plaza",
-    "name_local": null,
-    "city": "Xiamen",
-    "country": "China",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-international-plaza"
    }
   },
   {
@@ -12224,6 +12524,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-store-xiamen-c-d-wanyue-city-certified-store-xi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.07812,
+     24.45487
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-xiamen-zhonghua-city-certified-store-xiam",
+    "name": "LEGO® Store Xiamen Zhonghua City (Certified Store)",
+    "name_local": "厦门中华城乐高®授权专卖店",
+    "city": "Xiamen",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "厦门市思明区思明南路189号中华城南区1F #02",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-xiamen-zhonghua-city-certified-store-xiam"
    }
   },
   {
@@ -12606,6 +12931,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     121.37816,
+     37.54108
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-yantai-zhenhua-department-store-certified",
+    "name": "LEGO® Store Yantai Zhenhua Department Store (Certified Store)",
+    "name_local": "烟台振华商厦乐高®商店",
+    "city": "Yantai",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "烟台市芝罘区西大街8号烟台振华商厦",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-yantai-zhenhua-department-store-certified"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      111.29085,
      30.70454
     ]
@@ -12631,6 +12981,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     111.30247,
+     30.68277
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-yichang-wujiagang-wanda-plaza-certified-s",
+    "name": "LEGO® Store Yichang Wujiagang Wanda Plaza (Certified Store)",
+    "name_local": "乐高(宜昌伍家岗万达店)",
+    "city": "Yichang",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "宜昌市伍家岗区沿江大道166号宜昌伍家岗万达广场1F层",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-yichang-wujiagang-wanda-plaza-certified-s"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      106.25214,
      38.51408
     ]
@@ -12649,6 +13024,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-store-yinchuan-wangfujing-outlets-certified-sto"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.27534,
+     38.46473
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-yinchuan-xinhua-department-store-ccmall-c",
+    "name": "LEGO® Store Yinchuan Xinhua Department Store CCmall (Certified Store)",
+    "name_local": "银川新百CCmall乐高授权专卖店",
+    "city": "Yinchuan",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "银川市兴庆区解放东街50号新华百货CCmall",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-yinchuan-xinhua-department-store-ccmall-c"
    }
   },
   {
@@ -12837,8 +13237,8 @@
    },
    "properties": {
     "id": "store-lego-store-cityon-wangfujing-2",
-    "name": "LEGO® Store CityOn Wangfujing",
-    "name_local": null,
+    "name": "LEGO® Store CityOn Wangfujing Zhengzhou",
+    "name_local": "郑州熙地港",
     "city": "Zhengzhou",
     "country": "China",
     "type": "official",
@@ -12924,6 +13324,31 @@
     "phone": "0371-61285698",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-yoyo-park"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.65669,
+     34.75623
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-zhengzhou-erqi-mixc-certified-store-zheng",
+    "name": "LEGO® Store Zhengzhou Erqi MixC (Certified Store)",
+    "name_local": "乐高(华润万象城店)",
+    "city": "Zhengzhou",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "郑州市二七区民主路10号万象城F1",
+    "phone": "0371-86256219",
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-zhengzhou-erqi-mixc-certified-store-zheng"
    }
   },
   {
@@ -13162,7 +13587,7 @@
    },
    "properties": {
     "id": "store-lego-store-zhuhai-haufa-shangdu-lego",
-    "name": "LEGO® Store Zhuhai Haufa Shangdu",
+    "name": "LEGO® Store Zhuhai Huafa Shangdu",
     "name_local": "LEGO乐高授权专卖店(华发商都店)",
     "city": "Zhuhai",
     "country": "China",
@@ -13631,31 +14056,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     9.11958,
-     55.7247
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-billund-airport",
-    "name": "LEGO Store Billund Airport",
-    "name_local": null,
-    "city": "Billund",
-    "country": "Denmark",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Passagerterminalen 10, Billund 7190, Denmark",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-billund-airport"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      9.11479,
      55.731113
     ]
@@ -13674,6 +14074,31 @@
     "phone": "+45 82 82 04 00",
     "services": "bam, minifigure_factory, mosaic_maker, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-house-billund"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.11958,
+     55.7247
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-billund-airport",
+    "name": "LEGO® Store Billund Airport",
+    "name_local": null,
+    "city": "Billund",
+    "country": "Denmark",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Passagerterminalen 10, Billund 7190, Denmark",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-billund-airport"
    }
   },
   {
@@ -13712,7 +14137,7 @@
    },
    "properties": {
     "id": "store-lego-store-copenhagen-airport-t2",
-    "name": "LEGO Store Copenhagen Airport T2",
+    "name": "LEGO® Store Copenhagen Airport T2",
     "name_local": null,
     "city": "Copenhagen",
     "country": "Denmark",
@@ -13737,7 +14162,7 @@
    },
    "properties": {
     "id": "store-lego-store-copenhagen-airport-t3",
-    "name": "LEGO Store Copenhagen Airport T3",
+    "name": "LEGO® Store Copenhagen Airport T3",
     "name_local": null,
     "city": "Copenhagen",
     "country": "Denmark",
@@ -14112,7 +14537,7 @@
    },
    "properties": {
     "id": "store-lego-store-lyon-airport",
-    "name": "LEGO Store Lyon Airport",
+    "name": "LEGO® Store Lyon Airport",
     "name_local": null,
     "city": "Lyon",
     "country": "France",
@@ -14531,31 +14956,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     13.39513,
-     52.51739
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-berlin-airport",
-    "name": "LEGO Store Berlin Airport",
-    "name_local": null,
-    "city": "Berlin",
-    "country": "Germany",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Willy-Brandt-Platz, Schönefeld 12521, Germany",
-    "phone": "+49 30 609178842",
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-berlin-airport"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      13.3403089,
      52.5024106
     ]
@@ -14599,6 +14999,31 @@
     "phone": "+49 3080093992",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-berlin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.39513,
+     52.51739
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-berlin-airport",
+    "name": "LEGO® Store Berlin Airport",
+    "name_local": null,
+    "city": "Berlin",
+    "country": "Germany",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Willy-Brandt-Platz, Schönefeld 12521, Germany",
+    "phone": "+49 30 609178842",
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-berlin-airport"
    }
   },
   {
@@ -14987,7 +15412,7 @@
    },
    "properties": {
     "id": "store-lego-store-flughafen-munchen-terminal-1",
-    "name": "LEGO Store Flughafen München Terminal 1",
+    "name": "LEGO® Store Flughafen München Terminal 1",
     "name_local": null,
     "city": "Munich",
     "country": "Germany",
@@ -14999,31 +15424,6 @@
     "phone": "+49 89 975 844 44",
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-flughafen-munchen-terminal-1"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     11.57538,
-     48.13711
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-munich-airport-t2",
-    "name": "LEGO Store Munich Airport T2",
-    "name_local": null,
-    "city": "Munich",
-    "country": "Germany",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Terminalstraße Nord, München-Flughafen 85356, Germany",
-    "phone": "+49 89 975 844 44",
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-munich-airport-t2"
    }
   },
   {
@@ -15099,6 +15499,31 @@
     "phone": "+49 8954195092",
     "services": "bam, minifigure_factory, mosaic_maker, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-muenchen-zentrum"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.57538,
+     48.13711
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-munich-airport-t2",
+    "name": "LEGO® Store Munich Airport T2",
+    "name_local": null,
+    "city": "Munich",
+    "country": "Germany",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Terminalstraße Nord, München-Flughafen 85356, Germany",
+    "phone": "+49 89 975 844 44",
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-munich-airport-t2"
    }
   },
   {
@@ -15712,7 +16137,7 @@
    },
    "properties": {
     "id": "store-lego-store-kubbabu-in",
-    "name": "LEGO Store Kubbabúðin",
+    "name": "LEGO® Store Kubbabúðin",
     "name_local": null,
     "city": "Reykjavík",
     "country": "Iceland",
@@ -15724,56 +16149,6 @@
     "phone": null,
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-kubbabu-in"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     77.59008,
-     12.97679
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-orion-mall-bengaluru",
-    "name": "LEGO Store - Orion Mall Bengaluru",
-    "name_local": null,
-    "city": "Bengaluru",
-    "country": "India",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Shop No 16, Ground Floor, Orion Mall, Dr Rajakumar Road, Nearby The Rameshwaram Cafe, Rajajinagar, Bengaluru 560055, India",
-    "phone": "+91 80718 20916",
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-orion-mall-bengaluru"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     77.59008,
-     12.97679
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-phoenix-mall-of-asia-bengaluru",
-    "name": "LEGO Store - Phoenix Mall of Asia Bengaluru",
-    "name_local": null,
-    "city": "Bengaluru",
-    "country": "India",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "UG 47, Yelahanka, Nearby L&T, Phoenix Mall Of Asia, Bengaluru 560092, India",
-    "phone": "+91 67461 72910",
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-phoenix-mall-of-asia-bengaluru"
    }
   },
   {
@@ -15806,13 +16181,63 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     77.59008,
+     12.97679
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-orion-mall-bengaluru",
+    "name": "LEGO® Store - Orion Mall Bengaluru",
+    "name_local": null,
+    "city": "Bengaluru",
+    "country": "India",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Shop No 16, Ground Floor, Orion Mall, Dr Rajakumar Road, Nearby The Rameshwaram Cafe, Rajajinagar, Bengaluru 560055, India",
+    "phone": "+91 80718 20916",
+    "services": "bam, pab",
+    "url": "https://brickstorestamps.com/stores/store-lego-store-orion-mall-bengaluru"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.59008,
+     12.97679
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-phoenix-mall-of-asia-bengaluru",
+    "name": "LEGO® Store - Phoenix Mall of Asia Bengaluru",
+    "name_local": null,
+    "city": "Bengaluru",
+    "country": "India",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "UG 47, Yelahanka, Nearby L&T, Phoenix Mall Of Asia, Bengaluru 560092, India",
+    "phone": "+91 67461 72910",
+    "services": "bam, pab",
+    "url": "https://brickstorestamps.com/stores/store-lego-store-phoenix-mall-of-asia-bengaluru"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      80.27019,
      13.08369
     ]
    },
    "properties": {
     "id": "store-lego-store-express-avenue-mall-royapettah-chennai",
-    "name": "LEGO Store - Express Avenue Mall Royapettah Chennai",
+    "name": "LEGO® Store - Express Avenue Mall Royapettah Chennai",
     "name_local": null,
     "city": "Chennai",
     "country": "India",
@@ -15837,7 +16262,7 @@
    },
    "properties": {
     "id": "store-lego-store-ambience-mall-gurugram",
-    "name": "LEGO Store - Ambience Mall Gurugram",
+    "name": "LEGO® Store - Ambience Mall Gurugram",
     "name_local": null,
     "city": "Gurugram",
     "country": "India",
@@ -16237,7 +16662,7 @@
    },
    "properties": {
     "id": "store-lego-store-lcs-trans-studio-mall-makasaar",
-    "name": "LEGO® Store LCS Trans Studio Mall Makasaar",
+    "name": "LEGO® Store LCS Trans Studio Mall Makassar",
     "name_local": null,
     "city": "Makassar",
     "country": "Indonesia",
@@ -16786,31 +17211,6 @@
     ]
    },
    "properties": {
-    "id": "store-lego-store-tel-aviv-airport",
-    "name": "LEGO Store Tel Aviv Airport",
-    "name_local": null,
-    "city": "Tel Aviv",
-    "country": "Israel",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-tel-aviv-airport"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     34.78181,
-     32.0853
-    ]
-   },
-   "properties": {
     "id": "store-lego-pop-up-store-azrieli-tel-aviv",
     "name": "LEGO® Pop-up Store Azrieli Tel Aviv",
     "name_local": null,
@@ -16849,6 +17249,31 @@
     "phone": "079-6966759",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-tel-aviv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.78181,
+     32.0853
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-tel-aviv-airport",
+    "name": "LEGO® Store Tel Aviv Airport",
+    "name_local": null,
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": null,
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-tel-aviv-airport"
    }
   },
   {
@@ -17024,31 +17449,6 @@
     "phone": "+39 03040644",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-brescia"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     9.11331,
-     39.2172
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-cagliari",
-    "name": "LEGO® Store Cagliari",
-    "name_local": null,
-    "city": "Cagliari",
-    "country": "Italy",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-cagliari"
    }
   },
   {
@@ -17281,31 +17681,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     9.05592,
-     45.563784
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-cc-il-centro",
-    "name": "LEGO® Store CC Il Centro",
-    "name_local": null,
-    "city": "Milan",
-    "country": "Italy",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Via Giuseppe Eugenio Luraghi 11, Arese, Milano 20020, Italy",
-    "phone": "+39 02 9387 8002",
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-cc-il-centro"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      9.33149,
      45.550453
     ]
@@ -17524,6 +17899,31 @@
     "phone": "05/41317383",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-rimini"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.50167,
+     41.9012
+    ]
+   },
+   "properties": {
+    "id": "store-lego-certified-store-termini",
+    "name": "LEGO® Certified Store Termini",
+    "name_local": null,
+    "city": "Rome",
+    "country": "Italy",
+    "type": "closed",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Stazione Roma Termini, Piazza dei Cinquecento 1, Roma 00185, Italy",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-certified-store-termini"
    }
   },
   {
@@ -18006,31 +18406,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     135.19438,
-     34.69324
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-mitsui-outlet-park-marinpia-kobe",
-    "name": "LEGO Store Mitsui Outlet Park Marinpia Kobe",
-    "name_local": null,
-    "city": "Kobe",
-    "country": "Japan",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "海岸通12-2 1F (三井アウトレットパーク マリンピア神戸), 神戸市垂水区, 兵庫県 655-0036, Japan",
-    "phone": "078-754-8705",
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-mitsui-outlet-park-marinpia-kobe"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      135.19177,
      34.85954
     ]
@@ -18049,6 +18424,31 @@
     "phone": "078-986-0745",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-kobe-sanda"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.19438,
+     34.69324
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-mitsui-outlet-park-marinpia-kobe",
+    "name": "LEGO® Store Mitsui Outlet Park Marinpia Kobe",
+    "name_local": null,
+    "city": "Kobe",
+    "country": "Japan",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "海岸通12-2 1F (三井アウトレットパーク マリンピア神戸), 神戸市垂水区, 兵庫県 655-0036, Japan",
+    "phone": "078-754-8705",
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-mitsui-outlet-park-marinpia-kobe"
    }
   },
   {
@@ -18887,7 +19287,7 @@
    },
    "properties": {
     "id": "store-lego-store-the-venetian-macao",
-    "name": "LEGO Store The Venetian Macao",
+    "name": "LEGO® Store The Venetian Macao",
     "name_local": null,
     "city": "Macau",
     "country": "Macau",
@@ -19061,31 +19461,6 @@
     ]
    },
    "properties": {
-    "id": "store-lego-store-kuala-lumpur-kul-klia1d",
-    "name": "LEGO Store Kuala Lumpur KUL-KLIA1D",
-    "name_local": null,
-    "city": "Kuala Lumpur",
-    "country": "Malaysia",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Kuala Lumpur International Airport, Sepang 64000, Malaysia",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-kuala-lumpur-kul-klia1d"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     101.69424,
-     3.1517
-    ]
-   },
-   "properties": {
     "id": "store-lego-certified-store-the-gardens-mall",
     "name": "LEGO® Certified Store The Gardens Mall",
     "name_local": null,
@@ -19099,6 +19474,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-certified-store-the-gardens-mall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     101.7188,
+     3.1422
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-parisian-cafe-and-art-gallery-kuala-lumpur",
+    "name": "LEGO® Parisian Café and Art Gallery",
+    "name_local": null,
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "type": "popup",
+    "closed_year": 2024,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Urban Node Atrium, Ground Floor (MRT Plaza Entrance), The Exchange TRX, Persiaran TRX, 55188 Kuala Lumpur, Malaysia",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-parisian-cafe-and-art-gallery-kuala-lumpur"
    }
   },
   {
@@ -19124,6 +19524,31 @@
     "phone": "(03) 2282 4848",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-bangsar-village-ii"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     101.69424,
+     3.1517
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-kuala-lumpur-kul-klia1d",
+    "name": "LEGO® Store Kuala Lumpur KUL-KLIA1D",
+    "name_local": null,
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Kuala Lumpur International Airport, Sepang 64000, Malaysia",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-kuala-lumpur-kul-klia1d"
    }
   },
   {
@@ -19337,7 +19762,7 @@
    },
    "properties": {
     "id": "store-lego-store-penang-airport-pen",
-    "name": "LEGO Store Penang Airport-PEN",
+    "name": "LEGO® Store Penang Airport-PEN",
     "name_local": null,
     "city": "Penang",
     "country": "Malaysia",
@@ -19656,8 +20081,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -99.19706,
-     18
+     -99.19637,
+     18.93388
     ]
    },
    "properties": {
@@ -19956,31 +20381,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -99.13717,
-     19.29922
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-paseo-acoxpa",
-    "name": "LEGO Store Paseo Acoxpa",
-    "name_local": null,
-    "city": "Mexico City",
-    "country": "Mexico",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Paseo Acoxpa, Ciudad de México, Mexico",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-paseo-acoxpa"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -99.16834,
      19.36047
     ]
@@ -20049,6 +20449,31 @@
     "phone": null,
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-parque-tepeyac"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.13717,
+     19.29922
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-paseo-acoxpa",
+    "name": "LEGO® Store Paseo Acoxpa",
+    "name_local": null,
+    "city": "Mexico City",
+    "country": "Mexico",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Paseo Acoxpa, Ciudad de México, Mexico",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-paseo-acoxpa"
    }
   },
   {
@@ -20137,7 +20562,7 @@
    },
    "properties": {
     "id": "store-lego-store-fashion-drive-monterry",
-    "name": "LEGO® Store Fashion Drive Monterry",
+    "name": "LEGO® Store Fashion Drive Monterrey",
     "name_local": null,
     "city": "Monterrey",
     "country": "Mexico",
@@ -20537,7 +20962,7 @@
    },
    "properties": {
     "id": "store-lego-store-rotterdam",
-    "name": "LEGO Store Rotterdam",
+    "name": "LEGO® Store Rotterdam",
     "name_local": null,
     "city": "Rotterdam",
     "country": "Netherlands",
@@ -20631,31 +21056,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     174.76318,
-     -36.85209
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-auckland",
-    "name": "LEGO® Store Auckland",
-    "name_local": null,
-    "city": "Auckland",
-    "country": "New Zealand",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-auckland"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      174.7755075,
      -36.8717849
     ]
@@ -20699,31 +21099,6 @@
     "phone": "+64 4886 2362",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-sylvia-park"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     172.63643,
-     -43.53095
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-christtown",
-    "name": "LEGO® Store Christchurch",
-    "name_local": null,
-    "city": "Christchurch",
-    "country": "New Zealand",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-christtown"
    }
   },
   {
@@ -21381,56 +21756,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -8.42946,
-     40.21119
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-coimbria",
-    "name": "LEGO Store Coimbria",
-    "name_local": null,
-    "city": "Coimbra",
-    "country": "Portugal",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-coimbria"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -8.42946,
-     40.21119
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-combria",
-    "name": "LEGO Store Combria",
-    "name_local": null,
-    "city": "Coimbra",
-    "country": "Portugal",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-combria"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -8.42915,
      40.21119
     ]
@@ -21737,7 +22062,7 @@
    },
    "properties": {
     "id": "store-lego-store-mega-mal",
-    "name": "LEGO® Store Mega Mal",
+    "name": "LEGO® Store Mega Mall",
     "name_local": null,
     "city": "Bucharest",
     "country": "Romania",
@@ -21856,8 +22181,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     28,
-     44.2021398
+     28.63197,
+     44.20369
     ]
    },
    "properties": {
@@ -22206,8 +22531,33 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     20,
-     44.819981
+     20.45436,
+     44.81998
+    ]
+   },
+   "properties": {
+    "id": "store-lego-certified-store-rajiceva",
+    "name": "LEGO® Certified Store Rajićeva",
+    "name_local": null,
+    "city": "Belgrade",
+    "country": "Serbia",
+    "type": "closed",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Rajićeva Shopping Center, Knez Mihailova 54, Beograd 11000, Serbia",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-certified-store-rajiceva"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.43702,
+     44.81562
     ]
    },
    "properties": {
@@ -22224,81 +22574,6 @@
     "phone": "+381 11 4039655",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-belgrade"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     103.85191,
-     1.28992
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-jewel-changi-airport-26-5-26-26-7-26",
-    "name": "LEGO Store Jewel Changi Airport",
-    "name_local": null,
-    "city": "Singapore",
-    "country": "Singapore",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-jewel-changi-airport-26-5-26-26-7-26"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     103.85191,
-     1.28992
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-singapore-sin-t3-have-stamps",
-    "name": "LEGO Store Singapore SIN - T3",
-    "name_local": null,
-    "city": "Singapore",
-    "country": "Singapore",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Changi Airport, Terminal 3, 65 Airport Boulevard, Singapore 819663, Singapore",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-singapore-sin-t3-have-stamps"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     103.85191,
-     1.28992
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-singapore-sin-t4-have-stamps",
-    "name": "LEGO Store Singapore SIN - T4",
-    "name_local": null,
-    "city": "Singapore",
-    "country": "Singapore",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Changi Airport, Terminal 4, 10 Airport Boulevard, Singapore 819665, Singapore",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-singapore-sin-t4-have-stamps"
    }
   },
   {
@@ -22431,6 +22706,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     103.85191,
+     1.28992
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-jewel-changi-airport-26-5-26-26-7-26",
+    "name": "LEGO® Store Jewel Changi Airport",
+    "name_local": null,
+    "city": "Singapore",
+    "country": "Singapore",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": null,
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-jewel-changi-airport-26-5-26-26-7-26"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      103.7061076,
      1.3392654
     ]
@@ -22549,6 +22849,56 @@
     "phone": "+65 6970 7290",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-resort-world-sentosa-certified-store-have-stamps"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.85191,
+     1.28992
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-singapore-sin-t3-have-stamps",
+    "name": "LEGO® Store Singapore SIN - T3",
+    "name_local": null,
+    "city": "Singapore",
+    "country": "Singapore",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Changi Airport, Terminal 3, 65 Airport Boulevard, Singapore 819663, Singapore",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-singapore-sin-t3-have-stamps"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.85191,
+     1.28992
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-singapore-sin-t4-have-stamps",
+    "name": "LEGO® Store Singapore SIN - T4",
+    "name_local": null,
+    "city": "Singapore",
+    "country": "Singapore",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Changi Airport, Terminal 4, 10 Airport Boulevard, Singapore 819665, Singapore",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-singapore-sin-t4-have-stamps"
    }
   },
   {
@@ -22837,7 +23187,7 @@
    },
    "properties": {
     "id": "store-lego-store-jungdongcertified-store",
-    "name": "LEGO® Store JungdongCertified Store",
+    "name": "LEGO® Store Jungdong (Certified Store)",
     "name_local": null,
     "city": "Bucheon",
     "country": "South Korea",
@@ -23356,8 +23706,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     127,
-     37.28634
+     127.05748,
+     37.28552
     ]
    },
    "properties": {
@@ -23461,31 +23811,6 @@
     ]
    },
    "properties": {
-    "id": "store-lego-store-barcelona-airport",
-    "name": "LEGO Store Barcelona Airport",
-    "name_local": null,
-    "city": "Barcelona",
-    "country": "Spain",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Barcelona-El Prat Airport, El Prat de Llobregat, Barcelona 08820, Spain",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-barcelona-airport"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     2.17707,
-     41.38258
-    ]
-   },
-   "properties": {
     "id": "store-lego-store-barcelona",
     "name": "LEGO® Store Barcelona",
     "name_local": null,
@@ -23499,6 +23824,31 @@
     "phone": "+34 936099829",
     "services": "bam, minifigure_factory, mosaic_maker, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-barcelona"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17707,
+     41.38258
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-barcelona-airport",
+    "name": "LEGO® Store Barcelona Airport",
+    "name_local": null,
+    "city": "Barcelona",
+    "country": "Spain",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Barcelona-El Prat Airport, El Prat de Llobregat, Barcelona 08820, Spain",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-barcelona-airport"
    }
   },
   {
@@ -23687,7 +24037,7 @@
    },
    "properties": {
     "id": "store-lego-store-validation-certified-store",
-    "name": "LEGO® Store (Certified Store)",
+    "name": "LEGO® Store Valencia (Certified Store)",
     "name_local": null,
     "city": "Valencia",
     "country": "Spain",
@@ -23724,6 +24074,31 @@
     "phone": "+34 976 92 70 45",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-zaragoza-certified-store"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.90654,
+     59.27448
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-skaerholmen",
+    "name": "LEGO® Store Skärholmen",
+    "name_local": null,
+    "city": "Stockholm",
+    "country": "Sweden",
+    "type": "closed",
+    "closed_year": 2024,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Skärholmen Centrum, Bredholmsgatan 5, Skärholmen 127 48, Sweden",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-skaerholmen"
    }
   },
   {
@@ -23837,7 +24212,7 @@
    },
    "properties": {
     "id": "store-lego-certified-store-hsinchu-sogo-store-certified-store",
-    "name": "LEGO® Certified Store Hsinchu SOGO Store (Certified Store)",
+    "name": "LEGO® Certified Store Hsinchu SOGO",
     "name_local": null,
     "city": "Hsinchu",
     "country": "Taiwan",
@@ -23862,7 +24237,7 @@
    },
    "properties": {
     "id": "store-lego-certified-store-kaohsiung-yi-xiang-fashion-plaza-certified-store",
-    "name": "LEGO® Certified Store Kaohsiung Yi Xiang Fashion Plaza (Certified Store)",
+    "name": "LEGO® Certified Store Kaohsiung Yi Xiang Fashion Plaza",
     "name_local": null,
     "city": "Kaohsiung",
     "country": "Taiwan",
@@ -23887,7 +24262,7 @@
    },
    "properties": {
     "id": "store-lego-certified-store-banqiao-far-eastern-department-store-certified-store",
-    "name": "LEGO® Certified Store Banqiao Far Eastern Department Store (Certified Store)",
+    "name": "LEGO® Certified Store Banqiao Far Eastern Department Store",
     "name_local": null,
     "city": "New Taipei",
     "country": "Taiwan",
@@ -23912,7 +24287,7 @@
    },
    "properties": {
     "id": "store-lego-certified-store-taichung-far-eastern-department-store-certified-store",
-    "name": "LEGO® Certified Store Taichung Far Eastern Department Store (Certified Store)",
+    "name": "LEGO® Certified Store Taichung Far Eastern Department Store",
     "name_local": null,
     "city": "Taichung",
     "country": "Taiwan",
@@ -23961,33 +24336,8 @@
     ]
    },
    "properties": {
-    "id": "store-lego-store-taipei-airport-tpe",
-    "name": "LEGO Store Taipei Airport-TPE",
-    "name_local": null,
-    "city": "Taipei",
-    "country": "Taiwan",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Taoyuan International Airport, 9 Hangzhan S. Rd, Dayuan, Taoyuan 337, Taiwan",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-taipei-airport-tpe"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     121.56368,
-     25.03752
-    ]
-   },
-   "properties": {
     "id": "store-lego-certified-store-taipei-xinyi-a13-store-certified-store",
-    "name": "LEGO® Certified Store Taipei Xinyi A13 Store(Certified Store)",
+    "name": "LEGO® Certified Store Taipei Xinyi A13",
     "name_local": null,
     "city": "Taipei",
     "country": "Taiwan",
@@ -24024,6 +24374,31 @@
     "phone": "02-2654-7958",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-lalaport-nangang-certified-store"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.56368,
+     25.03752
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-taipei-airport-tpe",
+    "name": "LEGO® Store Taipei Airport-TPE",
+    "name_local": null,
+    "city": "Taipei",
+    "country": "Taiwan",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Taoyuan International Airport, 9 Hangzhan S. Rd, Dayuan, Taoyuan 337, Taiwan",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-taipei-airport-tpe"
    }
   },
   {
@@ -24237,7 +24612,7 @@
    },
    "properties": {
     "id": "store-lego-store-adana-optimum",
-    "name": "LEGO Store Adana Optimum",
+    "name": "LEGO® Store Adana Optimum",
     "name_local": null,
     "city": "Adana",
     "country": "Turkey",
@@ -24249,31 +24624,6 @@
     "phone": null,
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-adana-optimum"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     32.85405,
-     39.92078
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-ankara-city-park",
-    "name": "LEGO Store Ankara City Park",
-    "name_local": null,
-    "city": "Ankara",
-    "country": "Turkey",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Mustafa Kemal Mah. Eskişehir Yolu 7.km, Kentpark AVM No:164/2-84, 2.Kat, Çankaya, Ankara, Turkey",
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-ankara-city-park"
    }
   },
   {
@@ -24306,13 +24656,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.85405,
+     39.92078
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-ankara-city-park",
+    "name": "LEGO® Store Ankara City Park",
+    "name_local": null,
+    "city": "Ankara",
+    "country": "Turkey",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Mustafa Kemal Mah. Eskişehir Yolu 7.km, Kentpark AVM No:164/2-84, 2.Kat, Çankaya, Ankara, Turkey",
+    "phone": null,
+    "services": "bam, pab",
+    "url": "https://brickstorestamps.com/stores/store-lego-store-ankara-city-park"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      30.70302,
      36.88657
     ]
    },
    "properties": {
     "id": "store-lego-store-antalya-terracity",
-    "name": "LEGO Store Antalya TerraCity",
+    "name": "LEGO® Store Antalya TerraCity",
     "name_local": null,
     "city": "Antalya",
     "country": "Turkey",
@@ -24337,7 +24712,7 @@
    },
    "properties": {
     "id": "store-lego-store-bursa-sur-yap-marka-shopping-mall",
-    "name": "LEGO Store Bursa Sur Yapı Marka Shopping Mall",
+    "name": "LEGO® Store Bursa Sur Yapı Marka Shopping Mall",
     "name_local": null,
     "city": "Bursa",
     "country": "Turkey",
@@ -24349,81 +24724,6 @@
     "phone": null,
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-bursa-sur-yap-marka-shopping-mall"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     28.97587,
-     41.00638
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-istanbul-airport",
-    "name": "LEGO Store Istanbul Airport",
-    "name_local": null,
-    "city": "Istanbul",
-    "country": "Turkey",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Istanbul Airport, International Airside, A-B Pier, Arnavutköy, Istanbul, Turkey",
-    "phone": "0212 803 87 37",
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-istanbul-airport"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     28.97587,
-     41.00638
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-istanbul-forum-istanbul",
-    "name": "LEGO Store Istanbul Forum Istanbul",
-    "name_local": null,
-    "city": "Istanbul",
-    "country": "Turkey",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Kocatepe Mah. Paşa Cad. Forum İstanbul AVM, 1.Kat, Bayrampaşa, Istanbul, Turkey",
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-istanbul-forum-istanbul"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     28.97587,
-     41.00638
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-istanbul-square-istanbul-meydan",
-    "name": "LEGO Store Istanbul Square Istanbul Meydan",
-    "name_local": null,
-    "city": "Istanbul",
-    "country": "Turkey",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Fatih Sultan Mehmet Mah. Balkan Cad. Meydan İstanbul AVM No:62, Zemin Kat, Ümraniye, Istanbul, Turkey",
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-istanbul-square-istanbul-meydan"
    }
   },
   {
@@ -24486,6 +24786,56 @@
     ]
    },
    "properties": {
+    "id": "store-lego-store-istanbul-airport",
+    "name": "LEGO® Store Istanbul Airport",
+    "name_local": null,
+    "city": "Istanbul",
+    "country": "Turkey",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Istanbul Airport, International Airside, A-B Pier, Arnavutköy, Istanbul, Turkey",
+    "phone": "0212 803 87 37",
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-istanbul-airport"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.97587,
+     41.00638
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-istanbul-forum-istanbul",
+    "name": "LEGO® Store Istanbul Forum Istanbul",
+    "name_local": null,
+    "city": "Istanbul",
+    "country": "Turkey",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Kocatepe Mah. Paşa Cad. Forum İstanbul AVM, 1.Kat, Bayrampaşa, Istanbul, Turkey",
+    "phone": null,
+    "services": "bam, pab",
+    "url": "https://brickstorestamps.com/stores/store-lego-store-istanbul-forum-istanbul"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.97587,
+     41.00638
+    ]
+   },
+   "properties": {
     "id": "store-lego-store-istanbul-istinyepark",
     "name": "LEGO® Store İstanbul İstinyePark",
     "name_local": null,
@@ -24499,6 +24849,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-istanbul-istinyepark"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.97587,
+     41.00638
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-istanbul-square-istanbul-meydan",
+    "name": "LEGO® Store Istanbul Square Istanbul Meydan",
+    "name_local": null,
+    "city": "Istanbul",
+    "country": "Turkey",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Fatih Sultan Mehmet Mah. Balkan Cad. Meydan İstanbul AVM No:62, Zemin Kat, Ümraniye, Istanbul, Turkey",
+    "phone": null,
+    "services": "bam, pab",
+    "url": "https://brickstorestamps.com/stores/store-lego-store-istanbul-square-istanbul-meydan"
    }
   },
   {
@@ -24586,31 +24961,6 @@
     ]
    },
    "properties": {
-    "id": "store-lego-store-the-galleria-mall",
-    "name": "LEGO Store The Galleria Mall",
-    "name_local": null,
-    "city": "Abu Dhabi",
-    "country": "United Arab Emirates",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-the-galleria-mall"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     54.3774,
-     24.45384
-    ]
-   },
-   "properties": {
     "id": "store-lego-store-al-maryah-certified-store",
     "name": "LEGO® Store Al Maryah (Certified Store)",
     "name_local": null,
@@ -24656,31 +25006,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     55.29241,
-     25.26472
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-dubai-airport",
-    "name": "LEGO Store Dubai Airport",
-    "name_local": null,
-    "city": "Dubai",
-    "country": "United Arab Emirates",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Dubai International Airport, Terminal 3, Dubai, United Arab Emirates",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-dubai-airport"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      55.1175,
      25.1303
     ]
@@ -24699,6 +25024,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-certified-store-atlantis-the-palm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.29241,
+     25.26472
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-dubai-airport",
+    "name": "LEGO® Store Dubai Airport",
+    "name_local": null,
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Dubai International Airport, Terminal 3, Dubai, United Arab Emirates",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-dubai-airport"
    }
   },
   {
@@ -25187,7 +25537,7 @@
    },
    "properties": {
     "id": "store-lego-store-gatwick-n-airport",
-    "name": "LEGO Store Gatwick N Airport",
+    "name": "LEGO® Store Gatwick N Airport",
     "name_local": null,
     "city": "London",
     "country": "United Kingdom",
@@ -25212,7 +25562,7 @@
    },
    "properties": {
     "id": "store-lego-store-gatwick-s-airport",
-    "name": "LEGO Store Gatwick S Airport",
+    "name": "LEGO® Store Gatwick S Airport",
     "name_local": null,
     "city": "London",
     "country": "United Kingdom",
@@ -25224,56 +25574,6 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-gatwick-s-airport"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -0.12777,
-     51.50745
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-luton-airport",
-    "name": "LEGO Store Luton Airport",
-    "name_local": null,
-    "city": "London",
-    "country": "United Kingdom",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Luton Airport, Luton, United Kingdom",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-luton-airport"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -0.12777,
-     51.50745
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-stansted-airport",
-    "name": "LEGO Store Stansted Airport",
-    "name_local": null,
-    "city": "London",
-    "country": "United Kingdom",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Stansted Airport, Stansted, United Kingdom",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-stansted-airport"
    }
   },
   {
@@ -25381,24 +25681,49 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -2.23245,
-     53.44246
+     -0.12777,
+     51.50745
     ]
    },
    "properties": {
-    "id": "store-lego-store-manchester-airport",
-    "name": "LEGO Store Manchester Airport",
+    "id": "store-lego-store-luton-airport",
+    "name": "LEGO® Store Luton Airport",
     "name_local": null,
-    "city": "Manchester",
+    "city": "London",
     "country": "United Kingdom",
     "type": "official",
     "closed_year": null,
     "upcoming": false,
     "opening_date": null,
-    "address": "Manchester Airport, Terminal 2, United Kingdom",
+    "address": "Luton Airport, Luton, United Kingdom",
     "phone": null,
     "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-manchester-airport"
+    "url": "https://brickstorestamps.com/stores/store-lego-store-luton-airport"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.12777,
+     51.50745
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-stansted-airport",
+    "name": "LEGO® Store Stansted Airport",
+    "name_local": null,
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Stansted Airport, Stansted, United Kingdom",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-stansted-airport"
    }
   },
   {
@@ -25474,6 +25799,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-manchester-trafford-palazzo-discovery-center"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.23245,
+     53.44246
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-manchester-airport",
+    "name": "LEGO® Store Manchester Airport",
+    "name_local": null,
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Manchester Airport, Terminal 2, United Kingdom",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-manchester-airport"
    }
   },
   {
@@ -25831,31 +26181,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -77.03969,
-     38.85129
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-washington-reagan-national-airport",
-    "name": "LEGO Store Washington Reagan National Airport",
-    "name_local": null,
-    "city": "Arlington",
-    "country": "USA",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Ronald Reagan Washington National Airport, National Hall, 2401 S Smith Blvd, Arlington, VA 22202, USA",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-washington-reagan-national-airport"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -77.0605,
      38.86338
     ]
@@ -25874,6 +26199,31 @@
     "phone": "+1 (703) 936-7971",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-fashion-center-at-pentagon-city"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.03969,
+     38.85129
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-washington-reagan-national-airport",
+    "name": "LEGO® Store Washington Reagan National Airport",
+    "name_local": null,
+    "city": "Arlington",
+    "country": "USA",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Ronald Reagan Washington National Airport, National Hall, 2401 S Smith Blvd, Arlington, VA 22202, USA",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-washington-reagan-national-airport"
    }
   },
   {
@@ -26387,7 +26737,7 @@
    },
    "properties": {
     "id": "store-lego-store-charlotte-douglas-airport",
-    "name": "LEGO Store Charlotte Douglas Airport",
+    "name": "LEGO® Store Charlotte Douglas Airport",
     "name_local": null,
     "city": "Charlotte",
     "country": "USA",
@@ -26612,7 +26962,7 @@
    },
    "properties": {
     "id": "store-lego-store-dallas-fort-worth-international-airport",
-    "name": "LEGO Store Dallas Fort Worth International Airport",
+    "name": "LEGO® Store Dallas Fort Worth International Airport",
     "name_local": null,
     "city": "Dallas",
     "country": "USA",
@@ -26837,7 +27187,7 @@
    },
    "properties": {
     "id": "store-lego-store-fort-lauderdale-airport",
-    "name": "LEGO Store Fort Lauderdale Airport",
+    "name": "LEGO® Store Fort Lauderdale Airport",
     "name_local": null,
     "city": "Fort Lauderdale",
     "country": "USA",
@@ -26862,7 +27212,7 @@
    },
    "properties": {
     "id": "store-lego-store-coolsprings-galleria",
-    "name": "LEGO Store CoolSprings Galleria",
+    "name": "LEGO® Store CoolSprings Galleria",
     "name_local": null,
     "city": "Franklin",
     "country": "USA",
@@ -27256,31 +27606,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -95.3677,
-     29.75894
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-houston-airport",
-    "name": "LEGO Store Houston Airport",
-    "name_local": null,
-    "city": "Houston",
-    "country": "USA",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "George Bush Intercontinental Airport, Terminal D near Gate D1, 2800 N Terminal Rd, Houston, TX 77032, USA",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-houston-airport"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -95.462359,
      29.739202
     ]
@@ -27299,6 +27624,31 @@
     "phone": "+1 (832) 613-0024",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-houston-westheimer-road"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3677,
+     29.75894
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-houston-airport",
+    "name": "LEGO® Store Houston Airport",
+    "name_local": null,
+    "city": "Houston",
+    "country": "USA",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "George Bush Intercontinental Airport, Terminal D near Gate D1, 2800 N Terminal Rd, Houston, TX 77032, USA",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-houston-airport"
    }
   },
   {
@@ -27637,7 +27987,7 @@
    },
    "properties": {
     "id": "store-lego-store-fritz-farm",
-    "name": "LEGO Store Fritz Farm",
+    "name": "LEGO® Store Fritz Farm",
     "name_local": null,
     "city": "Lexington",
     "country": "USA",
@@ -27706,31 +28056,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.24277,
-     34.05369
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-los-angeles-airport-lax",
-    "name": "LEGO Store Los Angeles Airport - LAX",
-    "name_local": null,
-    "city": "Los Angeles",
-    "country": "USA",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Los Angeles International Airport, West Gates, Tom Bradley International Terminal, 380 World Way, Los Angeles, CA 90045, USA",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-los-angeles-airport-lax"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -118.41887,
      34.05779
     ]
@@ -27749,6 +28074,31 @@
     "phone": "+1 (213) 510-0170",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-century-city-mall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.24277,
+     34.05369
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-los-angeles-airport-lax",
+    "name": "LEGO® Store Los Angeles Airport - LAX",
+    "name_local": null,
+    "city": "Los Angeles",
+    "country": "USA",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Los Angeles International Airport, West Gates, Tom Bradley International Terminal, 380 World Way, Los Angeles, CA 90045, USA",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-los-angeles-airport-lax"
    }
   },
   {
@@ -27881,31 +28231,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -80.1936,
-     25.77416
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-miami-international-airport-mia",
-    "name": "LEGO Store Miami International Airport - MIA",
-    "name_local": null,
-    "city": "Miami",
-    "country": "USA",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "near Gate D14, Miami International Airport, Miami, USA",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-miami-international-airport-mia"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -80.311094,
      25.690207
     ]
@@ -27924,6 +28249,31 @@
     "phone": "+1 (786) 947-9416",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-dadeland-mall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.1936,
+     25.77416
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-miami-international-airport-mia",
+    "name": "LEGO® Store Miami International Airport - MIA",
+    "name_local": null,
+    "city": "Miami",
+    "country": "USA",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "near Gate D14, Miami International Airport, Miami, USA",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-miami-international-airport-mia"
    }
   },
   {
@@ -28106,13 +28456,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -73.9899,
+     40.742
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-flatiron-district",
+    "name": "LEGO® Store Flatiron District",
+    "name_local": null,
+    "city": "New York",
+    "country": "USA",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "200 5th Ave, Flatiron District, New York, New York 10010, USA",
+    "phone": "+1 (929) 323-0128",
+    "services": "bam, pab",
+    "url": "https://brickstorestamps.com/stores/store-lego-store-flatiron-district"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -74.00602,
      40.71273
     ]
    },
    "properties": {
     "id": "store-lego-store-jfk-terminal-8",
-    "name": "LEGO Store JFK Terminal 8",
+    "name": "LEGO® Store JFK Terminal 8",
     "name_local": null,
     "city": "New York",
     "country": "USA",
@@ -28137,7 +28512,7 @@
    },
    "properties": {
     "id": "store-lego-store-laguardia-airport-lga",
-    "name": "LEGO Store LaGuardia Airport - LGA",
+    "name": "LEGO® Store LaGuardia Airport - LGA",
     "name_local": null,
     "city": "New York",
     "country": "USA",
@@ -28149,56 +28524,6 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-laguardia-airport-lga"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -74.00602,
-     40.71273
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-new-york-jfk-t4",
-    "name": "LEGO Store New York JFK - T4",
-    "name_local": null,
-    "city": "New York",
-    "country": "USA",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Terminal 4, JFK International Airport, New York (Queens), USA",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-new-york-jfk-t4"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -73.9899,
-     40.742
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-flatiron-district",
-    "name": "LEGO® Store Flatiron District",
-    "name_local": null,
-    "city": "New York",
-    "country": "USA",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "200 5th Ave, Flatiron District, New York, New York 10010, USA",
-    "phone": "+1 (929) 323-0128",
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-flatiron-district"
    }
   },
   {
@@ -28231,6 +28556,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -74.00602,
+     40.71273
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-new-york-jfk-t4",
+    "name": "LEGO® Store New York JFK - T4",
+    "name_local": null,
+    "city": "New York",
+    "country": "USA",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Terminal 4, JFK International Airport, New York (Queens), USA",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-new-york-jfk-t4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -74.1656,
      40.5817
     ]
@@ -28256,31 +28606,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -74.17237,
-     40.73566
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-new-ark-airport",
-    "name": "LEGO Store New Ark Airport",
-    "name_local": null,
-    "city": "Newark",
-    "country": "USA",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": "Terminal A, Newark Liberty International Airport, Newark, USA",
-    "phone": null,
-    "services": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-new-ark-airport"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -75.65291,
      39.67842
     ]
@@ -28299,6 +28624,31 @@
     "phone": "+1 (302) 496-6605",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-christiana-mall-new"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.17237,
+     40.73566
+    ]
+   },
+   "properties": {
+    "id": "store-lego-store-new-ark-airport",
+    "name": "LEGO® Store Newark Airport",
+    "name_local": null,
+    "city": "Newark",
+    "country": "USA",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Terminal A, Newark Liberty International Airport, Newark, USA",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-lego-store-new-ark-airport"
    }
   },
   {
@@ -28737,7 +29087,7 @@
    },
    "properties": {
     "id": "store-lego-store-renaissance-at-colony-park",
-    "name": "LEGO Store Renaissance at Colony Park",
+    "name": "LEGO® Store Renaissance at Colony Park",
     "name_local": null,
     "city": "Ridgeland",
     "country": "USA",
@@ -28962,7 +29312,7 @@
    },
    "properties": {
     "id": "store-lego-store-san-francisco-airport-t1-sfo",
-    "name": "LEGO Store San Francisco Airport T1 - SFO",
+    "name": "LEGO® Store San Francisco Airport T1 - SFO",
     "name_local": null,
     "city": "San Francisco",
     "country": "USA",
@@ -29181,31 +29531,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -83.0302,
-     42.58031
-    ]
-   },
-   "properties": {
-    "id": "store-lego-store-lakeside-mall",
-    "name": "LEGO® Store Lakeside Mall",
-    "name_local": null,
-    "city": "Sterling Heights",
-    "country": "USA",
-    "type": "official",
-    "closed_year": null,
-    "upcoming": false,
-    "opening_date": null,
-    "address": null,
-    "phone": null,
-    "services": "bam, pab",
-    "url": "https://brickstorestamps.com/stores/store-lego-store-lakeside-mall"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -80.320122,
      26.151644
     ]
@@ -29262,7 +29587,7 @@
    },
    "properties": {
     "id": "store-lego-store-promenade-temecula",
-    "name": "LEGO Store Promenade Temecula",
+    "name": "LEGO® Store Promenade Temecula",
     "name_local": null,
     "city": "Temecula",
     "country": "USA",
@@ -29762,7 +30087,7 @@
    },
    "properties": {
     "id": "store-lego-store-paradise-hcm-cit",
-    "name": "LEGO Store Paradise HCM City",
+    "name": "LEGO® Store Paradise HCM City",
     "name_local": null,
     "city": "Ho Chi Minh City",
     "country": "Vietnam",
