@@ -173,4 +173,4 @@ See [USA on Brick Passport](https://brickstorestamps.com/explore/stores/list/nor
 | [LEGOLAND Florida](https://brickstorestamps.com/stores/store-lego-store-legoland-florida-resort) | Winter Haven | One Legoland Way, Winter Haven, Florida 33884, USA | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=28.02224&mlon=-81.73286#map=17/28.02224/-81.73286) |
 | [LEGO® Store Potomac Mills](https://brickstorestamps.com/stores/store-lego-store-potomac-mills) | Woodbridge | 2700 Potomac Mills Circle, Woodbridge, Virginia 22192, USA | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=38.64245&mlon=-77.291801#map=17/38.64245/-77.291801) |
 
-Last change 2026-10-12. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-10-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

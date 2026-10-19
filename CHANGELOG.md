@@ -3,6 +3,41 @@
 What changed in the store list, newest first. Written by the weekly export;
 weeks without a change leave no entry.
 
+## 2026-10-19
+
+24 added, 1 with an updated address. 1235 stores on record.
+
+### Added
+
+- [LEGO® Store Baoding Wanbo Plaza (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-baoding-wanbo-plaza-certified-store-baodi), Baoding, China
+- [LEGO® Store Changsha MixC (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-changsha-mixc-certified-store-changsha), Changsha, China
+- [LEGO® Store Chengdu IFS (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-chengdu-ifs-certified-store-chengdu), Chengdu, China
+- [LEGO® Store Chengdu Jinhua Wanda (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-chengdu-jinhua-wanda-certified-store-chen), Chengdu, China
+- [LEGO® Store Fuzhou Cangshan Wanda Plaza (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-fuzhou-cangshan-wanda-plaza-certified-sto), Fuzhou, China
+- [LEGO® Store Guangzhou Baixin Plaza (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-guangzhou-baixin-plaza-certified-store-gu), Guangzhou, China
+- [LEGO® Store Guiyang MixC (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-guiyang-mixc-certified-store-guiyang), Guiyang, China
+- [LEGO® Store Hangzhou Binjiang Longfor Paradise Walk (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-hangzhou-binjiang-longfor-paradise-walk-c), Hangzhou, China
+- [LEGO® Store Huizhou Ganghui New World (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-huizhou-ganghui-new-world-certified-store), Huizhou, China
+- [LEGO® Store Jinan Weijiazhuang Wanda Plaza (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-jinan-weijiazhuang-wanda-plaza-certified-), Jinan, China
+- [LEGO® Store Kunming Aegean (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-kunming-aegean-certified-store-kunming), Kunming, China
+- [LEGO® Store Nanjing Xinbai (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-nanjing-xinbai-certified-store-nanjing), Nanjing, China
+- [LEGO® Store Qingdao Aeon (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-qingdao-aeon-certified-store-qingdao), Qingdao, China
+- [LEGO® Store Qingdao Kaide Mall (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-qingdao-kaide-mall-certified-store-qingda), Qingdao, China
+- [LEGO® Store Shanghai Baoshan Longfor Paradise Walk (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-shanghai-baoshan-longfor-paradise-walk-ce), Shanghai, China
+- [LEGO® Store Shanghai Ruihong Tiandi Hall of the Sun (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-shanghai-ruihong-tiandi-hall-of-the-sun-c), Shanghai, China
+- [LEGO® Store Shenyang Changbai MixC (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-shenyang-changbai-mixc-certified-store-sh), Shenyang, China
+- [LEGO® Store Shenyang Shenbei Wuyue Plaza (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-shenyang-shenbei-wuyue-plaza-certified-st), Shenyang, China
+- [LEGO® Store Shenzhen Buji MixC (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-shenzhen-buji-mixc-certified-store-shenzh), Shenzhen, China
+- [LEGO® Store Xi'an Wanxiang Tiandi (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-xi-an-wanxiang-tiandi-certified-store-xi-), Xi'an, China
+- [LEGO® Store Xiamen SM Lifestyle (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-xiamen-sm-lifestyle-certified-store-xiame), Xiamen, China
+- [LEGO® Store Zhongshan Dexin New Metropolis (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-zhongshan-dexin-new-metropolis-certified-), Zhongshan, China
+- [LEGO® F1 Pop-up Suntec City](https://brickstorestamps.com/stores/store-c-lego-f1-pop-up-suntec-city-singapur), Singapore, Singapore
+- [LEGO® Store Samsun Piazza (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-samsun-piazza-certified-store-samsun), Samsun, Turkey
+
+### Address updated
+
+- [LEGO® Store Intime](https://brickstorestamps.com/stores/store-lego-store-intime), 杭州市上城区延安路239号湖滨银泰in77 D区
+
 ## 2026-10-12
 
 42 added, 1 reopened, 90 renamed, 3 with an updated address, 31 removed, 27 with corrected details. 1211 stores on record.

@@ -1,6 +1,6 @@
 # LEGO Stores in Turkey
 
-14 stores on record, 14 open.
+15 stores on record, 15 open.
 
 See [Turkey on Brick Passport](https://brickstorestamps.com/explore/stores/list/europe/turkey) for the stamps collected in these stores.
 
@@ -20,5 +20,6 @@ See [Turkey on Brick Passport](https://brickstorestamps.com/explore/stores/list/
 | [LEGO® Store Kanyon (Certified Store)](https://brickstorestamps.com/stores/store-lego-store-kanyon-certified-store) | Istanbul | Esentepe Mah. Büyükdere Cad. No:185/35, Şişli, Istanbul 34394, Turkey | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=41.0780262&mlon=29.0111636#map=17/41.0780262/29.0111636) |
 | [LEGOLAND Discovery Center Istanbul](https://brickstorestamps.com/stores/store-legoland-discovery-center-istanbul) | Istanbul | – | Open | – | [map](https://www.openstreetmap.org/?mlat=41.00638&mlon=28.97587#map=17/41.00638/28.97587) |
 | [LEGO® Store Hilltown İzmir (Certified Store)](https://brickstorestamps.com/stores/store-lego-store-hilltown-izmir-certified-store) | Izmir | Yalı Mahallesi 6222 sokak No.3, Karşıyaka, Izmir 35550, Turkey | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=38.4471775&mlon=27.1726191#map=17/38.4471775/27.1726191) |
+| [LEGO® Store Samsun Piazza (Certified Store) (Samsun Piazza LEGO® Store)](https://brickstorestamps.com/stores/store-c-lego-store-samsun-piazza-certified-store-samsun) | Samsun | Piazza AVM, Çarşamba Cad. No:52, Canik, Samsun, Turkey | Open | – | [map](https://www.openstreetmap.org/?mlat=41.2765086&mlon=36.3536938#map=17/41.2765086/36.3536938) |
 
-Last change 2026-10-12. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-10-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

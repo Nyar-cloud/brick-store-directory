@@ -16,4 +16,4 @@ See [Taiwan on Brick Passport](https://brickstorestamps.com/explore/stores/list/
 | [LEGO® Store Taipei Airport-TPE](https://brickstorestamps.com/stores/store-lego-store-taipei-airport-tpe) | Taipei | Taoyuan International Airport, 9 Hangzhan S. Rd, Dayuan, Taoyuan 337, Taiwan | Open | – | [map](https://www.openstreetmap.org/?mlat=25.03752&mlon=121.56368#map=17/25.03752/121.56368) |
 | [樂高®授權專賣店 大江購物中心店(中壢)](https://brickstorestamps.com/stores/store-taoyuan) | Taoyuan | 桃園市中壢區中園路二段501號3樓, 桃園巿 320, Taiwan | Open | – | [map](https://www.openstreetmap.org/?mlat=24.993&mlon=121.301#map=17/24.993/121.301) |
 
-Last change 2026-10-12. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-10-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

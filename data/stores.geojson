@@ -2231,6 +2231,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     115.46333,
+     38.87498
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-baoding-wanbo-plaza-certified-store-baodi",
+    "name": "LEGO® Store Baoding Wanbo Plaza (Certified Store)",
+    "name_local": "保定万博广场乐高®授权专卖店",
+    "city": "Baoding",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "河北省保定市竞秀区朝阳北大街万博广场1楼F1021",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-baoding-wanbo-plaza-certified-store-baodi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      109.8535,
      40.6591
     ]
@@ -3731,6 +3756,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     112.94555,
+     28.22185
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-changsha-mixc-certified-store-changsha",
+    "name": "LEGO® Store Changsha MixC (Certified Store)",
+    "name_local": "长沙万象城乐高®授权专卖店",
+    "city": "Changsha",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "长沙市岳麓区桐梓坡路11号长沙万象城LG层",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-changsha-mixc-certified-store-changsha"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      112.978,
      28.2389
     ]
@@ -4124,6 +4174,56 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-store-chengdu-hopson-one-certified-store-chengd"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     104.07911,
+     30.65728
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-chengdu-ifs-certified-store-chengdu",
+    "name": "LEGO® Store Chengdu IFS (Certified Store)",
+    "name_local": "成都IFS乐高®授权专卖店",
+    "city": "Chengdu",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "四川省成都市锦江区红星路三段1号成都IFS国际金融中心B2",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-chengdu-ifs-certified-store-chengdu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     104.09408,
+     30.62332
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-chengdu-jinhua-wanda-certified-store-chen",
+    "name": "LEGO® Store Chengdu Jinhua Wanda (Certified Store)",
+    "name_local": "成都锦华万达乐高®授权专卖店",
+    "city": "Chengdu",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "成都市锦江区锦华路一段68号成都锦华万达广场",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-chengdu-jinhua-wanda-certified-store-chen"
    }
   },
   {
@@ -5306,6 +5406,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     119.26945,
+     26.03966
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-fuzhou-cangshan-wanda-plaza-certified-sto",
+    "name": "LEGO® Store Fuzhou Cangshan Wanda Plaza (Certified Store)",
+    "name_local": "福州仓山万达乐高授权专卖店",
+    "city": "Fuzhou",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "福州市仓山区浦上大道274号仓山万达广场1层",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-fuzhou-cangshan-wanda-plaza-certified-sto"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      119.27252,
      26.07691
     ]
@@ -5424,6 +5549,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-zhengjia-plaza-guangzhou"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.25705,
+     23.19693
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-guangzhou-baixin-plaza-certified-store-gu",
+    "name": "LEGO® Store Guangzhou Baixin Plaza (Certified Store)",
+    "name_local": "广州百信广场乐高®授权专卖店",
+    "city": "Guangzhou",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "广州市白云区机场路1399号广州百信广场F1",
+    "phone": "02037417565",
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-guangzhou-baixin-plaza-certified-store-gu"
    }
   },
   {
@@ -5931,6 +6081,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     106.69983,
+     26.56448
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-guiyang-mixc-certified-store-guiyang",
+    "name": "LEGO® Store Guiyang MixC (Certified Store)",
+    "name_local": "贵阳万象城乐高®授权专卖店",
+    "city": "Guiyang",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "贵阳市南明区遵义路328号贵阳万象城",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-guiyang-mixc-certified-store-guiyang"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      106.70909,
      26.58564
     ]
@@ -6081,6 +6256,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     120.19969,
+     30.20328
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-hangzhou-binjiang-longfor-paradise-walk-c",
+    "name": "LEGO® Store Hangzhou Binjiang Longfor Paradise Walk (Certified Store)",
+    "name_local": "龙湖杭州滨江天街乐高授权专卖店",
+    "city": "Hangzhou",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "杭州市滨江区江汉路1515号龙湖杭州滨江天街",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-hangzhou-binjiang-longfor-paradise-walk-c"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      120.16236,
      30.19032
     ]
@@ -6181,8 +6381,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     120.20523,
-     30.24896
+     120.15884,
+     30.25585
     ]
    },
    "properties": {
@@ -6195,7 +6395,7 @@
     "closed_year": null,
     "upcoming": false,
     "opening_date": null,
-    "address": "L1-003, 380 Fengtan Road, Hangzhou, China",
+    "address": "杭州市上城区延安路239号湖滨银泰in77 D区",
     "phone": "0571-82487040",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-intime"
@@ -6831,6 +7031,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     114.41134,
+     23.07088
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-huizhou-ganghui-new-world-certified-store",
+    "name": "LEGO® Store Huizhou Ganghui New World (Certified Store)",
+    "name_local": "惠州港惠新天地乐高授权专卖店",
+    "city": "Huizhou",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "惠州市惠城区演达大道港惠新天地东区1层",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-huizhou-ganghui-new-world-certified-store"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      114.40949,
      23.10637
     ]
@@ -7081,6 +7306,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     116.99593,
+     36.66233
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-jinan-weijiazhuang-wanda-plaza-certified-",
+    "name": "LEGO® Store Jinan Weijiazhuang Wanda Plaza (Certified Store)",
+    "name_local": "济南魏家庄万达乐高授权专卖店",
+    "city": "Jinan",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "济南市市中区经四路5号魏家庄万达广场1层",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-jinan-weijiazhuang-wanda-plaza-certified-"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      117.11385,
      36.65198
     ]
@@ -7199,6 +7449,31 @@
     "phone": "13840077808",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-joycity-kunming"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.68357,
+     24.99465
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-kunming-aegean-certified-store-kunming",
+    "name": "LEGO® Store Kunming Aegean (Certified Store)",
+    "name_local": "昆明爱琴海乐高®授权专卖店",
+    "city": "Kunming",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "昆明市西山区广福路488号爱琴海购物公园",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-kunming-aegean-certified-store-kunming"
    }
   },
   {
@@ -7981,6 +8256,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     118.77921,
+     32.04217
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-nanjing-xinbai-certified-store-nanjing",
+    "name": "LEGO® Store Nanjing Xinbai (Certified Store)",
+    "name_local": "南京新百乐高®授权专卖店",
+    "city": "Nanjing",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "南京市秦淮区中山南路1号南京新百",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-nanjing-xinbai-certified-store-nanjing"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      118.71646,
      31.99891
     ]
@@ -8406,6 +8706,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     120.39182,
+     36.06348
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-qingdao-aeon-certified-store-qingdao",
+    "name": "LEGO® Store Qingdao Aeon (Certified Store)",
+    "name_local": "青岛佳世客永旺乐高®授权专卖店",
+    "city": "Qingdao",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "青岛市市南区香港中路72号永旺佳世客东部购物中心",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-qingdao-aeon-certified-store-qingdao"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      120.4582,
      36.09612
     ]
@@ -8424,6 +8749,31 @@
     "phone": "0532-55725799",
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-store-qingdao-jinshi-plaza-certified-store-qing"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.39073,
+     36.11376
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-qingdao-kaide-mall-certified-store-qingda",
+    "name": "LEGO® Store Qingdao Kaide Mall (Certified Store)",
+    "name_local": "青岛凯德MALL乐高®授权专卖店",
+    "city": "Qingdao",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "青岛市市北区黑龙江南路18号青岛凯德MALL·新都心",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-qingdao-kaide-mall-certified-store-qingda"
    }
   },
   {
@@ -9056,6 +9406,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     121.35784,
+     31.36013
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-shanghai-baoshan-longfor-paradise-walk-ce",
+    "name": "LEGO® Store Shanghai Baoshan Longfor Paradise Walk (Certified Store)",
+    "name_local": "上海宝山龙湖天街乐高®授权专卖店",
+    "city": "Shanghai",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "上海市宝山区丹霞山路50弄1号龙湖宝山天街",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-shanghai-baoshan-longfor-paradise-walk-ce"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      121.52294,
      31.22951
     ]
@@ -9631,6 +10006,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     121.495128,
+     31.265388
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-shanghai-ruihong-tiandi-hall-of-the-sun-c",
+    "name": "LEGO® Store Shanghai Ruihong Tiandi Hall of the Sun (Certified Store)",
+    "name_local": "上海太阳宫",
+    "city": "Shanghai",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "上海市虹口区瑞虹路181号瑞虹天地太阳宫",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-shanghai-ruihong-tiandi-hall-of-the-sun-c"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      121.2545,
      31.1778
     ]
@@ -10006,6 +10406,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     123.39385,
+     41.74466
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-shenyang-changbai-mixc-certified-store-sh",
+    "name": "LEGO® Store Shenyang Changbai MixC (Certified Store)",
+    "name_local": "沈阳长白万象汇乐高授权专卖店",
+    "city": "Shenyang",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "沈阳市和平区长白北路199号长白万象汇",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-shenyang-changbai-mixc-certified-store-sh"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      123.4581,
      41.8343
     ]
@@ -10074,6 +10499,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-store-shenyang-palace-66-certified-store-shenya"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.40813,
+     41.94271
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-shenyang-shenbei-wuyue-plaza-certified-st",
+    "name": "LEGO® Store Shenyang Shenbei Wuyue Plaza (Certified Store)",
+    "name_local": "沈阳沈北吾悦广场乐高授权专卖店",
+    "city": "Shenyang",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "沈阳市沈北新区蒲河路33号吾悦广场",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-shenyang-shenbei-wuyue-plaza-certified-st"
    }
   },
   {
@@ -10349,6 +10799,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-store-shenzhen-bao-an-airport-certified-store-s"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.12747,
+     22.59417
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-shenzhen-buji-mixc-certified-store-shenzh",
+    "name": "LEGO® Store Shenzhen Buji MixC (Certified Store)",
+    "name_local": "深圳布吉万象汇乐高®授权专卖店",
+    "city": "Shenzhen",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "深圳市龙岗区翔鸽路2号华润万象汇1层",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-shenzhen-buji-mixc-certified-store-shenzh"
    }
   },
   {
@@ -12406,6 +12881,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     108.94697,
+     34.20096
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-xi-an-wanxiang-tiandi-certified-store-xi-",
+    "name": "LEGO® Store Xi'an Wanxiang Tiandi (Certified Store)",
+    "name_local": "西安万象天地",
+    "city": "Xi'an",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "西安市雁塔区雁展路1111号西安万象天地",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-xi-an-wanxiang-tiandi-certified-store-xi-"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      108.96876,
      34.2704
     ]
@@ -12524,6 +13024,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-store-xiamen-c-d-wanyue-city-certified-store-xi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.11977,
+     24.50201
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-xiamen-sm-lifestyle-certified-store-xiame",
+    "name": "LEGO® Store Xiamen SM Lifestyle (Certified Store)",
+    "name_local": "厦门SM新生活广场乐高授权专卖店",
+    "city": "Xiamen",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "厦门市湖里区嘉禾路399号SM新生活广场",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-xiamen-sm-lifestyle-certified-store-xiame"
    }
   },
   {
@@ -13474,6 +13999,31 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-store-zhenjiang-yaohan-certified-store-zhenjian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.37765,
+     22.53555
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-zhongshan-dexin-new-metropolis-certified-",
+    "name": "LEGO® Store Zhongshan Dexin New Metropolis (Certified Store)",
+    "name_local": "中山石岐大信新都汇乐高授权专卖店",
+    "city": "Zhongshan",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "中山市石岐区大信南路2号大信新都汇",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-zhongshan-dexin-new-metropolis-certified-"
    }
   },
   {
@@ -22631,6 +23181,31 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     103.85905,
+     1.29497
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-f1-pop-up-suntec-city-singapur",
+    "name": "LEGO® F1 Pop-up Suntec City",
+    "name_local": null,
+    "city": "Singapore",
+    "country": "Singapore",
+    "type": "popup",
+    "closed_year": 2026,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Suntec City Atrium, Tower 3/4, 3 Temasek Boulevard, Singapore 038983, Singapore",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-f1-pop-up-suntec-city-singapur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      103.895119,
      1.3923953
     ]
@@ -24949,6 +25524,31 @@
     "phone": "0232 504 07 93",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-hilltown-izmir-certified-store"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.3536938,
+     41.2765086
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-samsun-piazza-certified-store-samsun",
+    "name": "LEGO® Store Samsun Piazza (Certified Store)",
+    "name_local": "Samsun Piazza LEGO® Store",
+    "city": "Samsun",
+    "country": "Turkey",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Piazza AVM, Çarşamba Cad. No:52, Canik, Samsun, Turkey",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-samsun-piazza-certified-store-samsun"
    }
   },
   {
