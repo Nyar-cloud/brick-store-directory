@@ -108,6 +108,10 @@ Last change **2026-10-26**. The list is rebuilt every Monday; [CHANGELOG.md](CHA
 | `address`, `address_local` | Street address, plus the local-script version where one exists |
 | `latitude`, `longitude` | Coordinates. Some are city centres rather than the shop door |
 | `phone` | Public phone number of the store |
+| `opened` | Day the store opened, as precise as known: `2020-08-27`, `2009-07` or `2004`. Empty if unknown |
+| `closed_on` | Day the store closed, same precision. `closed_year` stays filled when only the year is known |
+| `stamps` | `yes` if at least one stamp of this store is on Brick Passport. `no` only where someone checked and documented that the store has none. Otherwise `unknown` |
+| `stamps_reason`, `stamps_checked` | For `no`: `no_passports` or `no_exclusive_stamps`, and the date it was checked |
 | `services` | `bam`, `pab`, `minifigure_factory`, `mosaic_maker` |
 | `url`, `country_url` | The store and its country on Brick Passport |
 | `updated` | When the record was last edited |

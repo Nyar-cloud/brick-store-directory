@@ -4,9 +4,9 @@
 
 See [Czechia on Brick Passport](https://brickstorestamps.com/explore/stores/list/europe/czechia) for the stamps collected in these stores.
 
-| Store | City | Address | Status | Services | Map |
-| --- | --- | --- | --- | --- | --- |
-| [LEGO® Store Praha Centrum](https://brickstorestamps.com/stores/store-lego-store-prauge-opening-soon) | Prague | Na Příkopě 25, Praha 1, Praha 11000, Czechia | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=50.08747&mlon=14.42125#map=17/50.08747/14.42125) |
-| [LEGO® Store Praha Chodov](https://brickstorestamps.com/stores/store-lego-store-praha-chodov) | Prague | Roztylská 2321/19<br/>Westfield Chodov, Praha 11 148 00, Czechia | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=50.0306&mlon=14.4906#map=17/50.0306/14.4906) |
+| Store | City | Address | Status | Stamps | Services | Map |
+| --- | --- | --- | --- | --- | --- | --- |
+| [LEGO® Store Praha Centrum](https://brickstorestamps.com/stores/store-lego-store-prauge-opening-soon) | Prague | Na Příkopě 25, Praha 1, Praha 11000, Czechia | Open since 2026-10-22 | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=50.08747&mlon=14.42125#map=17/50.08747/14.42125) |
+| [LEGO® Store Praha Chodov](https://brickstorestamps.com/stores/store-lego-store-praha-chodov) | Prague | Roztylská 2321/19<br/>Westfield Chodov, Praha 11 148 00, Czechia | Open since 2022-11-03 | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=50.0306&mlon=14.4906#map=17/50.0306/14.4906) |
 
 Last change 2026-10-26. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
