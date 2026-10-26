@@ -1,6 +1,6 @@
 # LEGO Stores in Canada
 
-18 stores on record, 15 open, 2 opening soon, 1 closed.
+18 stores on record, 16 open, 1 opening soon, 1 closed.
 
 See [Canada on Brick Passport](https://brickstorestamps.com/explore/stores/list/north-america/canada) for the stamps collected in these stores.
 
@@ -17,7 +17,7 @@ See [Canada on Brick Passport](https://brickstorestamps.com/explore/stores/list/
 | [LEGO® Store Montreal - Pointe-Claire](https://brickstorestamps.com/stores/store-lego-store-montreal-pointe-claire) | Pointe-Claire | 6801 Trans-Canada Highway, Pointe-Claire H9R 5J2, Canada | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.4639&mlon=-73.8311#map=17/45.4639/-73.8311) |
 | [LEGO® Store Richmond Centre](https://brickstorestamps.com/stores/store-lego-store-richmond-centre) | Richmond | 6551 No. 3 Road, #1440, Richmond V6Y 2B6, Canada | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=49.16317&mlon=-123.13741#map=17/49.16317/-123.13741) |
 | [LEGO® Store Guildford Town Centre](https://brickstorestamps.com/stores/store-lego-store-guilford-town-centre) | Surrey | 10355 152 St, Unit 1036, Guildford Town Centre, Surrey V3R 7C1, Canada | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=49.1904714&mlon=-122.7994051#map=17/49.1904714/-122.7994051) |
-| [LEGO® Store CF Toronto Eaton Centre](https://brickstorestamps.com/stores/store-lego-store-cf-toronto-eaton-centre) | Toronto | 220 Yonge St, Level 3, Toronto M5B 2H1, Canada | Opens 23 October 2026 | – | [map](https://www.openstreetmap.org/?mlat=43.65415&mlon=-79.38079#map=17/43.65415/-79.38079) |
+| [LEGO® Store CF Toronto Eaton Centre](https://brickstorestamps.com/stores/store-lego-store-cf-toronto-eaton-centre) | Toronto | 220 Yonge St, Level 3, Toronto M5B 2H1, Canada | Open | – | [map](https://www.openstreetmap.org/?mlat=43.65415&mlon=-79.38079#map=17/43.65415/-79.38079) |
 | [LEGO® Store Toronto - Fairview Mall](https://brickstorestamps.com/stores/store-lego-store-toronto-fairview-mall) | Toronto | 1800 Sheppard Avenue East, Toronto M2J 5A7, Canada | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=43.778779&mlon=-79.344721#map=17/43.778779/-79.344721) |
 | [LEGO® Store Toronto - Sherway Gardens](https://brickstorestamps.com/stores/store-lego-store-toronto-sherway-gardens) | Toronto | 25 Sherway Drive, Toronto M9C 1B8, Canada | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=43.6126518&mlon=-79.5559716#map=17/43.6126518/-79.5559716) |
 | [LEGO® Store Toronto - Yorkdale](https://brickstorestamps.com/stores/store-lego-store-toronto-yorkdale) | Toronto | 1 Yorkdale Rd, Unit 55, Yorkdale Shopping Centre, Toronto M6A 3A1, Canada | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=43.72436&mlon=-79.4488#map=17/43.72436/-79.4488) |
@@ -25,4 +25,4 @@ See [Canada on Brick Passport](https://brickstorestamps.com/explore/stores/list/
 | [LEGO® Store Oakridge Centre](https://brickstorestamps.com/stores/store-lego-store-oakridge-centre) | Vancouver | Oakridge Centre, 650 W 41st Ave, Vancouver V5Z 2M9, Canada | **Closed 2020** | – | [map](https://www.openstreetmap.org/?mlat=49.23173&mlon=-123.11812#map=17/49.23173/-123.11812) |
 | [LEGO® Store Winnipeg](https://brickstorestamps.com/stores/store-lego-store-winnipeg) | Winnipeg | 1485 Portage Avenue Unit 0210A, Winnipeg R3G 0W4, Canada | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=49.89554&mlon=-97.13846#map=17/49.89554/-97.13846) |
 
-Last change 2026-10-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-10-26. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

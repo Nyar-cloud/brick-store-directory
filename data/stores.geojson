@@ -1793,8 +1793,8 @@
     "country": "Canada",
     "type": "official",
     "closed_year": null,
-    "upcoming": true,
-    "opening_date": "2026-10-23",
+    "upcoming": false,
+    "opening_date": null,
     "address": "220 Yonge St, Level 3, Toronto M5B 2H1, Canada",
     "phone": null,
     "services": null,
@@ -8024,6 +8024,31 @@
     "phone": "(0791)86374314",
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-store-nanchang-mixc-world-certified-store-nanch"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.905,
+     28.6545
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-nanchang-wangfujing-certified-store-nanch",
+    "name": "LEGO® Store Nanchang Wangfujing (Certified Store)",
+    "name_local": null,
+    "city": "Nanchang",
+    "country": "China",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "1F006, Wangfujing Shopping Center, 188 Hongcheng Road, Qingyunpu District, Nanchang, China",
+    "phone": "0791-86450097",
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-nanchang-wangfujing-certified-store-nanch"
    }
   },
   {
@@ -14487,7 +14512,7 @@
    },
    "properties": {
     "id": "store-lego-store-prauge-opening-soon",
-    "name": "LEGO® Store Praha",
+    "name": "LEGO® Store Praha Centrum",
     "name_local": null,
     "city": "Prague",
     "country": "Czechia",
@@ -14774,6 +14799,31 @@
     "phone": "+45 32755538",
     "services": "bam, minifigure_factory, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-tivoli-gardens"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.7631,
+     9.0313
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-ambassador-mall-addis-abeba",
+    "name": "LEGO® Store Ambassador Mall",
+    "name_local": null,
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "Ambassador Mall, 3rd Floor, 4 Kilo (Arada), Addis Abeba, Ethiopia",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-ambassador-mall-addis-abeba"
    }
   },
   {
@@ -18716,8 +18766,8 @@
     "name_local": null,
     "city": "Fujimi",
     "country": "Japan",
-    "type": "official",
-    "closed_year": null,
+    "type": "closed",
+    "closed_year": 2026,
     "upcoming": false,
     "opening_date": null,
     "address": null,
@@ -19091,8 +19141,8 @@
     "name_local": null,
     "city": "Nagoya",
     "country": "Japan",
-    "type": "official",
-    "closed_year": null,
+    "type": "closed",
+    "closed_year": 2025,
     "upcoming": false,
     "opening_date": null,
     "address": null,
@@ -24156,14 +24206,14 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     127.1031296,
-     37.5129337
+     127.0994195,
+     37.5120921
     ]
    },
    "properties": {
     "id": "store-lego-store-jamsil-certified-store",
     "name": "LEGO® Store Jamsil (Certified Store)",
-    "name_local": null,
+    "name_local": "레고스토어 롯데백화점 잠실점",
     "city": "Seoul",
     "country": "South Korea",
     "type": "official",
@@ -24174,6 +24224,31 @@
     "phone": "02-2143-7871",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-jamsil-certified-store"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.1042466,
+     37.5137422
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-store-lotte-world-mall-seoul",
+    "name": "LEGO® Store Lotte World Mall",
+    "name_local": "레고스토어 롯데월드몰점",
+    "city": "Seoul",
+    "country": "South Korea",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "address": "B1, Lotte World Mall, 300 Olympic-ro, Songpa-gu, Seoul 05551, South Korea",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-store-lotte-world-mall-seoul"
    }
   },
   {

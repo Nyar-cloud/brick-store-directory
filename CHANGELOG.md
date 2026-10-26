@@ -3,6 +3,29 @@
 What changed in the store list, newest first. Written by the weekly export;
 weeks without a change leave no entry.
 
+## 2026-10-26
+
+3 added, 2 closed, 1 now open, 1 renamed, 72 with corrected details. 1238 stores on record.
+
+### Added
+
+- [LEGO® Store Nanchang Wangfujing (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-nanchang-wangfujing-certified-store-nanch), Nanchang, China
+- [LEGO® Store Ambassador Mall](https://brickstorestamps.com/stores/store-c-lego-store-ambassador-mall-addis-abeba), Addis Ababa, Ethiopia
+- [LEGO® Store Lotte World Mall](https://brickstorestamps.com/stores/store-c-lego-store-lotte-world-mall-seoul), Seoul, South Korea
+
+### Closed
+
+- [LEGO® Store Fujimi](https://brickstorestamps.com/stores/store-lego-store-fujimi), Fujimi, Japan (closed 2026)
+- [LEGO® Store mozo Wonder City](https://brickstorestamps.com/stores/store-lego-store-mozo-wonder-city), Nagoya, Japan (closed 2025)
+
+### Now open
+
+- [LEGO® Store CF Toronto Eaton Centre](https://brickstorestamps.com/stores/store-lego-store-cf-toronto-eaton-centre), Toronto, Canada
+
+### Renamed
+
+- LEGO® Store Praha is now [LEGO® Store Praha Centrum](https://brickstorestamps.com/stores/store-lego-store-prauge-opening-soon), Prague, Czechia
+
 ## 2026-10-19
 
 24 added, 1 with an updated address. 1235 stores on record.

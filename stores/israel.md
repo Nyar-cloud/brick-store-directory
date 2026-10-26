@@ -18,4 +18,4 @@ See [Israel on Brick Passport](https://brickstorestamps.com/explore/stores/list/
 | [LEGO® Store Tel Aviv](https://brickstorestamps.com/stores/store-lego-store-tel-aviv) | Tel Aviv | Dizengof Center, Dizengoff St 50, Tel Aviv-Yafo 6433267, Israel | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=32.0753100493558&mlon=34.7749650694933#map=17/32.0753100493558/34.7749650694933) |
 | [LEGO® Store Tel Aviv Airport](https://brickstorestamps.com/stores/store-lego-store-tel-aviv-airport) | Tel Aviv | – | Open | – | [map](https://www.openstreetmap.org/?mlat=32.0853&mlon=34.78181#map=17/32.0853/34.78181) |
 
-Last change 2026-10-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-10-26. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

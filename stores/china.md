@@ -1,6 +1,6 @@
 # LEGO Stores in China
 
-479 stores on record, 478 open, 1 closed.
+480 stores on record, 479 open, 1 closed.
 
 See [China on Brick Passport](https://brickstorestamps.com/explore/stores/list/asia/china) for the stamps collected in these stores.
 
@@ -239,6 +239,7 @@ See [China on Brick Passport](https://brickstorestamps.com/explore/stores/list/a
 | [LEGO® Store Mudanjiang Wanda Plaza (Certified Store) (牡丹江万达广场)](https://brickstorestamps.com/stores/store-c-lego-store-mudanjiang-wanda-plaza-certified-store-mu) | Mudanjiang | 牡丹江市西安区西新安街与西八条路交叉口东南60米 | Open | – | [map](https://www.openstreetmap.org/?mlat=44.56785&mlon=129.59398#map=17/44.56785/129.59398) |
 | [LEGO® Store Nanchang MixC (Certified Store) (南昌万象城)](https://brickstorestamps.com/stores/store-c-lego-store-nanchang-mixc-certified-store-nanchang) | Nanchang | 南昌市红谷滩区学府大道388号万象城L146号 | Open | – | [map](https://www.openstreetmap.org/?mlat=28.65906&mlon=115.84404#map=17/28.65906/115.84404) |
 | [LEGO® Store Nanchang MixC World (Certified Store) (南昌万象汇)](https://brickstorestamps.com/stores/store-c-lego-store-nanchang-mixc-world-certified-store-nanch) | Nanchang | 南昌市青山湖区高新大道1918号东北方向20米 | Open | – | [map](https://www.openstreetmap.org/?mlat=28.6785&mlon=115.95418#map=17/28.6785/115.95418) |
+| [LEGO® Store Nanchang Wangfujing (Certified Store)](https://brickstorestamps.com/stores/store-c-lego-store-nanchang-wangfujing-certified-store-nanch) | Nanchang | 1F006, Wangfujing Shopping Center, 188 Hongcheng Road, Qingyunpu District, Nanchang, China | Open | – | [map](https://www.openstreetmap.org/?mlat=28.6545&mlon=115.905#map=17/28.6545/115.905) |
 | [LEGO® Store Deji Plaza](https://brickstorestamps.com/stores/store-lego-store-deji-plaza) | Nanjing | F635 Deji Plaza Phase II,, Nanjing, China | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=32.04383&mlon=118.77886#map=17/32.04383/118.77886) |
 | [LEGO® Store Golden Eagle Hubintiandi](https://brickstorestamps.com/stores/store-lego-store-golden-eagle-hubintiandi) | Nanjing | – | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=32.102343&mlon=118.918185#map=17/32.102343/118.918185) |
 | [LEGO® Store KING MO](https://brickstorestamps.com/stores/store-lego-store-king-mo) | Nanjing | 1698 Shuanglong Avenue,, Nanjing, China | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=31.9713&mlon=118.80883#map=17/31.9713/118.80883) |
@@ -486,4 +487,4 @@ See [China on Brick Passport](https://brickstorestamps.com/explore/stores/list/a
 | [LEGO® Store Zhuhai Huafa Shangdu (LEGO乐高授权专卖店(华发商都店))](https://brickstorestamps.com/stores/store-lego-store-zhuhai-haufa-shangdu-lego) | Zhuhai | 珠海市香洲区大道华发商都B馆一层B1007A号 | Open | – | [map](https://www.openstreetmap.org/?mlat=22.2246&mlon=113.5114#map=17/22.2246/113.5114) |
 | [LEGO® Store Zibo MixC (Certified Store) (淄博万象汇)](https://brickstorestamps.com/stores/store-c-lego-store-zibo-mixc-certified-store-zibo) | Zibo | 淄博市张店区万象汇1楼 | Open | – | [map](https://www.openstreetmap.org/?mlat=36.80137&mlon=118.05501#map=17/36.80137/118.05501) |
 
-Last change 2026-10-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-10-26. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

@@ -1,6 +1,6 @@
 # LEGO Stores in South Korea
 
-25 stores on record, 25 open.
+26 stores on record, 26 open.
 
 See [South Korea on Brick Passport](https://brickstorestamps.com/explore/stores/list/asia/south-korea) for the stamps collected in these stores.
 
@@ -22,7 +22,8 @@ See [South Korea on Brick Passport](https://brickstorestamps.com/explore/stores/
 | [LEGO® Store Gimpo (Certified Store)](https://brickstorestamps.com/stores/store-lego-store-gimpo-certified-store) | Seoul | LEGO store, MF, 77, Haneul-gil, Gangseo-gu, Seoul 07505, South Korea | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=37.56241&mlon=126.80297#map=17/37.56241/126.80297) |
 | [LEGO® Store Hyundai Mokdong (Certified Store)](https://brickstorestamps.com/stores/store-lego-store-hyundai-mokdong-certified-store) | Seoul | HD Dept. B2, 257, Mokdongdong-ro, Yangcheon-gu, Seoul 07998, South Korea | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=37.5264&mlon=126.8752#map=17/37.5264/126.8752) |
 | [LEGO® Store Ipark Yongsan](https://brickstorestamps.com/stores/store-lego-store-ipark-yongsan) | Seoul | 6F, Ipark Mall Yongsan, 55 Hangang-daero 23-gil, Yongsan-gu, Seoul 04377, South Korea | Open | – | [map](https://www.openstreetmap.org/?mlat=37.56668&mlon=126.97829#map=17/37.56668/126.97829) |
-| [LEGO® Store Jamsil (Certified Store)](https://brickstorestamps.com/stores/store-lego-store-jamsil-certified-store) | Seoul | 8F, Lotte Department Store Jamsil, 240 Olympic-ro, Songpa-gu, Seoul 05554, South Korea | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=37.5129337&mlon=127.1031296#map=17/37.5129337/127.1031296) |
+| [LEGO® Store Jamsil (Certified Store) (레고스토어 롯데백화점 잠실점)](https://brickstorestamps.com/stores/store-lego-store-jamsil-certified-store) | Seoul | 8F, Lotte Department Store Jamsil, 240 Olympic-ro, Songpa-gu, Seoul 05554, South Korea | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=37.5120921&mlon=127.0994195#map=17/37.5120921/127.0994195) |
+| [LEGO® Store Lotte World Mall (레고스토어 롯데월드몰점)](https://brickstorestamps.com/stores/store-c-lego-store-lotte-world-mall-seoul) | Seoul | B1, Lotte World Mall, 300 Olympic-ro, Songpa-gu, Seoul 05551, South Korea | Open | – | [map](https://www.openstreetmap.org/?mlat=37.5137422&mlon=127.1042466#map=17/37.5137422/127.1042466) |
 | [LEGO® Store Myeongdong (Certified Store)](https://brickstorestamps.com/stores/store-lego-store-myeongdong-certified-store) | Seoul | 2F, 67, Namdaemun-ro, Jung-gu, Seoul, South Korea | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=37.5633872&mlon=126.9817713#map=17/37.5633872/126.9817713) |
 | [LEGO® Store Wolgye (Certified Store)](https://brickstorestamps.com/stores/store-lego-store-wolgye-certified-store) | Seoul | 2F,15, Madeul-ro 3-gil,, Seoul, South Korea | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=37.6275272&mlon=127.06228#map=17/37.6275272/127.06228) |
 | [LEGO® Store Youido (Certified Store)](https://brickstorestamps.com/stores/store-lego-store-youido-certified-store) | Seoul | 108, Yeoui-daero, Yeongdeungpo-gu, Seoul, South Korea | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=37.5265&mlon=126.928444#map=17/37.5265/126.928444) |
@@ -32,4 +33,4 @@ See [South Korea on Brick Passport](https://brickstorestamps.com/explore/stores/
 | [LEGO® Store Hyundai Ulsan (Certified Store)](https://brickstorestamps.com/stores/store-lego-store-hyundai-ulsan-certified-store) | Ulsan | 6F, Hyundai Department Store Ulsan, 261 Samsan-ro, Nam-gu, Ulsan 44705, South Korea | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=35.5375245&mlon=129.3307481#map=17/35.5375245/129.3307481) |
 | [LEGO® Store Shinsegae Gyeonggi (Certified Store)](https://brickstorestamps.com/stores/store-lego-store-shinsegae-gyeonggi-certified-store) | Yongin | SSG Dept. 4F, 536, Poeun-daero, Suji-gu, Yongin-si 16896, South Korea | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=37.299018&mlon=127.063818#map=17/37.299018/127.063818) |
 
-Last change 2026-10-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-10-26. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

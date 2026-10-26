@@ -1,6 +1,6 @@
 # LEGO Stores in Japan
 
-44 stores on record, 44 open.
+44 stores on record, 42 open, 2 closed.
 
 See [Japan on Brick Passport](https://brickstorestamps.com/explore/stores/list/asia/japan) for the stamps collected in these stores.
 
@@ -8,7 +8,7 @@ See [Japan on Brick Passport](https://brickstorestamps.com/explore/stores/list/a
 | --- | --- | --- | --- | --- | --- |
 | [LEGO® Store Ami](https://brickstorestamps.com/stores/store-lego-store-ami) | Ami | 阿見町よしわら4-1-1 あみプレミアムアウトレット内900区, 茨城県稲敷郡 300-1161, Japan | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=35.983471&mlon=140.236984#map=17/35.983471/140.236984) |
 | [LEGO® Store Ebina](https://brickstorestamps.com/stores/store-lego-store-ebina) | Ebina | 扇町13－1 三井ショッピングパーク ららぽーと海老名3F, 神奈川県海老名市 243-0436, Japan | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=35.45607898&mlon=139.3892512#map=17/35.45607898/139.3892512) |
-| [LEGO® Store Fujimi](https://brickstorestamps.com/stores/store-lego-store-fujimi) | Fujimi | – | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=35.85655&mlon=139.54907#map=17/35.85655/139.54907) |
+| [LEGO® Store Fujimi](https://brickstorestamps.com/stores/store-lego-store-fujimi) | Fujimi | – | **Closed 2026** | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=35.85655&mlon=139.54907#map=17/35.85655/139.54907) |
 | [LEGO® Store Lalaport Fukuoka](https://brickstorestamps.com/stores/store-lego-store-lalaport-fukuoka) | Fukuoka | 博多区那珂6-23-1 ららぽーと福岡 1階, 福岡県福岡市 812-8627, Japan | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=33.5899&mlon=130.40175#map=17/33.5899/130.40175) |
 | [LEGO® Store Gotemba](https://brickstorestamps.com/stores/store-lego-store-gotemba) | Gotemba | 深沢1312 御殿場プレミアム・アウトレット3765, 静岡県御殿場市 412-0023, Japan | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=35.30691638&mlon=138.9620686#map=17/35.30691638/138.9620686) |
 | [LEGO® Store Minami-Osawa](https://brickstorestamps.com/stores/store-lego-store-minami-osawa) | Hachioji | 南大沢1-600 三井アウトレットパーク多摩南大沢119, 東京都八王子市 192-0364, Japan | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=35.615013&mlon=139.37822#map=17/35.615013/139.37822) |
@@ -23,7 +23,7 @@ See [Japan on Brick Passport](https://brickstorestamps.com/explore/stores/list/a
 | [LEGO® Store Koshigaya Laketown Mori](https://brickstorestamps.com/stores/store-lego-store-koshigaya-laketown-mori) | Koshigaya | レイクタウン3-1‐1 イオンレイクタウンmori 3F, 埼玉県越谷市 343-0828, Japan | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=35.88222224&mlon=139.8279841#map=17/35.88222224/139.8279841) |
 | [LEGO® Store Kurashiki](https://brickstorestamps.com/stores/store-lego-store-kurashiki) | Kurashiki | 寿町12-1 三井アウトレットパーク倉敷2640区画, 岡山県倉敷市 710-0813, Japan | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=34.60373&mlon=133.7621#map=17/34.60373/133.7621) |
 | [LEGO® Store Nagashima](https://brickstorestamps.com/stores/store-lego-store-nagashima) | Kuwana | 長島町浦安368 三井アウトレットパーク ジャズドリーム長島 2540, 三重県桑名市 511-1135, Japan | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=35.03029697&mlon=136.7254234#map=17/35.03029697/136.7254234) |
-| [LEGO® Store mozo Wonder City](https://brickstorestamps.com/stores/store-lego-store-mozo-wonder-city) | Nagoya | – | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=35.1851&mlon=136.89984#map=17/35.1851/136.89984) |
+| [LEGO® Store mozo Wonder City](https://brickstorestamps.com/stores/store-lego-store-mozo-wonder-city) | Nagoya | – | **Closed 2025** | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=35.1851&mlon=136.89984#map=17/35.1851/136.89984) |
 | [LEGO® Store Nagoya Minato Aqursu](https://brickstorestamps.com/stores/store-lego-store-nagoya-minato-aqursu) | Nagoya | 港区港明2-3-2 ららぽーと名古屋みなとアクルス 3F, 愛知県名古屋市 455-0018, Japan | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=35.1851&mlon=136.89984#map=17/35.1851/136.89984) |
 | [LEGOLAND Japan](https://brickstorestamps.com/stores/store-legoland-japan) | Nagoya | – | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=35.1851&mlon=136.89984#map=17/35.1851/136.89984) |
 | [LEGO® Store Narita Airport](https://brickstorestamps.com/stores/store-lego-store-narita-airport) | Narita | 三里塚御料牧場1‐1 成田空港第1ターミナル中央ビル新館4F, 千葉県成田市 282-0011, Japan | Open | – | [map](https://www.openstreetmap.org/?mlat=35.77677&mlon=140.31834#map=17/35.77677/140.31834) |
@@ -51,4 +51,4 @@ See [Japan on Brick Passport](https://brickstorestamps.com/explore/stores/list/a
 | [LEGO® Store Yokohama Bayside](https://brickstorestamps.com/stores/store-lego-store-yokohama-bayside) | Yokohama | 金沢区白帆5－2 三井アウトレットパーク 横浜ベイサイド 10530, 神奈川県横浜市 236-0007, Japan | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=35.3800788&mlon=139.644941#map=17/35.3800788/139.644941) |
 | [LEGO® Store Yokohama Landmark Plaza](https://brickstorestamps.com/stores/store-lego-store-yokohama-landmark-plaza) | Yokohama | 西区みなとみらい2-2-1 横浜ランドマークプラザ2F, 神奈川県横浜市 220-0012, Japan | Open | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=35.45555997&mlon=139.6319929#map=17/35.45555997/139.6319929) |
 
-Last change 2026-10-19. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-10-26. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
