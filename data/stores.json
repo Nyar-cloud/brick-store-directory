@@ -88,7 +88,7 @@
     "longitude": 153.0235,
     "phone": null,
     "services": [],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-brisbane-bne-domestic",
@@ -118,7 +118,7 @@
     "longitude": 153.0235,
     "phone": null,
     "services": [],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-brisbane-airport-international-terminal-bne-duty-free",
@@ -1035,6 +1035,39 @@
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-wien-donau-zentrum",
     "country_url": "https://brickstorestamps.com/explore/stores/list/europe/austria",
+    "updated": null
+  },
+  {
+    "id": "store-c-lego-certified-store-baku-baku",
+    "name": "LEGO® Certified Store Baku",
+    "name_local": null,
+    "type": "official",
+    "closed": false,
+    "closed_year": null,
+    "moved_to": null,
+    "opened": "2026-10-03",
+    "closed_on": null,
+    "popup_from": null,
+    "popup_to": null,
+    "upcoming": false,
+    "opening_date": null,
+    "country": "Azerbaijan",
+    "city": "Baku",
+    "continent": "Asia",
+    "address": "Ganjlik Mall, F. Kh. Khoyski Ave. 14, Narimanov, Baku, Azerbaijan",
+    "address_local": null,
+    "latitude": 40.4006,
+    "longitude": 49.8515,
+    "phone": null,
+    "services": [
+      "bam",
+      "pab"
+    ],
+    "stamps": "yes",
+    "stamps_reason": null,
+    "stamps_checked": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-certified-store-baku-baku",
+    "country_url": "https://brickstorestamps.com/explore/stores/list/asia/azerbaijan",
     "updated": null
   },
   {
@@ -2147,7 +2180,7 @@
     "longitude": -79.61795,
     "phone": null,
     "services": [],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-travel-retail-store-toronto-pearson-airport",
@@ -18053,7 +18086,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-escazu",
@@ -18086,7 +18119,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-oxigeno",
@@ -18119,7 +18152,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-lincoln",
@@ -18627,7 +18660,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-biarritz",
@@ -18891,7 +18924,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-lens",
@@ -19121,7 +19154,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-metz",
@@ -19383,7 +19416,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-rennes",
@@ -20516,7 +20549,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-golden-hall-athens",
@@ -20645,7 +20678,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-mediterranean-cosmos",
@@ -20678,7 +20711,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-thessaloniki",
@@ -21359,7 +21392,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-lcs-trans-studio-mall-cibubur",
@@ -21425,7 +21458,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-lcs-cilandak-town-square",
@@ -21590,7 +21623,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-lcs-lippo-mall-puri",
@@ -21623,7 +21656,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-lcs-mall-of-indonesia",
@@ -22636,7 +22669,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-bari",
@@ -22864,7 +22897,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-legoland-gardaland",
@@ -22963,7 +22996,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-aida-perla",
@@ -23628,8 +23661,8 @@
     "updated": "2026-09-25T10:38:15.817Z"
   },
   {
-    "id": "store-lego-store-cc-adigeo",
-    "name": "LEGO® Store CC Adigeo",
+    "id": "store-lego-store-verona",
+    "name": "LEGO® Store Verona",
     "name_local": null,
     "type": "official",
     "closed": false,
@@ -23649,39 +23682,6 @@
     "latitude": 45.40155,
     "longitude": 10.973205,
     "phone": "+39 045 582585",
-    "services": [
-      "bam",
-      "pab"
-    ],
-    "stamps": "unknown",
-    "stamps_reason": null,
-    "stamps_checked": null,
-    "url": "https://brickstorestamps.com/stores/store-lego-store-cc-adigeo",
-    "country_url": "https://brickstorestamps.com/explore/stores/list/europe/italy",
-    "updated": "2026-09-25T10:37:58.817Z"
-  },
-  {
-    "id": "store-lego-store-verona",
-    "name": "LEGO® Store Verona",
-    "name_local": null,
-    "type": "official",
-    "closed": false,
-    "closed_year": null,
-    "moved_to": null,
-    "opened": null,
-    "closed_on": null,
-    "popup_from": null,
-    "popup_to": null,
-    "upcoming": false,
-    "opening_date": null,
-    "country": "Italy",
-    "city": "Verona",
-    "continent": "Europe",
-    "address": null,
-    "address_local": null,
-    "latitude": 45.4385,
-    "longitude": 10.99241,
-    "phone": null,
     "services": [
       "bam",
       "pab"
@@ -25447,7 +25447,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-imago-mall-sabah",
@@ -25507,7 +25507,7 @@
     "longitude": 101.7188,
     "phone": null,
     "services": [],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-parisian-cafe-and-art-gallery-kuala-lumpur",
@@ -25540,7 +25540,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-bangsar-village-ii",
@@ -25858,7 +25858,7 @@
     "longitude": 100.25591,
     "phone": null,
     "services": [],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-penang-airport-pen",
@@ -26020,7 +26020,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-ioi-city-mall-putrajaya",
@@ -26113,7 +26113,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-setia-city-mall-shah-alam",
@@ -26146,7 +26146,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-empire-shopping-gallery-subang-nu-empire",
@@ -26179,7 +26179,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-altaria",
@@ -26539,7 +26539,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-altacia",
@@ -26896,7 +26896,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-fashion-drive-monterry",
@@ -26929,7 +26929,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-galerias-monterrey",
@@ -27061,7 +27061,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-angelopolis",
@@ -27124,7 +27124,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-antea",
@@ -27223,7 +27223,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-the-park-slp",
@@ -27681,7 +27681,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-altaplaza",
@@ -27714,7 +27714,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-multiplaza",
@@ -27912,7 +27912,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-lcs-vermosa",
@@ -29793,7 +29793,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-nex-certified-store",
@@ -33648,7 +33648,7 @@
     "longitude": -0.12777,
     "phone": null,
     "services": [],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-luton-airport",
@@ -33903,7 +33903,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-norfolk-chantry-place-opening-soon",
@@ -34391,7 +34391,7 @@
     "longitude": -84.38982,
     "phone": null,
     "services": [],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-legoland-discovery-center-atlanta",
@@ -34421,7 +34421,7 @@
     "longitude": -83.2341,
     "phone": null,
     "services": [],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-legoland-discovery-center-michigan",
@@ -34912,7 +34912,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-burlington-mall",
@@ -35236,7 +35236,7 @@
     "longitude": -83.00071,
     "phone": null,
     "services": [],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-legoland-discovery-center-columbus",
@@ -35431,7 +35431,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-legacy-place-new",
@@ -35497,7 +35497,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-the-streets-at-southpoint",
@@ -36016,7 +36016,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-haywood-mall",
@@ -36374,7 +36374,7 @@
     "longitude": -94.57814,
     "phone": null,
     "services": [],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-kansas-city-airport",
@@ -36822,7 +36822,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-oxmoor-centre",
@@ -36888,7 +36888,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-la-plaza-mall",
@@ -37077,7 +37077,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-ridgedale-mall",
@@ -37176,7 +37176,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-pheasant-lane-mall",
@@ -37527,7 +37527,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-christiana-mall-new",
@@ -37557,7 +37557,7 @@
     "longitude": -74.17237,
     "phone": null,
     "services": [],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-new-ark-airport",
@@ -37620,7 +37620,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-penn-square-mall",
@@ -38110,7 +38110,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-short-pump-town-center",
@@ -38173,7 +38173,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-pinnacle-hills",
@@ -38908,7 +38908,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-the-woodlands-mall",
@@ -39041,7 +39041,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-woodland-hills-mall",
@@ -39236,7 +39236,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-jordan-creek",
@@ -39398,7 +39398,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-the-westchester",
@@ -39497,7 +39497,7 @@
       "bam",
       "pab"
     ],
-    "stamps": "unknown",
+    "stamps": "yes",
     "stamps_reason": null,
     "stamps_checked": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-paradise-hcm-cit",

@@ -1,6 +1,6 @@
 # LEGO Stores in Italy
 
-35 stores on record, 34 open, 1 closed.
+34 stores on record, 33 open, 1 closed.
 
 See [Italy on Brick Passport](https://brickstorestamps.com/explore/stores/list/europe/italy) for the stamps collected in these stores.
 
@@ -8,17 +8,17 @@ See [Italy on Brick Passport](https://brickstorestamps.com/explore/stores/list/e
 | --- | --- | --- | --- | --- | --- | --- |
 | [LEGO® Store Arese](https://brickstorestamps.com/stores/store-lego-store-arese) | Arese | Via Giuseppe Eugenio Luraghi, 11, Arese 20020, Italy | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.563241&mlon=9.052326#map=17/45.563241/9.052326) |
 | [LEGO® Store Assago](https://brickstorestamps.com/stores/store-lego-store-assago) | Assago | Viale Milanofiori, Assago, Assago 20090, Italy | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.405603&mlon=9.150428#map=17/45.405603/9.150428) |
-| [LEGO® Store Bari](https://brickstorestamps.com/stores/store-lego-store-bari) | Bari | Via Argiro 51, Bari 70121, Italy | Open | Unknown | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=41.1205827&mlon=16.8732614#map=17/41.1205827/16.8732614) |
+| [LEGO® Store Bari](https://brickstorestamps.com/stores/store-lego-store-bari) | Bari | Via Argiro 51, Bari 70121, Italy | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=41.1205827&mlon=16.8732614#map=17/41.1205827/16.8732614) |
 | [LEGO® Store CC Orio Centre](https://brickstorestamps.com/stores/store-lego-store-cc-orio-centre) | Bergamo | Via Portico 71, Bergamo 24050, Italy | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.664627&mlon=9.694714#map=17/45.664627/9.694714) |
 | [LEGO® Store Bologna](https://brickstorestamps.com/stores/store-lego-store-bologna) | Bologna | Via dell'Indipendenza, 8D, Bologna 40121, Italy | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=44.50424&mlon=11.345337#map=17/44.50424/11.345337) |
 | [LEGO® Store Bolzano](https://brickstorestamps.com/stores/store-lego-store-bolzano) | Bolzano | Waltherpark, Piazza Walther, 22, Bolzano 39100, Italy | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=46.49848&mlon=11.35474#map=17/46.49848/11.35474) |
 | [LEGO® Store Brescia](https://brickstorestamps.com/stores/store-lego-store-brescia) | Brescia | CORSO G. ZANARDELLI 5, Brescia 25121, Italy | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.536602&mlon=10.22097#map=17/45.536602/10.22097) |
 | [LEGO® Store CC Le Vele](https://brickstorestamps.com/stores/store-lego-store-cc-le-vele) | Cagliari | Via delle Serre, 66, Quartucciu CA, Cagliari 9044, Italy | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=39.2172&mlon=9.11331#map=17/39.2172/9.11331) |
 | [LEGO® Store I Gigli](https://brickstorestamps.com/stores/store-lego-store-i-gigli) | Campi Bisenzio | Via San Quirico, 165, 50013 Campi Bisenzio FI, I Gigli 50013, Italy | Open | Unknown | – | [map](https://www.openstreetmap.org/?mlat=43.82163&mlon=11.13668#map=17/43.82163/11.13668) |
-| [LEGOLAND Water Park Gardaland](https://brickstorestamps.com/stores/store-legoland-gardaland) | Castelnuovo del Garda | – | Open | Unknown | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.43974&mlon=10.76158#map=17/45.43974/10.76158) |
+| [LEGOLAND Water Park Gardaland](https://brickstorestamps.com/stores/store-legoland-gardaland) | Castelnuovo del Garda | – | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.43974&mlon=10.76158#map=17/45.43974/10.76158) |
 | [LEGO® Store Catania](https://brickstorestamps.com/stores/store-lego-store-catania) | Catania | COIN VIA ETNEA 116, Catania 95131, Italy | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=37.506134&mlon=15.08666#map=17/37.506134/15.08666) |
 | [LEGO® Store CC Megalo](https://brickstorestamps.com/stores/store-lego-store-cc-megalo) | Chieti | Via Tirino 1, Chieti 66100, Italy | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=42.3625098&mlon=14.1403222#map=17/42.3625098/14.1403222) |
-| [LEGO® Store AIDA Perla](https://brickstorestamps.com/stores/store-lego-store-aida-perla) | Cruise ship | AIDA Cruises, AIDAperla | Open | Unknown | Build a Minifigure, Pick a Brick | – |
+| [LEGO® Store AIDA Perla](https://brickstorestamps.com/stores/store-lego-store-aida-perla) | Cruise ship | AIDA Cruises, AIDAperla | Open | Yes | Build a Minifigure, Pick a Brick | – |
 | [LEGO® Store AIDA Prima](https://brickstorestamps.com/stores/store-lego-store-aida-prima) | Cruise ship | AIDA Cruises, AIDAprima | Open | Yes | Build a Minifigure, Pick a Brick | – |
 | [LEGO® Store Firenze](https://brickstorestamps.com/stores/store-lego-store-firenze) | Florence | VIA DEI CALZAIUOLI 67R - 71R, Firenze 50123, Italy | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=43.7698&mlon=11.25564#map=17/43.7698/11.25564) |
 | [LEGO® Store Genova](https://brickstorestamps.com/stores/store-lego-store-genova) | Genoa | Via Fieschi, 6r, Genova 16121, Italy | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=44.4062564&mlon=8.937419#map=17/44.4062564/8.937419) |
@@ -39,7 +39,6 @@ See [Italy on Brick Passport](https://brickstorestamps.com/explore/stores/list/e
 | [LEGO® Store Roma](https://brickstorestamps.com/stores/store-lego-store-roma) | Rome | Via Tomacelli 141, Roma 00186, Italy | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=41.904859&mlon=12.477477#map=17/41.904859/12.477477) |
 | [LEGO® Store CC Le Gru](https://brickstorestamps.com/stores/store-lego-store-cc-le-gru) | Turin | Via Crea 10, Torino 10095, Italy | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.0548427&mlon=7.6122593#map=17/45.0548427/7.6122593) |
 | [LEGO® Store Torino Via Roma](https://brickstorestamps.com/stores/store-lego-store-torino-via-roma) | Turin | Via Roma 367, Torino 10123, Italy | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.0643532&mlon=7.6803301#map=17/45.0643532/7.6803301) |
-| [LEGO® Store CC Adigeo](https://brickstorestamps.com/stores/store-lego-store-cc-adigeo) | Verona | Via delle Nazioni 1, Verona 37135, Italy | Open | Unknown | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.40155&mlon=10.973205#map=17/45.40155/10.973205) |
-| [LEGO® Store Verona](https://brickstorestamps.com/stores/store-lego-store-verona) | Verona | – | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.4385&mlon=10.99241#map=17/45.4385/10.99241) |
+| [LEGO® Store Verona](https://brickstorestamps.com/stores/store-lego-store-verona) | Verona | Via delle Nazioni 1, Verona 37135, Italy | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.40155&mlon=10.973205#map=17/45.40155/10.973205) |
 
-Last change 2026-10-26. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-11-02. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

@@ -29,4 +29,4 @@
 | [LEGO® Certified Store Termini](https://brickstorestamps.com/stores/store-lego-certified-store-termini) | Rome | Italy | unknown | Stazione Roma Termini, Piazza dei Cinquecento 1, Roma 00185, Italy |
 | [LEGO® Certified Store Rajićeva](https://brickstorestamps.com/stores/store-lego-certified-store-rajiceva) | Belgrade | Serbia | unknown | Rajićeva Shopping Center, Knez Mihailova 54, Beograd 11000, Serbia |
 
-Last change 2026-10-26. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-11-02. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

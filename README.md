@@ -1,10 +1,10 @@
 # Brick Store Directory
 
-An open list of every LEGO® store we know of: **1238 stores** in **58 countries**, 1211 of them open, 3 opening soon, 24 closed.
+An open list of every LEGO® store we know of: **1238 stores** in **59 countries**, 1211 of them open, 3 opening soon, 24 closed.
 
 These are the raw files. The living version, with photos of every stamp, search, a map and the people collecting them, is at [brickstorestamps.com](https://brickstorestamps.com).
 
-Last change **2026-10-26**. The list is rebuilt every Monday; [CHANGELOG.md](CHANGELOG.md) records what moved.
+Last change **2026-11-02**. The list is rebuilt every Monday; [CHANGELOG.md](CHANGELOG.md) records what moved.
 
 ## What is in here
 
@@ -21,11 +21,11 @@ Last change **2026-10-26**. The list is rebuilt every Monday; [CHANGELOG.md](CHA
 
 | Continent | Stores |
 | --- | --- |
-| Europe | 212 |
+| Europe | 211 |
 | North America | 220 |
 | Central America | 5 |
 | South America | 45 |
-| Asia | 699 |
+| Asia | 700 |
 | Asia/Europe | 15 |
 | Africa | 8 |
 | Oceania | 34 |
@@ -36,6 +36,7 @@ Last change **2026-10-26**. The list is rebuilt every Monday; [CHANGELOG.md](CHA
 | --- | --- | --- | --- | --- |
 | [Australia](stores/australia.md) | 30 | 28 | 0 | 2 |
 | [Austria](stores/austria.md) | 2 | 2 | 0 | 0 |
+| [Azerbaijan](stores/azerbaijan.md) | 1 | 1 | 0 | 0 |
 | [Bahrain](stores/bahrain.md) | 1 | 1 | 0 | 0 |
 | [Belgium](stores/belgium.md) | 3 | 3 | 0 | 0 |
 | [Bosnia and Herzegovina](stores/bosnia-and-herzegovina.md) | 1 | 1 | 0 | 0 |
@@ -60,7 +61,7 @@ Last change **2026-10-26**. The list is rebuilt every Monday; [CHANGELOG.md](CHA
 | [Indonesia](stores/indonesia.md) | 26 | 26 | 0 | 0 |
 | [Ireland](stores/ireland.md) | 2 | 2 | 0 | 0 |
 | [Israel](stores/israel.md) | 11 | 11 | 0 | 0 |
-| [Italy](stores/italy.md) | 35 | 34 | 0 | 1 |
+| [Italy](stores/italy.md) | 34 | 33 | 0 | 1 |
 | [Japan](stores/japan.md) | 44 | 42 | 0 | 2 |
 | [Kazakhstan](stores/kazakhstan.md) | 1 | 1 | 0 | 0 |
 | [Kuwait](stores/kuwait.md) | 2 | 2 | 0 | 0 |
