@@ -1,6 +1,6 @@
 # LEGO Stores in Netherlands
 
-6 stores on record, 6 open.
+7 stores on record, 7 open.
 
 See [Netherlands on Brick Passport](https://brickstorestamps.com/explore/stores/list/europe/netherlands) for the stamps collected in these stores.
 
@@ -12,5 +12,6 @@ See [Netherlands on Brick Passport](https://brickstorestamps.com/explore/stores/
 | [LEGOLAND Discovery Centre Scheveningen](https://brickstorestamps.com/stores/store-legoland-discovery-centre-scheveningen) | Scheveningen | – | Open | Yes | – | [map](https://www.openstreetmap.org/?mlat=52.10674&mlon=4.27369#map=17/52.10674/4.27369) |
 | [LEGO® Store The Hague](https://brickstorestamps.com/stores/store-lego-store-the-hague) | The Hague | Spuistraat 10, Den Haag 2511 BD, Netherlands | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=52.07724&mlon=4.31114#map=17/52.07724/4.31114) |
 | [LEGO® Store Utrecht](https://brickstorestamps.com/stores/store-lego-store-utrecht) | Utrecht | Hoog Catharijne Mall, Hoog Catharijnepassage 7, Utrecht 3511 WP, Netherlands | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=52.091271&mlon=5.112907#map=17/52.091271/5.112907) |
+| [LEGO® World Utrecht](https://brickstorestamps.com/stores/store-c-lego-world-utrecht-utrecht) | Utrecht | Jaarbeursplein 6, 3521 AP Utrecht | Open | Yes | – | [map](https://www.openstreetmap.org/?mlat=52.08454&mlon=5.10408#map=17/52.08454/5.10408) |
 
-Last change 2026-11-02. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-11-09. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

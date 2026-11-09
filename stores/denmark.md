@@ -1,6 +1,6 @@
 # LEGO Stores in Denmark
 
-10 stores on record, 10 open.
+11 stores on record, 11 open.
 
 See [Denmark on Brick Passport](https://brickstorestamps.com/explore/stores/list/europe/denmark) for the stamps collected in these stores.
 
@@ -16,5 +16,6 @@ See [Denmark on Brick Passport](https://brickstorestamps.com/explore/stores/list
 | [LEGO® Store Copenhagen Airport T3](https://brickstorestamps.com/stores/store-lego-store-copenhagen-airport-t3) | Copenhagen | – | Open | Yes | – | [map](https://www.openstreetmap.org/?mlat=55.68672&mlon=12.57007#map=17/55.68672/12.57007) |
 | [LEGO® Store København](https://brickstorestamps.com/stores/store-lego-store-k-benhavn) | Copenhagen | Vimmelskaftet 37, København 1161, Denmark | Open since 2010-12 | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=55.67857&mlon=12.57589#map=17/55.67857/12.57589) |
 | [LEGO® Store Tivoli Gardens](https://brickstorestamps.com/stores/store-lego-store-tivoli-gardens) | Copenhagen | Vesterbrogade 3, København 1630, Denmark | Open | Yes | Build a Minifigure, Minifigure Factory, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=55.67373614&mlon=12.56856978#map=17/55.67373614/12.56856978) |
+| [Skærbæk Fan Weekend](https://brickstorestamps.com/stores/store-c-sk-rb-k-fan-weekend-sk-rb-k) | Skærbæk | Skærbækcentret, Storegade 46-48, 6780 Skærbæk | Open | Unknown | – | [map](https://www.openstreetmap.org/?mlat=55.15865&mlon=8.75984#map=17/55.15865/8.75984) |
 
-Last change 2026-11-02. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-11-09. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

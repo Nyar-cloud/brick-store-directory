@@ -1894,9 +1894,9 @@
     "country": "Canada",
     "type": "official",
     "closed_year": null,
-    "upcoming": true,
-    "opening_date": "2026-11-06",
-    "opened": null,
+    "upcoming": false,
+    "opening_date": null,
+    "opened": "2026-11-06",
     "closed_on": null,
     "stamps": "unknown",
     "address": "100 City Centre Dr, Level 2, Mississauga L5B 2C9, Canada",
@@ -2626,7 +2626,7 @@
     "opening_date": null,
     "opened": null,
     "closed_on": null,
-    "stamps": "unknown",
+    "stamps": "yes",
     "address": "北京市昌平区南口镇陈庄村八达岭奥特莱斯B区708号",
     "phone": null,
     "services": null,
@@ -16610,6 +16610,34 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     8.75984,
+     55.15865
+    ]
+   },
+   "properties": {
+    "id": "store-c-sk-rb-k-fan-weekend-sk-rb-k",
+    "name": "Skærbæk Fan Weekend",
+    "name_local": null,
+    "city": "Skærbæk",
+    "country": "Denmark",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "opened": null,
+    "closed_on": null,
+    "stamps": "unknown",
+    "address": "Skærbækcentret, Storegade 46-48, 6780 Skærbæk",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-sk-rb-k-fan-weekend-sk-rb-k"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.7631,
      9.0313
     ]
@@ -20294,7 +20322,7 @@
     "opening_date": null,
     "opened": null,
     "closed_on": null,
-    "stamps": "unknown",
+    "stamps": "yes",
     "address": "Via San Quirico, 165, 50013 Campi Bisenzio FI, I Gigli 50013, Italy",
     "phone": "+39 055 0790767",
     "services": null,
@@ -24247,6 +24275,34 @@
     "phone": "+31 30 899 3546",
     "services": "bam, pab",
     "url": "https://brickstorestamps.com/stores/store-lego-store-utrecht"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.10408,
+     52.08454
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-world-utrecht-utrecht",
+    "name": "LEGO® World Utrecht",
+    "name_local": null,
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "type": "official",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "opened": null,
+    "closed_on": null,
+    "stamps": "yes",
+    "address": "Jaarbeursplein 6, 3521 AP Utrecht",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-world-utrecht-utrecht"
    }
   },
   {
@@ -28218,7 +28274,7 @@
     "opening_date": null,
     "opened": null,
     "closed_on": null,
-    "stamps": "yes",
+    "stamps": "unknown",
     "address": "One Bangkok Mall, Unit 2 - 1226 Wireless Road, Lumphini, Patumwan, Bangkok 10330, Thailand",
     "phone": "+66 2 000 2264",
     "services": null,
@@ -28778,7 +28834,7 @@
     "opening_date": null,
     "opened": null,
     "closed_on": null,
-    "stamps": "unknown",
+    "stamps": "yes",
     "address": "Atlantis, The Palm, Crescent Road, Palm Jumeirah, Dubai, United Arab Emirates",
     "phone": null,
     "services": null,
@@ -28834,7 +28890,7 @@
     "opening_date": null,
     "opened": null,
     "closed_on": null,
-    "stamps": "unknown",
+    "stamps": "yes",
     "address": "Dubai Hills Mall, Lower Ground Floor, Al Khail Rd, Hadaeq Sheikh Mohammed Bin Rashid, Dubai, United Arab Emirates",
     "phone": null,
     "services": null,
@@ -28974,7 +29030,7 @@
     "opening_date": null,
     "opened": null,
     "closed_on": null,
-    "stamps": "unknown",
+    "stamps": "yes",
     "address": "Level 2 ,Near Kidzania The Dubai Mall, Downtown, Dubai, United Arab Emirates",
     "phone": "+971043327748",
     "services": "bam, pab",
@@ -29898,7 +29954,7 @@
     "opening_date": null,
     "opened": null,
     "closed_on": null,
-    "stamps": "unknown",
+    "stamps": "yes",
     "address": null,
     "phone": null,
     "services": "bam, pab",
