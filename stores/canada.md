@@ -25,4 +25,4 @@ See [Canada on Brick Passport](https://brickstorestamps.com/explore/stores/list/
 | [LEGO® Store Oakridge Centre](https://brickstorestamps.com/stores/store-lego-store-oakridge-centre) | Vancouver | Oakridge Centre, 650 W 41st Ave, Vancouver V5Z 2M9, Canada | **Closed 2020** | Yes | – | [map](https://www.openstreetmap.org/?mlat=49.23173&mlon=-123.11812#map=17/49.23173/-123.11812) |
 | [LEGO® Store Winnipeg](https://brickstorestamps.com/stores/store-lego-store-winnipeg) | Winnipeg | 1485 Portage Avenue Unit 0210A, Winnipeg R3G 0W4, Canada | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=49.89554&mlon=-97.13846#map=17/49.89554/-97.13846) |
 
-Last change 2026-11-09. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-11-16. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

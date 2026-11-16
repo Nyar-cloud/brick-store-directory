@@ -41,4 +41,4 @@ See [Italy on Brick Passport](https://brickstorestamps.com/explore/stores/list/e
 | [LEGO® Store Torino Via Roma](https://brickstorestamps.com/stores/store-lego-store-torino-via-roma) | Turin | Via Roma 367, Torino 10123, Italy | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.0643532&mlon=7.6803301#map=17/45.0643532/7.6803301) |
 | [LEGO® Store Verona](https://brickstorestamps.com/stores/store-lego-store-verona) | Verona | Via delle Nazioni 1, Verona 37135, Italy | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=45.40155&mlon=10.973205#map=17/45.40155/10.973205) |
 
-Last change 2026-11-09. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-11-16. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

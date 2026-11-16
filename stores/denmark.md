@@ -18,4 +18,4 @@ See [Denmark on Brick Passport](https://brickstorestamps.com/explore/stores/list
 | [LEGO® Store Tivoli Gardens](https://brickstorestamps.com/stores/store-lego-store-tivoli-gardens) | Copenhagen | Vesterbrogade 3, København 1630, Denmark | Open | Yes | Build a Minifigure, Minifigure Factory, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=55.67373614&mlon=12.56856978#map=17/55.67373614/12.56856978) |
 | [Skærbæk Fan Weekend](https://brickstorestamps.com/stores/store-c-sk-rb-k-fan-weekend-sk-rb-k) | Skærbæk | Skærbækcentret, Storegade 46-48, 6780 Skærbæk | Open | Unknown | – | [map](https://www.openstreetmap.org/?mlat=55.15865&mlon=8.75984#map=17/55.15865/8.75984) |
 
-Last change 2026-11-09. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-11-16. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

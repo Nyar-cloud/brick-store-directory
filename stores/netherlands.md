@@ -14,4 +14,4 @@ See [Netherlands on Brick Passport](https://brickstorestamps.com/explore/stores/
 | [LEGO® Store Utrecht](https://brickstorestamps.com/stores/store-lego-store-utrecht) | Utrecht | Hoog Catharijne Mall, Hoog Catharijnepassage 7, Utrecht 3511 WP, Netherlands | Open | Yes | Build a Minifigure, Pick a Brick | [map](https://www.openstreetmap.org/?mlat=52.091271&mlon=5.112907#map=17/52.091271/5.112907) |
 | [LEGO® World Utrecht](https://brickstorestamps.com/stores/store-c-lego-world-utrecht-utrecht) | Utrecht | Jaarbeursplein 6, 3521 AP Utrecht | Open | Yes | – | [map](https://www.openstreetmap.org/?mlat=52.08454&mlon=5.10408#map=17/52.08454/5.10408) |
 
-Last change 2026-11-09. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-11-16. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.

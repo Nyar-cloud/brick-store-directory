@@ -22523,6 +22523,34 @@
     ]
    },
    "properties": {
+    "id": "store-c-lego-home-the-exchange-trx-kuala-lumpur",
+    "name": "LEGO® Home The Exchange TRX",
+    "name_local": null,
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "type": "popup",
+    "closed_year": 2025,
+    "upcoming": false,
+    "opening_date": null,
+    "opened": null,
+    "closed_on": null,
+    "stamps": "yes",
+    "address": "Central Exchange, Ground Floor, The Exchange TRX, Persiaran TRX, 55188 Kuala Lumpur, Malaysia",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-home-the-exchange-trx-kuala-lumpur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     101.7188,
+     3.1422
+    ]
+   },
+   "properties": {
     "id": "store-c-lego-parisian-cafe-and-art-gallery-kuala-lumpur",
     "name": "LEGO® Parisian Café and Art Gallery",
     "name_local": null,
@@ -22539,6 +22567,34 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-c-lego-parisian-cafe-and-art-gallery-kuala-lumpur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     101.7003,
+     3.1417
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-santa-s-toy-factory-kuala-lumpur",
+    "name": "LEGO® Santa's Toy Factory",
+    "name_local": null,
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "type": "popup",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "opened": null,
+    "closed_on": null,
+    "stamps": "yes",
+    "address": "Level 4, The Atmosphere, 118 Mall, Merdeka 118, Kuala Lumpur, Malaysia",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-santa-s-toy-factory-kuala-lumpur"
    }
   },
   {
@@ -26102,6 +26158,146 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     103.8645,
+     1.2841
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-holiday-pop-up-gardens-by-the-bay-singapur",
+    "name": "LEGO® Holiday Pop-up Gardens by the Bay",
+    "name_local": null,
+    "city": "Singapore",
+    "country": "Singapore",
+    "type": "popup",
+    "closed_year": 2026,
+    "upcoming": false,
+    "opening_date": null,
+    "opened": null,
+    "closed_on": null,
+    "stamps": "yes",
+    "address": "Foyer next to the Main Ticketing Counter, Flower Dome, Gardens by the Bay, 18 Marina Gardens Dr, Singapore 018953, Singapore",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-holiday-pop-up-gardens-by-the-bay-singapur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.8488,
+     1.3504
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-holiday-pop-up-junction-8-singapur",
+    "name": "LEGO® Holiday Pop-up Junction 8",
+    "name_local": null,
+    "city": "Singapore",
+    "country": "Singapore",
+    "type": "popup",
+    "closed_year": 2024,
+    "upcoming": false,
+    "opening_date": null,
+    "opened": null,
+    "closed_on": null,
+    "stamps": "yes",
+    "address": "Level 2 Atrium A, Junction 8, 9 Bishan Place, Singapore 579837, Singapore",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-holiday-pop-up-junction-8-singapur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.8452,
+     1.3007
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-holiday-pop-up-plaza-singapura-singapur",
+    "name": "LEGO® Holiday Pop-up Plaza Singapura",
+    "name_local": null,
+    "city": "Singapore",
+    "country": "Singapore",
+    "type": "popup",
+    "closed_year": 2024,
+    "upcoming": false,
+    "opening_date": null,
+    "opened": null,
+    "closed_on": null,
+    "stamps": "yes",
+    "address": "Main Atrium, Plaza Singapura, 68 Orchard Rd, Singapore 238839, Singapore",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-holiday-pop-up-plaza-singapura-singapur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.7427,
+     1.3343
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-holiday-pop-up-westgate-singapur",
+    "name": "LEGO® Holiday Pop-up Westgate",
+    "name_local": null,
+    "city": "Singapore",
+    "country": "Singapore",
+    "type": "popup",
+    "closed_year": 2024,
+    "upcoming": false,
+    "opening_date": null,
+    "opened": null,
+    "closed_on": null,
+    "stamps": "yes",
+    "address": "Westgate, 3 Gateway Dr, Singapore 608532, Singapore",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-holiday-pop-up-westgate-singapur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.8343,
+     1.3026
+    ]
+   },
+   "properties": {
+    "id": "store-c-lego-santa-s-toy-factory-singapur",
+    "name": "LEGO® Santa's Toy Factory",
+    "name_local": null,
+    "city": "Singapore",
+    "country": "Singapore",
+    "type": "popup",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "opened": null,
+    "closed_on": null,
+    "stamps": "yes",
+    "address": "Civic Plaza, Ngee Ann City, 391 Orchard Road, Singapore 238872, Singapore",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-lego-santa-s-toy-factory-singapur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      103.895119,
      1.3923953
     ]
@@ -29350,6 +29546,34 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -4.26505,
+     55.85745
+    ]
+   },
+   "properties": {
+    "id": "store-c-the-lego-giftmas-workshop-glasgow",
+    "name": "The LEGO® Giftmas Workshop",
+    "name_local": null,
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "type": "popup",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "opened": null,
+    "closed_on": null,
+    "stamps": "yes",
+    "address": "Bridge Gardens, 60 Washington Street, Glasgow G3 8AZ, United Kingdom",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-the-lego-giftmas-workshop-glasgow"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -1.54379,
      53.79742
     ]
@@ -29630,6 +29854,34 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -0.09135,
+     51.50565
+    ]
+   },
+   "properties": {
+    "id": "store-c-the-lego-giftmas-workshop-london",
+    "name": "The LEGO® Giftmas Workshop",
+    "name_local": null,
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "popup",
+    "closed_year": 2026,
+    "upcoming": false,
+    "opening_date": null,
+    "opened": null,
+    "closed_on": null,
+    "stamps": "yes",
+    "address": "Borough Yards, Stoney Street, London SE1 9AD, United Kingdom",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-the-lego-giftmas-workshop-london"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -2.241209103,
      53.48377662
     ]
@@ -29735,6 +29987,34 @@
     "phone": null,
     "services": null,
     "url": "https://brickstorestamps.com/stores/store-lego-store-manchester-airport"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.25365,
+     53.48125
+    ]
+   },
+   "properties": {
+    "id": "store-c-the-lego-giftmas-workshop-manchester",
+    "name": "The LEGO® Giftmas Workshop",
+    "name_local": null,
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "type": "popup",
+    "closed_year": null,
+    "upcoming": false,
+    "opening_date": null,
+    "opened": null,
+    "closed_on": null,
+    "stamps": "yes",
+    "address": "Engine Hall, People's History Museum, Left Bank, Spinningfields, Manchester M3 3ER, United Kingdom",
+    "phone": null,
+    "services": null,
+    "url": "https://brickstorestamps.com/stores/store-c-the-lego-giftmas-workshop-manchester"
    }
   },
   {

@@ -1,6 +1,6 @@
 # Closed LEGO Stores
 
-24 stores that used to exist. Newest closure first; where the year is missing, nobody recorded it.
+30 stores that used to exist. Newest closure first; where the year is missing, nobody recorded it.
 
 | Store | City | Country | Closed | Address |
 | --- | --- | --- | --- | --- |
@@ -8,14 +8,20 @@
 | [LEGO® Store Mingcheng Plaza](https://brickstorestamps.com/stores/store-lego-store-mingcheng-plaza) | Wenzhou | China | 2026 | B1007, 163 Gongyuan Road, Wenzhou, China |
 | [LEGO® Store Fujimi](https://brickstorestamps.com/stores/store-lego-store-fujimi) | Fujimi | Japan | 2026 | – |
 | [LEGO® F1 Pop-up Suntec City](https://brickstorestamps.com/stores/store-c-lego-f1-pop-up-suntec-city-singapur) | Singapore | Singapore | 2026 (pop-up, 2026-10-01 to 2026-10-18) | Suntec City Atrium, Tower 3/4, 3 Temasek Boulevard, Singapore 038983, Singapore |
+| [LEGO® Holiday Pop-up Gardens by the Bay](https://brickstorestamps.com/stores/store-c-lego-holiday-pop-up-gardens-by-the-bay-singapur) | Singapore | Singapore | 2026 (pop-up, 2025-11-23 to 2026-01-04) | Foyer next to the Main Ticketing Counter, Flower Dome, Gardens by the Bay, 18 Marina Gardens Dr, Singapore 018953, Singapore |
 | [The LEGO® Shophouse Experience](https://brickstorestamps.com/stores/store-c-the-lego-shophouse-experience-singapur) | Singapore | Singapore | 2026 (pop-up, 2026-03-13 to 2026-04-05) | Design Orchard, 250 Orchard Rd, Singapore 238905, Singapore |
+| [The LEGO® Giftmas Workshop](https://brickstorestamps.com/stores/store-c-the-lego-giftmas-workshop-london) | London | United Kingdom | 2026 (pop-up, 2026-11-05 to 2026-11-08) | Borough Yards, Stoney Street, London SE1 9AD, United Kingdom |
 | [LEGO® Store Bondi Junction](https://brickstorestamps.com/stores/store-lego-store-bondi-junction) | Sydney | Australia | 2025 | AG LEGO® Certified Store, Westfield Bondi Junction, 500 Oxford St, Bondi Junction NSW 2022, Australia |
 | [LEGO® Flagshipstore Berlin](https://brickstorestamps.com/stores/store-lego-flagshipstore-berlin) | Berlin | Germany | 2025 | Tauentzienstraße 20, Berlin 10789, Germany |
 | [LEGO® Store mozo Wonder City](https://brickstorestamps.com/stores/store-lego-store-mozo-wonder-city) | Nagoya | Japan | 2025 | – |
+| [LEGO® Home The Exchange TRX](https://brickstorestamps.com/stores/store-c-lego-home-the-exchange-trx-kuala-lumpur) | Kuala Lumpur | Malaysia | 2025 (pop-up, 2025-05-28 to 2025-06-08) | Central Exchange, Ground Floor, The Exchange TRX, Persiaran TRX, 55188 Kuala Lumpur, Malaysia |
 | [LEGO® Certified Store Hillion Mall (Pop-up)](https://brickstorestamps.com/stores/store-lego-certified-store-hillion-mall) | Singapore | Singapore | 2025 | Shop B1-02, B1/F, Hillion Mall, 17 Petir Road, Singapore 678278, Singapore |
 | [LEGO® Store North Point Mall](https://brickstorestamps.com/stores/store-lego-store-north-point-mall) | Alpharetta | USA | 2025 | – |
 | [LEGO® Store Northbrook Court](https://brickstorestamps.com/stores/store-lego-store-northbrook-court) | Northbrook | USA | 2025 | 2171 Northbrook Court, Northbrook, Illinois 60062, USA |
 | [LEGO® Parisian Café and Art Gallery](https://brickstorestamps.com/stores/store-c-lego-parisian-cafe-and-art-gallery-kuala-lumpur) | Kuala Lumpur | Malaysia | 2024 (pop-up, 2024-07-31 to 2024-08-25) | Urban Node Atrium, Ground Floor (MRT Plaza Entrance), The Exchange TRX, Persiaran TRX, 55188 Kuala Lumpur, Malaysia |
+| [LEGO® Holiday Pop-up Junction 8](https://brickstorestamps.com/stores/store-c-lego-holiday-pop-up-junction-8-singapur) | Singapore | Singapore | 2024 (pop-up, 2024-12-17 to 2024-12-29) | Level 2 Atrium A, Junction 8, 9 Bishan Place, Singapore 579837, Singapore |
+| [LEGO® Holiday Pop-up Plaza Singapura](https://brickstorestamps.com/stores/store-c-lego-holiday-pop-up-plaza-singapura-singapur) | Singapore | Singapore | 2024 (pop-up, 2024-11-25 to 2024-12-15) | Main Atrium, Plaza Singapura, 68 Orchard Rd, Singapore 238839, Singapore |
+| [LEGO® Holiday Pop-up Westgate](https://brickstorestamps.com/stores/store-c-lego-holiday-pop-up-westgate-singapur) | Singapore | Singapore | 2024 (pop-up, 2024-12-16 to 2024-12-29) | Westgate, 3 Gateway Dr, Singapore 608532, Singapore |
 | [LEGO® Store Skärholmen](https://brickstorestamps.com/stores/store-lego-store-skaerholmen) | Stockholm | Sweden | 2024 | Skärholmen Centrum, Bredholmsgatan 5, Skärholmen 127 48, Sweden |
 | [LEGO® Store Köln (2013-2023)](https://brickstorestamps.com/stores/store-c-lego-store-koeln-hohe-strasse-68-82-koeln) | Cologne | Germany | 2023 | Hohe Straße 68-82, Köln 50667, Germany |
 | [LEGO® Store Queens Center](https://brickstorestamps.com/stores/store-lego-store-queens-center) | New York | USA | 2023 | 90-15 Queens Blvd, Elmhurst, New York 11373, USA |
@@ -29,4 +35,4 @@
 | [LEGO® Certified Store Termini](https://brickstorestamps.com/stores/store-lego-certified-store-termini) | Rome | Italy | unknown | Stazione Roma Termini, Piazza dei Cinquecento 1, Roma 00185, Italy |
 | [LEGO® Certified Store Rajićeva](https://brickstorestamps.com/stores/store-lego-certified-store-rajiceva) | Belgrade | Serbia | unknown | Rajićeva Shopping Center, Knez Mihailova 54, Beograd 11000, Serbia |
 
-Last change 2026-11-09. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
+Last change 2026-11-16. Corrections and new stores: please [open an issue](https://github.com/Nyar-cloud/brick-store-directory/issues/new/choose), the files here are overwritten on every run.
